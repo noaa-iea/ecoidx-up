@@ -1,0 +1,682 @@
+timeseries_id,dataset_id,institution
+cciea_AC_AQUAC_FFISH,cciea_AC,NOAA NWFSC
+cciea_AC_AQUAC_SFISH,cciea_AC,NOAA NWFSC
+cciea_AC_BT,cciea_AC,NOAA NWFSC
+cciea_AC_CFISH_REV,cciea_AC,NOAA NWFSC
+cciea_AC_CFISH_REVCA,cciea_AC,NOAA NWFSC
+cciea_AC_CFISH_REVOR,cciea_AC,NOAA NWFSC
+cciea_AC_CFISH_REVWA,cciea_AC,NOAA NWFSC
+cciea_AC_CMR_SLMN_SP,cciea_AC,NOAA NWFSC
+cciea_AC_CMR_SLMN_SPCA,cciea_AC,NOAA NWFSC
+cciea_AC_CMR_SLMN_SPOR,cciea_AC,NOAA NWFSC
+cciea_AC_CMR_SLMN_SPWA,cciea_AC,NOAA NWFSC
+cciea_AC_CPS_REV,cciea_AC,NOAA NWFSC
+cciea_AC_CPS_REVCA,cciea_AC,NOAA NWFSC
+cciea_AC_CPS_REVOR,cciea_AC,NOAA NWFSC
+cciea_AC_CPS_REVWA,cciea_AC,NOAA NWFSC
+cciea_AC_CPS_SPCA,cciea_AC,NOAA NWFSC
+cciea_AC_CPS_SPCW,cciea_AC,NOAA NWFSC
+cciea_AC_CPS_SPOR,cciea_AC,NOAA NWFSC
+cciea_AC_CPS_SPWA,cciea_AC,NOAA NWFSC
+cciea_AC_CRAB_MN_TK,cciea_AC_mn,pending
+cciea_AC_CRAB_MN_WT,cciea_AC_mn,pending
+cciea_AC_CRAB_REV,cciea_AC,NOAA NWFSC
+cciea_AC_CRAB_REVCA,cciea_AC,NOAA NWFSC
+cciea_AC_CRAB_REVOR,cciea_AC,NOAA NWFSC
+cciea_AC_CRAB_REVWA,cciea_AC,NOAA NWFSC
+cciea_AC_CRAB_SP,cciea_AC,NOAA NWFSC
+cciea_AC_CRAB_SPCA,cciea_AC,NOAA NWFSC
+cciea_AC_CRAB_SPCOR,cciea_AC,NOAA NWFSC
+cciea_AC_CRAB_SPWA,cciea_AC,NOAA NWFSC
+cciea_AC_CSHIP_VDIST,cciea_AC,NOAA NWFSC
+cciea_AC_GFISH_REV,cciea_AC,NOAA NWFSC
+cciea_AC_GFISH_REVCA,cciea_AC,NOAA NWFSC
+cciea_AC_GFISH_REVOR,cciea_AC,NOAA NWFSC
+cciea_AC_GFISH_REVWA,cciea_AC,NOAA NWFSC
+cciea_AC_GFISH_SP,cciea_AC,NOAA NWFSC
+cciea_AC_GFISH_SPCA,cciea_AC,NOAA NWFSC
+cciea_AC_GFISH_SPOR,cciea_AC,NOAA NWFSC
+cciea_AC_GFISH_SPWA,cciea_AC,NOAA NWFSC
+cciea_AC_HMS_REV,cciea_AC,NOAA NWFSC
+cciea_AC_HMS_REVCA,cciea_AC,NOAA NWFSC
+cciea_AC_HMS_REVOR,cciea_AC,NOAA NWFSC
+cciea_AC_HMS_REVWA,cciea_AC,NOAA NWFSC
+cciea_AC_HMS_SP,cciea_AC,NOAA NWFSC
+cciea_AC_HMS_SPCA,cciea_AC,NOAA NWFSC
+cciea_AC_HMS_SPOR,cciea_AC,NOAA NWFSC
+cciea_AC_HMS_SPWA,cciea_AC,NOAA NWFSC
+cciea_AC_MSQ,cciea_AC,NOAA NWFSC
+cciea_AC_MSQ_REV,cciea_AC,NOAA NWFSC
+cciea_AC_MSQ_REVCA,cciea_AC,NOAA NWFSC
+cciea_AC_MSQ_REVOR,cciea_AC,NOAA NWFSC
+cciea_AC_MSQCA,cciea_AC,NOAA NWFSC
+cciea_AC_MSQOR,cciea_AC,NOAA NWFSC
+cciea_AC_NINPUT_FAPP,cciea_AC,NOAA NWFSC
+cciea_AC_OGACTI_OGPROD,cciea_AC,NOAA NWFSC
+cciea_AC_OTHER_REV,cciea_AC,NOAA NWFSC
+cciea_AC_OTHER_REVCA,cciea_AC,NOAA NWFSC
+cciea_AC_OTHER_REVOR,cciea_AC,NOAA NWFSC
+cciea_AC_OTHER_REVWA,cciea_AC,NOAA NWFSC
+cciea_AC_OTHER_SP,cciea_AC,NOAA NWFSC
+cciea_AC_OTHER_SPCA,cciea_AC,NOAA NWFSC
+cciea_AC_OTHER_SPOR,cciea_AC,NOAA NWFSC
+cciea_AC_OTHER_SPWA,cciea_AC,NOAA NWFSC
+cciea_AC_PHAKE_REV,cciea_AC,NOAA NWFSC
+cciea_AC_PHAKE_REVCA,cciea_AC,NOAA NWFSC
+cciea_AC_PHAKE_REVOR,cciea_AC,NOAA NWFSC
+cciea_AC_PHAKE_REVWA,cciea_AC,NOAA NWFSC
+cciea_AC_PHAKE_SP,cciea_AC,NOAA NWFSC
+cciea_AC_PHAKE_SPCA,cciea_AC,NOAA NWFSC
+cciea_AC_PHAKE_SPOR,cciea_AC,NOAA NWFSC
+cciea_AC_PHAKE_SPWA,cciea_AC,NOAA NWFSC
+cciea_AC_REC_SLMN_SP,cciea_AC,NOAA NWFSC
+cciea_AC_REC_SLMN_SPCA,cciea_AC,NOAA NWFSC
+cciea_AC_REC_SLMN_SPOR,cciea_AC,NOAA NWFSC
+cciea_AC_REC_SLMN_SPWA,cciea_AC,NOAA NWFSC
+cciea_AC_RECREAT_SP,cciea_AC,NOAA NWFSC
+cciea_AC_RECREAT_SPCA,cciea_AC,NOAA NWFSC
+cciea_AC_RECREAT_SPOR,cciea_AC,NOAA NWFSC
+cciea_AC_RECREAT_SPWA,cciea_AC,NOAA NWFSC
+cciea_AC_SDEMAND_CFISH,cciea_AC,NOAA NWFSC
+cciea_AC_SDEMAND_PCAP,cciea_AC,NOAA NWFSC
+cciea_AC_SHRMP_REV,cciea_AC,NOAA NWFSC
+cciea_AC_SHRMP_REVCA,cciea_AC,NOAA NWFSC
+cciea_AC_SHRMP_REVOR,cciea_AC,NOAA NWFSC
+cciea_AC_SHRMP_REVWA,cciea_AC,NOAA NWFSC
+cciea_AC_SHRMP_SP,cciea_AC,NOAA NWFSC
+cciea_AC_SHRMP_SPCA,cciea_AC,NOAA NWFSC
+cciea_AC_SHRMP_SPOR,cciea_AC,NOAA NWFSC
+cciea_AC_SHRMP_SPWA,cciea_AC,NOAA NWFSC
+cciea_AC_SLMN_REV,cciea_AC,NOAA NWFSC
+cciea_AC_SLMN_REVCA,cciea_AC,NOAA NWFSC
+cciea_AC_SLMN_REVOR,cciea_AC,NOAA NWFSC
+cciea_AC_SLMN_REVWA,cciea_AC,NOAA NWFSC
+cciea_AC_TOTAL_SP,cciea_AC,NOAA NWFSC
+cciea_AC_TOTAL_SPCA,cciea_AC,NOAA NWFSC
+cciea_AC_TOTAL_SPOR,cciea_AC,NOAA NWFSC
+cciea_AC_TOTAL_SPWA,cciea_AC,NOAA NWFSC
+cciea_B_D_ABC_C_S,cciea_B_AS_DIET,Point Blue Conservation Science
+cciea_B_D_ACM_C_S,cciea_B_AS_DIET,Point Blue Conservation Science
+cciea_B_D_ARA_C_A,cciea_B_AS_DIET,Oikonos/Point Blue Conservation Science
+cciea_B_D_ARA_C_S,cciea_B_AS_DIET,Point Blue Conservation Science
+cciea_B_D_ARA_N,cciea_B_AS_DIET,NOAA NWFSC
+cciea_B_D_FCM_N,cciea_B_AS_DIET,OSU Seabird Oceanography Lab
+cciea_B_D_HCM_N,cciea_B_AS_DIET,OSU Seabird Oceanography Lab
+cciea_B_D_HRA_N,cciea_B_AS_DIET,NOAA NWFSC
+cciea_B_D_LCM_N,cciea_B_AS_DIET,OSU Seabird Oceanography Lab
+cciea_B_D_PCA_C_S,cciea_B_AS_DIET,Point Blue Conservation Science
+cciea_B_D_QRA_C_A,cciea_B_AS_DIET,Oikonos/Point Blue Conservation Science
+cciea_B_D_RBC_C_S,cciea_B_AS_DIET,Point Blue Conservation Science
+cciea_B_D_RCM_C_S,cciea_B_AS_DIET,Point Blue Conservation Science
+cciea_B_D_RCM_N,cciea_B_AS_DIET,OSU Seabird Oceanography Lab
+cciea_B_D_RPG_C_S,cciea_B_AS_DIET,Point Blue Conservation Science
+cciea_B_D_RRA_C_A,cciea_B_AS_DIET,Oikonos/Point Blue Conservation Science
+cciea_B_D_RRA_C_S,cciea_B_AS_DIET,Point Blue Conservation Science
+cciea_B_D_RRA_N,cciea_B_AS_DIET,NOAA NWFSC
+cciea_B_D_SCA_C_S,cciea_B_AS_DIET,Point Blue Conservation Science
+cciea_B_D_SCM_C_S,cciea_B_AS_DIET,Point Blue Conservation Science
+cciea_B_D_SCM_N,cciea_B_AS_DIET,OSU Seabird Oceanography Lab
+cciea_B_D_SRA_C_A,cciea_B_AS_DIET,Oikonos/Point Blue Conservation Science
+cciea_B_D_SRA_N,cciea_B_AS_DIET,NOAA NWFSC
+cciea_B_DA_CA_C,cciea_B_AS_DENS,Farallon Institute
+cciea_B_DA_CA_N,cciea_B_AS_DENS,NOAA NWFSC
+cciea_B_DA_CA_S,cciea_B_AS_DENS,Farallon Institute
+cciea_B_DA_CM_C,cciea_B_AS_DENS,Farallon Institute
+cciea_B_DA_CM_N,cciea_B_AS_DENS,NOAA NWFSC
+cciea_B_DA_CM_S,cciea_B_AS_DENS,Farallon Institute
+cciea_B_DA_SS_C,cciea_B_AS_DENS,Farallon Institute
+cciea_B_DA_SS_N,cciea_B_AS_DENS,NOAA NWFSC
+cciea_B_DA_SS_S,cciea_B_AS_DENS,Farallon Institute
+cciea_B_L_ARA,cciea_B_LEN,Oikonos Ecosystem Knowledge
+cciea_B_M_BC_C,cciea_B_B_MORT,BeachWatch
+cciea_B_M_BC_CS_C,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_BC_CS_N,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_BC_CS_S,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_CA_C,cciea_B_B_MORT,BeachWatch
+cciea_B_M_CA_CS_C,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_CA_CS_N,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_CA_CS_S,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_CA_N,cciea_B_B_MORT,COASST
+cciea_B_M_CM_C,cciea_B_B_MORT,BeachWatch
+cciea_B_M_CM_CS_C,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_CM_CS_N,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_CM_CS_S,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_CM_N,cciea_B_B_MORT,COASST
+cciea_B_M_NF_C,cciea_B_B_MORT,BeachWatch
+cciea_B_M_NF_CS_C,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_NF_CS_N,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_NF_CS_S,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_NF_N,cciea_B_B_MORT,COASST
+cciea_B_M_SS_C,cciea_B_B_MORT,BeachWatch
+cciea_B_M_SS_CS_C,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_SS_CS_N,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_SS_CS_S,cciea_B_B_MORT,BeachCOMBERS
+cciea_B_M_SS_N,cciea_B_B_MORT,COASST
+cciea_B_P_BC_C,cciea_B_PR_ANOM,Point Blue Conservation Science
+cciea_B_P_BC_N,cciea_B_PR_ANOM,OSU Seabird Oceanography Lab
+cciea_B_P_CA_C,cciea_B_PR_ANOM,Point Blue Conservation Science
+cciea_B_P_CM_C,cciea_B_PR_ANOM,Point Blue Conservation Science
+cciea_B_P_CM_N,cciea_B_PR_ANOM,OSU Seabird Oceanography Lab
+cciea_B_P_PC_N,cciea_B_PR_ANOM,OSU Seabird Oceanography Lab
+cciea_B_P_PG_C,cciea_B_PR_ANOM,Point Blue Conservation Science
+cciea_B_P_RA_C,cciea_B_PR_ANOM,Point Blue Conservation Science
+cciea_EI_AEQ_A_OW,cciea_EI_FBN,NOAA NWFSC
+cciea_EI_ANCHO_CC,cciea_EI_FBC_2020,NOAA SWFSC
+cciea_EI_ANCHO_SC,cciea_EI_FBS_2020,NOAA SWFSC
+cciea_EI_AUR_A_CC,cciea_EI_FBC,NOAA SWFSC
+cciea_EI_CHRY_A_CC,cciea_EI_FBC,NOAA SWFSC
+cciea_EI_CHRY_A_OW,cciea_EI_FBN,NOAA NWFSC
+cciea_EI_COOL_SC,cciea_EI_FBS_2020,NOAA SWFSC
+cciea_EI_COP_CBAN,cciea_EI_COP,NOAA NWFSC
+cciea_EI_COP_CBAS,cciea_EI_COP,NOAA NWFSC
+cciea_EI_COP_SPRA,cciea_EI_COP,NOAA NWFSC
+cciea_EI_CROK_SC,cciea_EI_FBS,NOAA SWFSC
+cciea_EI_DA_CCA,cciea_EI_DOMACID_MON_clam,California Department of Public Health
+cciea_EI_DA_CCA_crab,cciea_EI_DOMACID_MON_crab,California Department of Public Health
+cciea_EI_DA_COP,cciea_EI_DOMACID_MON,Washington State Department of Health
+cciea_EI_DA_KAL,cciea_EI_DOMACID_MON,Washington State Department of Health
+cciea_EI_DA_LON,cciea_EI_DOMACID_MON,Washington State Department of Health
+cciea_EI_DA_MOC,cciea_EI_DOMACID_MON,Washington State Department of Health
+cciea_EI_DA_NCA,cciea_EI_DOMACID_MON_clam,California Department of Public Health
+cciea_EI_DA_NCA_crab,cciea_EI_DOMACID_MON_crab,California Department of Public Health
+cciea_EI_DA_ORC,cciea_EI_DOMACID_MON_clam,Oregon Department of Fish and Wildlife
+cciea_EI_DA_ORC_crab,cciea_EI_DOMACID_MON_crab,Oregon Department of Fish and Wildlife
+cciea_EI_DA_QUA,cciea_EI_DOMACID_MON,Washington State Department of Health
+cciea_EI_DA_SND,cciea_EI_DOMACID_MON,Washington State Department of Health
+cciea_EI_DA_TH,cciea_EI_DOMACID_MON,Washington State Department of Health
+cciea_EI_DA_WAC,cciea_EI_DOMACID_MON_clam,Washington State Department of Health
+cciea_EI_DA_WAC_crab,cciea_EI_DOMACID_MON_crab,Washington State Department of Health
+cciea_EI_DA_WIL,cciea_EI_DOMACID_MON,Washington State Department of Health
+cciea_EI_EBLK_SC,cciea_EI_FBS,NOAA SWFSC
+cciea_EI_EGGYK,cciea_EI_FBN,NOAA NWFSC
+cciea_EI_GF_MTL_CW,cciea_EI_MTL,NOAA NWFSC
+cciea_EI_GF_MTL_N,cciea_EI_MTL,NOAA NWFSC
+cciea_EI_GF_MTL_S,cciea_EI_MTL,NOAA NWFSC
+cciea_EI_GF_SIMP_CW,cciea_EI_SIMP,NOAA NWFSC
+cciea_EI_GF_SIMP_N,cciea_EI_SIMP,NOAA NWFSC
+cciea_EI_GF_SIMP_S,cciea_EI_SIMP,NOAA NWFSC
+cciea_EI_GF_SPR_CW,cciea_EI_SP_RICH,NOAA NWFSC
+cciea_EI_GF_SPR_N,cciea_EI_SP_RICH,NOAA NWFSC
+cciea_EI_GF_SPR_S,cciea_EI_SP_RICH,NOAA NWFSC
+cciea_EI_HCI,cciea_EI_HCI,NOAA SWFSC/FED
+cciea_EI_JCHUM_NC,cciea_EI_FBN,NOAA NWFSC
+cciea_EI_JMACK_NC,cciea_EI_FBN,NOAA NWFSC
+cciea_EI_JMACK_SC,cciea_EI_FBS_2020,NOAA SWFSC
+cciea_EI_KRILL_CC,cciea_EI_FBC_2020,NOAA SWFSC
+cciea_EI_KRILLEN,cciea_EI_KRILLEN,NOAA SWFSC; Humboldt State University
+cciea_EI_LAMP_SC,cciea_EI_FBS,NOAA SWFSC
+cciea_EI_MOONJ_NC,cciea_EI_FBN,NOAA NWFSC
+cciea_EI_MSQUI_CC,cciea_EI_FBC_2020,NOAA SWFSC
+cciea_EI_MSQUI_NC,cciea_EI_FBN,NOAA NWFSC
+cciea_EI_MSQUI_SC,cciea_EI_FBS_2020,NOAA SWFSC
+cciea_EI_MYCT_CC,cciea_EI_FBC_2020,NOAA SWFSC
+cciea_EI_OCT_CC,cciea_EI_FBC,NOAA SWFSC
+cciea_EI_PHAKE_CC,cciea_EI_FBC_2020,NOAA SWFSC
+cciea_EI_PHAKE_SC,cciea_EI_FBS_2020,NOAA SWFSC
+cciea_EI_POMP_NC,cciea_EI_FBN,NOAA NWFSC
+cciea_EI_PSAND_CC,cciea_EI_FBC_2020,NOAA SWFSC
+cciea_EI_PYRO_CC,cciea_EI_FBC_2020,NOAA SWFSC
+cciea_EI_ROCKF_CC,cciea_EI_FBC_2020,NOAA SWFSC
+cciea_EI_SAND_SC,cciea_EI_FBS_2020,NOAA SWFSC
+cciea_EI_SARDI_CC,cciea_EI_FBC_2020,NOAA SWFSC
+cciea_EI_SARDI_SC,cciea_EI_FBS_2020,NOAA SWFSC
+cciea_EI_SCAV_CRAB_CW,cciea_EI_CRAB_FINF,NOAA NWFSC
+cciea_EI_SCAV_CRAB_N,cciea_EI_CRAB_FINF,NOAA NWFSC
+cciea_EI_SCAV_CRAB_S,cciea_EI_CRAB_FINF,NOAA NWFSC
+cciea_EI_SCAV_RAT_CW,cciea_EI_SCAV_RAT,NOAA NWFSC
+cciea_EI_SCAV_RAT_N,cciea_EI_SCAV_RAT,NOAA NWFSC
+cciea_EI_SCAV_RAT_S,cciea_EI_SCAV_RAT,NOAA NWFSC
+cciea_EI_SHBRF_SC,cciea_EI_FBS_2020,NOAA SWFSC
+cciea_EI_SMOT_SC,cciea_EI_FBS,NOAA SWFSC
+cciea_EI_SYCHK_NC,cciea_EI_FBN,NOAA NWFSC
+cciea_EI_WARM_SC,cciea_EI_FBS_2020,NOAA SWFSC
+cciea_EI_WH_ENT_BLU,cciea_EI_WH_ENT,NOAA SWFSC
+cciea_EI_WH_ENT_FIN,cciea_EI_WH_ENT,NOAA SWFSC
+cciea_EI_WH_ENT_GRY,cciea_EI_WH_ENT,NOAA SWFSC
+cciea_EI_WH_ENT_HBK,cciea_EI_WH_ENT,NOAA SWFSC
+cciea_EI_WH_ENT_KIL,cciea_EI_WH_ENT,NOAA SWFSC
+cciea_EI_WH_ENT_MKE,cciea_EI_WH_ENT,NOAA SWFSC
+cciea_EI_WH_ENT_SPM,cciea_EI_WH_ENT,NOAA SWFSC
+cciea_EI_WH_ENT_TOT,cciea_EI_WH_ENT,NOAA SWFSC
+cciea_EI_WH_ENT_UOT,cciea_EI_WH_ENT,NOAA SWFSC
+cciea_EI_WH_ENT_UWH,cciea_EI_WH_ENT,NOAA SWFSC
+cciea_EI_YANCH_CC,cciea_EI_FBC_2020,NOAA SWFSC
+cciea_EI_YCHK_NC,cciea_EI_FBN,NOAA NWFSC
+cciea_EI_YCOHO_NC,cciea_EI_FBN,NOAA NWFSC
+cciea_EI_YROCK_NC,cciea_EI_FBN,NOAA NWFSC
+cciea_EI_YSABL_NC,cciea_EI_FBN,NOAA NWFSC
+cciea_EI_YSARD_CC,cciea_EI_FBC_2020,NOAA SWFSC
+cciea_EI_YSOCK_NC,cciea_EI_FBN,NOAA NWFSC
+cciea_GF_ARRO_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_ARRO_TS,cciea_GF_ABND,NOAA NWFSC
+cciea_GF_AURO_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_BGIL_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_BLAC_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_BLCC_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_BLCO_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_BLCW_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_BOCA_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_CABC_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_CABO_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_CABS_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_CANA_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_CHIL_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_CHRC_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_CHRO_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_CHRW_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_COWC_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_DARK_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_DOVE_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_ENGL_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_ENGL_TS,cciea_GF_ABND,NOAA NWFSC
+cciea_GF_FLAT_TS,cciea_GF_ABND,NOAA NWFSC
+cciea_GF_GSPO_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_GSTR_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_KLPG_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_LING_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_LONG_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_LONG_TS,cciea_GF_ABND,NOAA NWFSC
+cciea_GF_LSPI_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_PETR_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_PHAK_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_PPER_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_PSAN_TS,cciea_GF_ABND,NOAA NWFSC
+cciea_GF_REXS_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_ROUG_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_SABL_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_SBEL_TS,cciea_GF_ABND,NOAA NWFSC
+cciea_GF_SDOG_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_SHAR_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_SPLI_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_SRAT_TS,cciea_GF_ABND,NOAA NWFSC
+cciea_GF_SSPI_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_STRI_TS,cciea_GF_ABND,NOAA NWFSC
+cciea_GF_WIDO_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_YEYE_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_GF_YTAI_SA,cciea_GF_STAT,NOAA NWFSC
+cciea_HB_AUGMX_CG,cciea_HB_AUGMX,NOAA NWFSC
+cciea_HB_AUGMX_CU,cciea_HB_AUGMX,NOAA NWFSC
+cciea_HB_AUGMX_ORNC,cciea_HB_AUGMX,NOAA NWFSC
+cciea_HB_AUGMX_SAC,cciea_HB_AUGMX,NOAA NWFSC
+cciea_HB_AUGMX_SS,cciea_HB_AUGMX,NOAA NWFSC
+cciea_HB_FLO1_CCE,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_CU,cciea_HB_FLO1,NOAA NWFSC
+cciea_HB_FLO1_CVF,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_CVS,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_GC,cciea_HB_FLO1,NOAA NWFSC
+cciea_HB_FLO1_LCR,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_MCS,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_OC,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_ORNC,cciea_HB_FLO1,NOAA NWFSC
+cciea_HB_FLO1_PS,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_SAC,cciea_HB_FLO1,NOAA NWFSC
+cciea_HB_FLO1_SCA,cciea_HB_FLO1,NOAA NWFSC
+cciea_HB_FLO1_SF,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_SONC,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_SS,cciea_HB_FLO1,NOAA NWFSC
+cciea_HB_FLO1_SSS,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_SW,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_UCS,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_UCSF,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_UKT,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_UW,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO1_WC,cciea_HB_FLO1_CH,NOAA NWFSC
+cciea_HB_FLO7_CC,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_CG,cciea_HB_FLO7,NOAA NWFSC
+cciea_HB_FLO7_CU,cciea_HB_FLO7,NOAA NWFSC
+cciea_HB_FLO7_CVF,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_CVS,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_LCR,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_MCS,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_OC,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_ORNC,cciea_HB_FLO7,NOAA NWFSC
+cciea_HB_FLO7_PS,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_SAC,cciea_HB_FLO7,NOAA NWFSC
+cciea_HB_FLO7_SCA,cciea_HB_FLO7,NOAA NWFSC
+cciea_HB_FLO7_SF,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_SONC,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_SS,cciea_HB_FLO7,NOAA NWFSC
+cciea_HB_FLO7_SSS,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_SW,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_UCS,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_UCSF,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_UKT,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_UW,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_FLO7_WC,cciea_HB_FLO7_CH,NOAA NWFSC
+cciea_HB_SWE_CG,cciea_HB_SWE,NOAA NWFSC
+cciea_HB_SWE_CU,cciea_HB_SWE,NOAA NWFSC
+cciea_HB_SWE_ORNC,cciea_HB_SWE,NOAA NWFSC
+cciea_HB_SWE_SAC,cciea_HB_SWE,NOAA NWFSC
+cciea_HB_SWE_SS,cciea_HB_SWE,NOAA NWFSC
+cciea_HD_ESI_VESS_100,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_1981_2019_5,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_1981_5,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_2019_5,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_2019_5_100,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_2019_5_125,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_2019_5_25,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_2019_5_41,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_2019_5_5,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_2019_5_80,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_25_100,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_5,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_5_125,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_5_25,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_5_41,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_5_80,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_AST,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_BLL,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_BRG,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_BRK,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_CA_5,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_COS,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_CRS,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_ERK,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_LWC,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_MOS,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_NEW,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_OR_5,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_SB,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_SEA,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_SF,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_SP,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_VEN,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_WA_5,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_ESI_VESS_WPT,cciea_HD_ESI_VESS,NOAA NWFSC/AFSC
+cciea_HD_Fish_Dep_AST,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_BELL,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_BOD,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_COOS,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_CRES,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_ELGR,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_EUR,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_FTBR,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_GARI,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_HMB,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_HUEN,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_ILW,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_LA,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_MCK,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_MOSS,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_NB,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_NEWP,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_SB,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_SD,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_SF,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_TOKE,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_TRIN,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_VEN,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_WIN,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Dep_WPT,cciea_HD_Fish_Dep,NOAA NWFSC
+cciea_HD_Fish_Eng_ANA,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_AST,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_BDG,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_BEL,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_BRK,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_CSB,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_CSC,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_EKA,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_FLR,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_FTB,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_GBI,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_GRA,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_HFB,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_ILW,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_LAP,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_LAX,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_LKF,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_MLD,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_MRO,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_MRY,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_NPT,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_OLY,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_ORD,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_OXN,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_PHN,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_SBA,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_SDO,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_SEA,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_SFO,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_SHC,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_SHL,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_TRN,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_VEN,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_WRB,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Eng_WSP,cciea_HD_Fish_Eng,NOAA NWFSC
+cciea_HD_Fish_Rel_ALB,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_ARN,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_AST,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_AVA,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_AVL,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_BCN,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_BDG,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_BEA,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_BOL,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_CHN,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_CLV,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_CPT,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_CSC,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_DIL,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_DMR,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_DNA,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_EKA,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_FLD,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_FTB,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_GBI,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_GRA,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_ILW,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_LAN,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_LAP,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_LCN,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_LKF,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_LRV,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_MDR,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_MOS,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_NEB,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_NPT,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_ORD,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_PHN,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_RDC,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_SBA,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_SHL,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_SUM,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_TAH,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_TIL,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_TOK,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_TOM,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_TRN,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_VEN,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_WNB,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_WTP,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_Fish_Rel_YAC,cciea_HD_Fish_Rel,NOAA NWFSC
+cciea_HD_NTRIBE_PU,cciea_HD_PU,"NOAA NWFSC, WA Seagrant"
+cciea_HD_Soc_Vuln_Indx_AB,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_AL,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_AN,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_AS,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_AV,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_BB,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_BC,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_BH,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_BO,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_BR,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_BV,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_CB,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_CC,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_CH,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_CL,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_DB,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_DM,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_DP,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_EG,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_EU,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_FB,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_FC,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_FL,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_GB,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_HM,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_IL,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_LA,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_LP,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_LR,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_MB,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_MD,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_ML,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_MR,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_NB,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_NP,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_OL,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_OX,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_PA,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_PH,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_PO,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_RC,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_SB,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_SC,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_SD,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_SE,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_SF,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_SH,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_SM,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_TL,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_TM,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_TR,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_TS,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_VN,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_WB,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_WP,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_Soc_Vuln_Indx_YC,cciea_HD_Soc_Vuln_Indx,NOAA NWFSC
+cciea_HD_TRIBE_PU,cciea_HD_PU,"NOAA NWFSC, WA Seagrant"
+cciea_HMS_ALB_R,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_ALB_SB,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_BE_RO,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_BE_RP,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_BE_SBO,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_BE_SBP,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_BF_R,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_BF_SB,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_BF_TB,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_BM_R,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_BM_SB,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_BM_TB,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_S_EP_TB,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_S_WP_R,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_S_WP_SB,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_SJ_R,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_SJ_SB,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_YF_R,cciea_HMS,NOAA SWFSC/FRD
+cciea_HMS_YF_SB,cciea_HMS,NOAA SWFSC/FRD
+cciea_MM_DOL_BNS,cciea_MM_cetacean,NOAA SWFSC/MMTD
+cciea_MM_DOL_SBK,cciea_MM_cetacean,NOAA SWFSC/MMTD
+cciea_MM_HB_REL,cciea_MM_HB_REL,"Farallon Institute, RREAS surveys"
+cciea_MM_POR_DAL,cciea_MM_cetacean,NOAA SWFSC/MMTD
+cciea_MM_pup_count,cciea_MM_pup_count,NOAA AFSC/MML
+cciea_MM_pup_gr,cciea_MM_pup_count,NOAA AFSC/MML
+cciea_MM_pup_weight,cciea_MM_pup_count,NOAA AFSC/MML
+cciea_MM_WHL_BLU,cciea_MM_cetacean,NOAA SWFSC/MMTD
+cciea_MM_WHL_FIN,cciea_MM_cetacean,NOAA SWFSC/MMTD
+cciea_MM_WHL_GRY,cciea_MM_cetacean,NOAA SWFSC/MMTD
+cciea_MM_WHL_HBK,cciea_MM_cetacean,NOAA SWFSC/MMTD
+cciea_MM_WHL_KIL,cciea_MM_cetacean,NOAA NWFSC
+cciea_OC_ARG1,cciea_OC_ARG,NOAA NWFSC
+cciea_OC_ARG2,cciea_OC_ARG,NOAA NWFSC
+cciea_OC_BEUTI_33,cciea_OC_BEUTI,NOAA/SWFSC/ERD
+cciea_OC_BEUTI_39,cciea_OC_BEUTI,NOAA/SWFSC/ERD
+cciea_OC_BEUTI_45,cciea_OC_BEUTI,NOAA/SWFSC/ERD
+cciea_OC_CUTI_33,cciea_OC_CUTI,NOAA/SWFSC/ERD
+cciea_OC_CUTI_39,cciea_OC_CUTI,NOAA/SWFSC/ERD
+cciea_OC_CUTI_45,cciea_OC_CUTI,NOAA/SWFSC/ERD
+cciea_OC_DO1,cciea_OC_DO,NOAA NWFSC
+cciea_OC_DO2,cciea_OC_DO,NOAA SWFSC
+cciea_OC_DO3,cciea_OC_DO,NOAA SWFSC
+cciea_OC_DO4,cciea_OC_DO,NOAA SWFSC
+cciea_OC_DO5,cciea_OC_DO,NOAA SWFSC
+cciea_OC_LUSI_33,cciea_OC_LUSI,NOAA/SWFSC/ERD
+cciea_OC_LUSI_36,cciea_OC_LUSI,NOAA/SWFSC/ERD
+cciea_OC_LUSI_39,cciea_OC_LUSI,NOAA/SWFSC/ERD
+cciea_OC_LUSI_42,cciea_OC_LUSI,NOAA/SWFSC/ERD
+cciea_OC_LUSI_45,cciea_OC_LUSI,NOAA/SWFSC/ERD
+cciea_OC_LUSI_48,cciea_OC_LUSI,NOAA/SWFSC/ERD
+cciea_OC_MEI,cciea_OC_MEI,"NOAA, Earth System Research Laboratory (ESRL)"
+cciea_OC_MHW_MA,cciea_OC_MHW,NOAA/SWFSC/ERD
+cciea_OC_MHW_MI,cciea_OC_MHW,NOAA/SWFSC/ERD
+cciea_OC_NOI,cciea_OC_NOI,"NOAA, NMPFS, SWFSC, Environmental Research Division (ERD)"
+cciea_OC_NPGO,cciea_OC_NPGO,Georgia Institute of Technology (GT)
+cciea_OC_NPH,cciea_OC_NPH,NOAA SWFSC/ERD
+cciea_OC_NPH_JAN_FEB,cciea_OC_NPH_JF,NOAA SWFSC/ERD
+cciea_OC_ONI,cciea_OC_ONI,"NOAA, Climate Prediction Center (CPC)"
+cciea_OC_PDO,cciea_OC_PDO,"University of Washington, Joint Institue for the Study of the Atmosphere and Ocean (JISAO)"
+cciea_OC_SL1,cciea_OC_SL1,NOAA NWFSC
+cciea_OC_SL2,cciea_OC_SL2,NOAA NWFSC
+cciea_OC_SL3,cciea_OC_SL3,NOAA NWFSC
+cciea_OC_SST1,cciea_OC_SST1,"NOAA NDBC, NOAA"
+cciea_OC_SST2,cciea_OC_SST2,"NOAA NDBC, NOAA"
+cciea_OC_SST3,cciea_OC_SST3,"NOAA NDBC, NOAA"
+cciea_OC_STI_33,cciea_OC_STI,NOAA/SWFSC/ERD
+cciea_OC_STI_36,cciea_OC_STI,NOAA/SWFSC/ERD
+cciea_OC_STI_39,cciea_OC_STI,NOAA/SWFSC/ERD
+cciea_OC_STI_42,cciea_OC_STI,NOAA/SWFSC/ERD
+cciea_OC_STI_45,cciea_OC_STI,NOAA/SWFSC/ERD
+cciea_OC_STI_48,cciea_OC_STI,NOAA/SWFSC/ERD
+cciea_OC_TUMI_33,cciea_OC_TUMI,NOAA/SWFSC/ERD
+cciea_OC_TUMI_36,cciea_OC_TUMI,NOAA/SWFSC/ERD
+cciea_OC_TUMI_39,cciea_OC_TUMI,NOAA/SWFSC/ERD
+cciea_OC_TUMI_42,cciea_OC_TUMI,NOAA/SWFSC/ERD
+cciea_OC_TUMI_45,cciea_OC_TUMI,NOAA/SWFSC/ERD
+cciea_OC_TUMI_48,cciea_OC_TUMI,NOAA/SWFSC/ERD
+cciea_OC_UI1,cciea_OC_UI1,NOAA/SWFSC/ERD
+cciea_OC_UI2,cciea_OC_UI2,NOAA/SWFSC/ERD
+cciea_OC_UI3,cciea_OC_UI3,NOAA/SWFSC/ERD
+cciea_OC_VWND1,cciea_OC_VWND1,"NOAA NDBC, NOAA"
+cciea_OC_VWND2,cciea_OC_VWND2,"NOAA NDBC, NOAA"
+cciea_OC_VWND3,cciea_OC_VWND3,"NOAA NDBC, NOAA"
+cciea_SM_CH_A_CC,cciea_SM_CA_CH_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CH_A_COC,cciea_SM_CA_CH_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CH_A_CV_F,cciea_SM_CA_CH_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CH_A_CV_L,cciea_SM_CA_CH_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CH_A_CV_S,cciea_SM_CA_CH_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CH_A_CV_W,cciea_SM_CA_CH_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CH_A_K_F,cciea_SM_CA_CH_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CH_A_LC,cciea_SM_ORWA_CH_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CH_A_S_F,cciea_SM_ORWA_CH_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CH_A_S_SS,cciea_SM_ORWA_CH_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CH_A_UC_S,cciea_SM_ORWA_CH_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CH_A_W_S,cciea_SM_ORWA_CH_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CAD_COC,cciea_SM_CA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CAD_K,cciea_SM_CA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CAD_LC,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CAD_S_F,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CAD_S_SS,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CAD_UC_S,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CAD_W_S,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPG_CV_F,cciea_SM_CA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPG_KF,cciea_SM_CA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPG_LC,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPG_S_F,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPG_S_SS,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPG_UC_S,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPG_W_S,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPN_COC,cciea_SM_CA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPN_CV_F,cciea_SM_CA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPN_KF,cciea_SM_CA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPN_LC,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPN_S_F,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPN_S_SS,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPN_UC_S,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CH_CPN_W_S,cciea_SM_ORWA_CH_CND,NOAA NWFSC/SWFSC
+cciea_SM_CO_A_CC,cciea_SM_CA_CO_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CO_A_COC,cciea_SM_CA_CO_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CO_A_LC,cciea_SM_ORWA_CO_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CO_A_OC,cciea_SM_ORWA_CO_ABND,NOAA NWFSC/SWFSC
+cciea_SM_CO_CPG_LC,cciea_SM_ORWA_CO_CND,NOAA NWFSC/SWFSC
+cciea_SM_CO_CPG_OC,cciea_SM_ORWA_CO_CND,NOAA NWFSC/SWFSC
+cciea_SM_CO_CPN_LC,cciea_SM_ORWA_CO_CND,NOAA NWFSC/SWFSC
+cciea_SM_CO_CPN_OC,cciea_SM_ORWA_CO_CND,NOAA NWFSC/SWFSC
+cciea_SM_SYCHK_NC,cciea_EI_FBN,NOAA NWFSC
+cciea_SM_YCHK_NC,cciea_EI_FBN,NOAA NWFSC
+cciea_SM_YCOHO_NC,cciea_EI_FBN,NOAA NWFSC
+NA,cciea_EI_DOMACID_county,Washington State Department of Health
+NA,NA,California Department of Public Health
+NA,NA,Oregon Department of Fish and Wildlife
+NA,NA,Washington State Department of Health
+NA,NA,NA

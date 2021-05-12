@@ -1,0 +1,234 @@
+var_id,var_label,var_units
+abundance,Abundance,Total abundance
+abundance,Abundance,NA
+abundance_anomaly,Abundance anomaly,Abundance anomaly
+abundance_index,NA,abundance index
+abundance_index,NA,biomass
+albacore_tuna_recruitment,Recruitment,thousands of fish
+albacore_tuna_spawning_stock_biomass,Spawning Stock Biomass,metric tonnes
+aragonite_saturation,NA,relative to 1
+area_1,NA,km^2
+aug_mean_max,Columbia Glaciated,Temp (deg. C)
+aug_mean_max,Columbia Unglaciated,Temp (deg. C)
+aug_mean_max,Oregon and Northern California Coastal,Temp (deg. C)
+aug_mean_max,Sacramento - San Joaquin & southern California Bight,Temp (deg. C)
+aug_mean_max,Salish Sea,Temp (deg. C)
+average_ESI,Average Effective Shannon Index,Effective Shannon Index
+beuti,BEUTI,mmol s^-1 m^-1
+bigeye_tuna_recruitment_optimistic,Recruitment,thousands of fish
+bigeye_tuna_recruitment_pessimistic,Recruitment,thousands of fish
+bigeye_tuna_spawning_stock_biomass_optimistic,Spawning Stock Biomass,metric tonnes
+bigeye_tuna_spawning_stock_biomass_pessimistic,Spawning Stock Biomass,metric tonnes
+biomass_ratio,NA,Ratio
+blue_marlin_recruitment,Recruitment,thousands of fish
+blue_marlin_spawning_stock_biomass,Spawning Stock Biomass,metric tonnes
+blue_marlin_total_biomass,Total Biomass,metric tonnes
+bluefin_tuna_recruitment,Recruitment,thousands of fish
+bluefin_tuna_spawning_stock_biomass,Spawning Stock Biomass,metric tonnes
+bluefin_tuna_total_biomass,Total Biomass,metric tonnes
+cond_age_div,NA,Shannon-Weaver
+cond_pct_nat,NA,Percent natural fish returning
+cond_pop_gr,NA,Population growth rate
+condition,Condition,Percent natural fish returning
+condition,Condition,Population growth rate
+condition,Condition,Shannon-Weaver
+consumption_fish,Millions of metric tons,Millions of metric tons
+consumption_per_cap,Per capita utilization(kg),kg
+copepod_species_richness_anomaly,NA,anomaly
+cps_landings_ca,Landings (1000s mt),1000s metric tons
+cps_landings_coastwide,Landings (1000s mt),1000s metric tons
+cps_landings_or,Landings (1000s mt),1000s metric tons
+cps_landings_wa,Landings (1000s mt),1000s metric tons
+cps_revenue_ca,Revenue (millions $),Millions $ (year 2015)
+cps_revenue_coastwide,Revenue (millions $),Millions $ (year 2015)
+cps_revenue_or,Revenue (millions $),Millions $ (year 2015)
+cps_revenue_wa,Revenue (millions $),Millions $ (year 2015)
+crab_landings,Landings (weight),tons
+crab_landings_ca,Landings (1000s mt),1000s metric tons
+crab_landings_coastwide,Landings (1000s mt),1000s metric tons
+crab_landings_or,Landings (1000s mt),1000s metric tons
+crab_landings_wa,Landings (1000s mt),1000s metric tons
+crab_revenue_ca,Revenue (millions $),Millions $ (year 2015)
+crab_revenue_coastwide,Revenue (millions $),Millions $ (year 2015)
+crab_revenue_or,Revenue (millions $),Millions $ (year 2015)
+crab_revenue_wa,Revenue (millions $),Millions $ (year 2015)
+cuti,CUTI,m^2 s^(-1)
+demoic_acid_concentration,Maximum Demoic Acid Concentration,Monthly max (ppm)
+density_anomaly,Density anomaly,anomaly
+dissolved_oxygen,NA,ml/L
+domoic_acid_concentration,Maximum Domoic Acid Concentration,Monthly max (ppm)
+encounter_rate,Encounter Rate,Mean carcasses/km
+fertilizer_applications,Normalized sum of N & P,Normalized index
+finfish_production,Production (1000s mt),1000s mt
+fish_tickets,Landings (tickets),tickets
+fishing_dependence,Fishing dependence composite index,Index
+fishing_engagement,Commercial fishing engagement index,Index
+fishing_reliance,Commercial fishing reliance index,Index
+flow_anomaly_1_day_max,California Coast,1-day max flow anomaly
+flow_anomaly_1_day_max,Central Valley Fall late Fall,1-day max flow anomaly
+flow_anomaly_1_day_max,Central Valley Spring,1-day max flow anomaly
+flow_anomaly_1_day_max,Columbia Glaciated,1-day max flow anomaly
+flow_anomaly_1_day_max,Columbia Unglaciated,1-day max flow anomaly
+flow_anomaly_1_day_max,Lower Columbia River,1-day max flow anomaly
+flow_anomaly_1_day_max,Mid-Columbia Spring,1-day max flow anomaly
+flow_anomaly_1_day_max,OR - N CA Coastal,1-day max flow anomaly
+flow_anomaly_1_day_max,Oregon Coast,1-day max flow anomaly
+flow_anomaly_1_day_max,Puget Sound,1-day max flow anomaly
+flow_anomaly_1_day_max,S. Oregon N. California coast,1-day max flow anomaly
+flow_anomaly_1_day_max,Sac - San Joaquin,1-day max flow anomaly
+flow_anomaly_1_day_max,Sacramento Winter,1-day max flow anomaly
+flow_anomaly_1_day_max,Salish Sea & WA coast,1-day max flow anomaly
+flow_anomaly_1_day_max,Snake River Fall,1-day max flow anomaly
+flow_anomaly_1_day_max,Snake River Spring Summer,1-day max flow anomaly
+flow_anomaly_1_day_max,Southern CA Bight,1-day max flow anomaly
+flow_anomaly_1_day_max,Upper Columbia Spring,1-day max flow anomaly
+flow_anomaly_1_day_max,Upper Columbia Summer Fall,1-day max flow anomaly
+flow_anomaly_1_day_max,Upper Klamath Trinity River,1-day max flow anomaly
+flow_anomaly_1_day_max,Upper Willamette River,1-day max flow anomaly
+flow_anomaly_1_day_max,Washington coast,1-day max flow anomaly
+flow_anomaly_7_day_min,California Coast,7-day min flow anomaly
+flow_anomaly_7_day_min,Central Valley Fall late Fall,7-day min flow anomaly
+flow_anomaly_7_day_min,Central Valley Spring,7-day min flow anomaly
+flow_anomaly_7_day_min,Columbia Glaciated,7-day min flow anomaly
+flow_anomaly_7_day_min,Columbia Unglaciated,7-day min flow anomaly
+flow_anomaly_7_day_min,Lower Columbia River,7-day min flow anomaly
+flow_anomaly_7_day_min,Mid-Columbia Spring,7-day min flow anomaly
+flow_anomaly_7_day_min,OR - N CA Coastal,7-day min flow anomaly
+flow_anomaly_7_day_min,Oregon Coast,7-day min flow anomaly
+flow_anomaly_7_day_min,Puget Sound,7-day min flow anomaly
+flow_anomaly_7_day_min,S. Oregon N. California coast,7-day min flow anomaly
+flow_anomaly_7_day_min,Sac - San Joaquin,7-day min flow anomaly
+flow_anomaly_7_day_min,Sacramento Winter,7-day min flow anomaly
+flow_anomaly_7_day_min,Salish Sea & WA coast,7-day min flow anomaly
+flow_anomaly_7_day_min,Snake River Fall,7-day min flow anomaly
+flow_anomaly_7_day_min,Snake River Spring Summer,7-day min flow anomaly
+flow_anomaly_7_day_min,Southern CA Bight,7-day min flow anomaly
+flow_anomaly_7_day_min,Upper Columbia Spring,7-day min flow anomaly
+flow_anomaly_7_day_min,Upper Columbia Summer Fall,7-day min flow anomaly
+flow_anomaly_7_day_min,Upper Klamath Trinity River,7-day min flow anomaly
+flow_anomaly_7_day_min,Upper Willamette River,7-day min flow anomaly
+flow_anomaly_7_day_min,Washington coast,7-day min flow anomaly
+fork_length,Fork length,millimeters
+groundfish_landings_ca,Landings (1000s mt),1000s metric tons
+groundfish_landings_coastwide,Landings (1000s mt),1000s metric tons
+groundfish_landings_or,Landings (1000s mt),1000s metric tons
+groundfish_landings_wa,Landings (1000s mt),1000s metric tons
+groundfish_revenue_ca,Revenue (millions $),Millions $ (year 2015)
+groundfish_revenue_coastwide,Revenue (millions $),Millions $ (year 2015)
+groundfish_revenue_or,Revenue (millions $),Millions $ (year 2015)
+groundfish_revenue_wa,Revenue (millions $),Millions $ (year 2015)
+habitat_modification,1000s km,Weighted 1000s km
+hci_regn3,Habitat Area 35.5-40N,fraction below monthly threshold
+hms_landings_ca,Landings (1000s mt),1000s metric tons
+hms_landings_coastwide,Landings (1000s mt),1000s metric tons
+hms_landings_or,Landings (1000s mt),1000s metric tons
+hms_landings_wa,Landings (1000s mt),1000s metric tons
+hms_revenue_ca,Revenue (millions $),Millions $ (year 2015)
+hms_revenue_coastwide,Revenue (millions $),Millions $ (year 2015)
+hms_revenue_or,Revenue (millions $),Millions $ (year 2015)
+hms_revenue_wa,Revenue (millions $),Millions $ (year 2015)
+humpback_anomaly,Relative abundance,Individuals / 3 km
+humpback_rate,Relative abundance,Individuals / 3 km
+intensity_1,NA,STDEV's from normal
+live_pup_count,Average live pup count,numbers
+lusi,LUSI,days
+mean_cpue,Mean CPUE,ln(catch+1)
+mean_density,Mean Density,Linear density (Log10(no. km-1+ 1)).
+mean_growth_rate,Mean growth rate (kg/d),kg/day
+mean_length,Carapace length,length (mm)
+mean_trophic_level,NA,MTL
+mean_weight,Mean weight (kg),kg
+MEI,NA,Standardized Departure
+NOI,NA,mb
+northern_copepod_biomass_anomaly,mg C -m3,Biomass anomaly
+NPGO,NA,Normalized
+nph_area,NPH Area,10^6 km^2
+number_of_entanglements,Number of Entanglements,NA
+oil_gas_production,Oil & gas production,Normalized index
+ONI,NA,degree_C
+other_species_landings_ca,Landings (1000s mt),1000s metric tons
+other_species_landings_coastwide,Landings (1000s mt),1000s metric tons
+other_species_landings_or,Landings (1000s mt),1000s metric tons
+other_species_landings_wa,Landings (1000s mt),1000s metric tons
+other_species_revenue_ca,Revenue (millions $),Millions $ (year 2015)
+other_species_revenue_coastwide,Revenue (millions $),Millions $ (year 2015)
+other_species_revenue_or,Revenue (millions $),Millions $ (year 2015)
+other_species_revenue_wa,Revenue (millions $),Millions $ (year 2015)
+pacific_hake_landings_ca,Landings (1000s mt),1000s metric tons
+pacific_hake_landings_coastwide,Landings (1000s mt),1000s metric tons
+pacific_hake_landings_or,Landings (1000s mt),1000s metric tons
+pacific_hake_landings_wa,Landings (1000s mt),1000s metric tons
+pacific_hake_revenue_ca,Revenue (millions $),Millions $ (year 2015)
+pacific_hake_revenue_coastwide,Revenue (millions $),Millions $ (year 2015)
+pacific_hake_revenue_or,Revenue (millions $),Millions $ (year 2015)
+pacific_hake_revenue_wa,Revenue (millions $),Millions $ (year 2015)
+PDO,NA,Normalized
+percent_diet,Percent Observed Diet,% observed diet
+personal_catch,Personal Catch,Tons - 2000 lbs
+productivity_anomaly,Productivity anomaly,Anomaly
+recreational_landings_ca,Landings (1000s mt),1000s metric tons
+recreational_landings_coastwide,Landings (1000s mt),1000s metric tons
+recreational_landings_or,Landings (1000s mt),1000s metric tons
+recreational_landings_wa,Landings (1000s mt),1000s metric tons
+relative_abundance,Relative abundance,ln(abundance+1)
+relative_stock_status,NA,relative biomass
+salmon_com_landings_ca,Landings (1000s mt),1000s metric tons
+salmon_com_landings_coastwide,Landings (1000s mt),1000s metric tons
+salmon_com_landings_or,Landings (1000s mt),1000s metric tons
+salmon_com_landings_wa,Landings (1000s mt),1000s metric tons
+salmon_rec_landings_ca,Landings (1000s fish),1000s fish
+salmon_rec_landings_coastwide,Landings (1000s fish),1000s fish
+salmon_rec_landings_or,Landings (1000s fish),1000s fish
+salmon_rec_landings_wa,Landings (1000s fish),1000s fish
+salmon_revenue_ca,Revenue (millions $),Millions $ (year 2015)
+salmon_revenue_coastwide,Revenue (millions $),Millions $ (year 2015)
+salmon_revenue_or,Revenue (millions $),Millions $ (year 2015)
+salmon_revenue_wa,Revenue (millions $),Millions $ (year 2015)
+sea_level,NA,mm
+shellfish_production,Production (1000s mt),metric tons
+shipping_distance_traveled,Millions of km,Millions of km
+shrimp_landings_ca,Landings (1000s mt),1000s metric tons
+shrimp_landings_coastwide,Landings (1000s mt),1000s metric tons
+shrimp_landings_or,Landings (1000s mt),1000s metric tons
+shrimp_landings_wa,Landings (1000s mt),1000s metric tons
+shrimp_revenue_ca,Revenue (millions $),Millions $ (year 2015)
+shrimp_revenue_coastwide,Revenue (millions $),Millions $ (year 2015)
+shrimp_revenue_or,Revenue (millions $),Millions $ (year 2015)
+shrimp_revenue_wa,Revenue (millions $),Millions $ (year 2015)
+simpson_diversity,NA,1-lambda
+skipjack_tuna_biomass,Relative Biomass Index,metric tonnes
+skipjack_tuna_recruitment,Recruitment Index,thousands of fish
+social_vulnerability_index,Community social vulnerability index score,Index
+southern_copepod_biomass_anomaly,mg C -m3,Biomass anomaly
+species_richness,NA,Spp per 5020 indiv
+squid_landings_ca,Landings (1000s mt),1000s metric tons
+squid_landings_coastwide,Landings (1000s mt),1000s metric tons
+squid_landings_or,Landings (1000s mt),1000s metric tons
+squid_revenue_ca,Revenue (millions $),Millions $ (year 2015)
+squid_revenue_coastwide,Revenue (millions $),Millions $ (year 2015)
+squid_revenue_or,Revenue (millions $),Millions $ (year 2015)
+SST,NA,degree_C
+sti,STI,yearday
+SWE_anomaly,Columbia Glaciated,April 1 anomaly
+SWE_anomaly,Columbia Unglaciated,April 1 anomaly
+SWE_anomaly,OR - N CA Coastal,April 1 anomaly
+SWE_anomaly,Sac - San Joaquin,April 1 anomaly
+SWE_anomaly,Salish Sea & WA coast,April 1 anomaly
+swordfish_eastern_pacific_exploitable_total_biomass,Total Biomass,metric tonnes
+swordfish_western_central_pacific_exploitable_recruitment,Recruitment,thousands of fish
+swordfish_western_central_pacific_spawning_stock_biomass,Total Biomass,metric tonnes
+total_fisheries_landings_ca,Landings (1000s mt),1000s metric tons
+total_fisheries_landings_coastwide,Landings (1000s mt),1000s metric tons
+total_fisheries_landings_or,Landings (1000s mt),1000s metric tons
+total_fisheries_landings_wa,Landings (1000s mt),1000s metric tons
+total_fisheries_revenue_ca,Revenue (millions $),Millions $ (year 2015)
+total_fisheries_revenue_coastwide,Revenue (millions $),Millions $ (year 2015)
+total_fisheries_revenue_or,Revenue (millions $),Millions $ (year 2015)
+total_fisheries_revenue_wa,Revenue (millions $),Millions $ (year 2015)
+tumi,TUMI,m^3/s/100m coastline
+upwelling_index,NA,m^3/s/100m coastline
+vwnd,NA,m s-1
+yellowfin_tuna_recruitment,Recruitment,thousands of fish
+yellowfin_tuna_spawning_stock_biomass_index,Spawning Stock Biomass Index,metric tonnes
+NA,NA,Index
+NA,NA,NA

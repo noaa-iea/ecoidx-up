@@ -1,0 +1,503 @@
+dataset_id,var_id,fld_orig,pi,region,latitude,longitude,institution,sampling_freq,sci_name,component,subcomponent
+cciea_AC,consumption_fish,Seafood demand (total),Andrews,nationwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Other
+cciea_AC,consumption_per_cap,Seafood demand (per capita),Andrews,nationwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Other
+cciea_AC,cps_landings_ca,"Coastal pelagic spp, no squid CA",Andrews,California,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,cps_landings_coastwide,"Coastal pelagic spp, no squid coastwide",Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,cps_landings_or,"Coastal pelagic spp, no squid OR",Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,cps_landings_wa,"Coastal pelagic spp, no squid WA",Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,cps_revenue_ca,"Coastal pelagic spp, no squid CA",Andrews,California,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,cps_revenue_coastwide,"Coastal pelagic spp, no squid coastwide",Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,cps_revenue_or,"Coastal pelagic spp, no squid OR",Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,cps_revenue_wa,"Coastal pelagic spp, no squid WA",Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,crab_landings_ca,Crab CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,crab_landings_coastwide,Crab coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,crab_landings_or,Crab OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,crab_landings_wa,Crab WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,crab_revenue_ca,Crab CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,crab_revenue_coastwide,Crab coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,crab_revenue_or,Crab OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,crab_revenue_wa,Crab WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,fertilizer_applications,Nutrient input,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Other
+cciea_AC,finfish_production,Finfish aquaculture,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,Salmo salar,Human Activities,Other
+cciea_AC,groundfish_landings_ca,"Groundfish, no hake CA",Andrews,California,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,groundfish_landings_coastwide,"Groundfish, no hake coastwide",Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,groundfish_landings_or,"Groundfish, no hake OR",Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,groundfish_landings_wa,"Groundfish, no hake WA",Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,groundfish_revenue_ca,"Groundfish, no hake CA",Andrews,California,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,groundfish_revenue_coastwide,"Groundfish, no hake coastwide",Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,groundfish_revenue_or,"Groundfish, no hake OR",Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,groundfish_revenue_wa,"Groundfish, no hake WA",Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,habitat_modification,Distance of gear contact with seafloor habitat,Andrews,coastwide,NULL,NULL,NOAA NWFSC,NA,NA,Human Activities,Fishing
+cciea_AC,hms_landings_ca,Highly migratory species CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,hms_landings_coastwide,Highly migratory species coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,hms_landings_or,Highly migratory species OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,hms_landings_wa,Highly migratory species WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,hms_revenue_ca,Highly migratory species CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,hms_revenue_coastwide,Highly migratory species coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,hms_revenue_or,Highly migratory species OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,hms_revenue_wa,Highly migratory species WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,oil_gas_production,Offshore oil and gas activity,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Other
+cciea_AC,other_species_landings_ca,Other species CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,other_species_landings_coastwide,Other species coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,other_species_landings_or,Other species OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,other_species_landings_wa,Other species WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,other_species_revenue_ca,Other species CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,other_species_revenue_coastwide,Other species coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,other_species_revenue_or,Other species OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,other_species_revenue_wa,Other species WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,pacific_hake_landings_ca,Pacific hake CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,Merluccius productus,Human Activities,Fishing
+cciea_AC,pacific_hake_landings_coastwide,Pacific hake coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,Merluccius productus,Human Activities,Fishing
+cciea_AC,pacific_hake_landings_or,Pacific hake OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,Merluccius productus,Human Activities,Fishing
+cciea_AC,pacific_hake_landings_wa,Pacific hake WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,Merluccius productus,Human Activities,Fishing
+cciea_AC,pacific_hake_revenue_ca,Pacific hake CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,pacific_hake_revenue_coastwide,Pacific hake coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,pacific_hake_revenue_or,Pacific hake OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,pacific_hake_revenue_wa,Pacific hake WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,recreational_landings_ca,Recreational CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,recreational_landings_coastwide,Recreational coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,recreational_landings_or,Recreational OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,recreational_landings_wa,Recreational WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,salmon_com_landings_ca,Salmon commercial CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,Onchorhynchus spp.,Human Activities,Fishing
+cciea_AC,salmon_com_landings_coastwide,Salmon commercial coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,Onchorhynchus spp.,Human Activities,Fishing
+cciea_AC,salmon_com_landings_or,Salmon commercial OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,Onchorhynchus spp.,Human Activities,Fishing
+cciea_AC,salmon_com_landings_wa,Salmon commercial WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,Onchorhynchus spp.,Human Activities,Fishing
+cciea_AC,salmon_rec_landings_ca,Salmon recreational CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,Onchorhynchus spp.,Human Activities,Fishing
+cciea_AC,salmon_rec_landings_coastwide,Salmon recreational coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,Onchorhynchus spp.,Human Activities,Fishing
+cciea_AC,salmon_rec_landings_or,Salmon recreational OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,Onchorhynchus spp.,Human Activities,Fishing
+cciea_AC,salmon_rec_landings_wa,Salmon recreational WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,Onchorhynchus spp.,Human Activities,Fishing
+cciea_AC,salmon_revenue_ca,Salmon CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,salmon_revenue_coastwide,Salmon coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,salmon_revenue_or,Salmon OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,salmon_revenue_wa,Salmon WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,shellfish_production,Shellfish aquaculture,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Other
+cciea_AC,shipping_distance_traveled,Commercial shipping activity,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Other
+cciea_AC,shrimp_landings_ca,Shrimp CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,Pandalus jordani,Human Activities,Fishing
+cciea_AC,shrimp_landings_coastwide,Shrimp coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,Pandalus jordani,Human Activities,Fishing
+cciea_AC,shrimp_landings_or,Shrimp OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,Pandalus jordani,Human Activities,Fishing
+cciea_AC,shrimp_landings_wa,Shrimp WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,Pandalus jordani,Human Activities,Fishing
+cciea_AC,shrimp_revenue_ca,Shrimp CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,shrimp_revenue_coastwide,Shrimp coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,shrimp_revenue_or,Shrimp OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,shrimp_revenue_wa,Shrimp WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,squid_landings_ca,Market squid CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,Loligo opalescens,Human Activities,Fishing
+cciea_AC,squid_landings_coastwide,Market squid coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,Loligo opalescens,Human Activities,Fishing
+cciea_AC,squid_landings_or,Market squid OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,Loligo opalescens,Human Activities,Fishing
+cciea_AC,squid_revenue_ca,Market squid CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,squid_revenue_coastwide,Market squid coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,squid_revenue_or,Market squid OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,total_fisheries_landings_ca,Total fisheries CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,total_fisheries_landings_coastwide,br,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,total_fisheries_landings_or,Total fisheries OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,total_fisheries_landings_wa,Total fisheries WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,"NA, mult-species",Human Activities,Fishing
+cciea_AC,total_fisheries_revenue_ca,Commercial fisheries CA,Andrews,California,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,total_fisheries_revenue_coastwide,Commercial fisheries coastwide,Andrews,coastwide,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,total_fisheries_revenue_or,Commercial fisheries OR,Andrews,Oregon,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC,total_fisheries_revenue_wa,Commercial fisheries WA,Andrews,Washington,NULL,NULL,NOAA NWFSC,annual,NA,Human Activities,Fishing
+cciea_AC_mn,crab_landings,NA,Santora / Field?,pending,NULL,NULL,pending,monthly,NA,Human Activities,Fishing
+cciea_AC_mn,fish_tickets,NA,Santora / Field?,pending,NULL,NULL,pending,monthly,NA,Human Activities,Fishing
+cciea_B_AS_DENS,density_anomaly,Cassins auklet  Jun - NCC,Good,"Cape Flattery, WA to Newport, OR",NULL,NULL,NOAA NWFSC,Seasonal,Ptychoramphus aleuticus,Seabirds,At-sea populations
+cciea_B_AS_DENS,density_anomaly,Cassins auklet  Spring - So CC,Good,CalCOFI lines 76 to 93,NULL,NULL,Farallon Institute,Seasonal,Ptychoramphus aleuticus,Seabirds,At-sea populations
+cciea_B_AS_DENS,density_anomaly,Cassins auklet  Summer - Ce CC,Good,"N of Bodega Bay, CA to south of Monterey Bay, CA",NULL,NULL,Farallon Institute,Seasonal,Ptychoramphus aleuticus,Seabirds,At-sea populations
+cciea_B_AS_DENS,density_anomaly,Common murre  Jun - NCC,Good,"Cape Flattery, WA to Newport, OR",NULL,NULL,NOAA NWFSC,Seasonal,Uria aalge,Seabirds,At-sea populations
+cciea_B_AS_DENS,density_anomaly,Common murre  Spring - So CC,Good,CalCOFI lines 76 to 93,NULL,NULL,Farallon Institute,Seasonal,Uria aalge,Seabirds,At-sea populations
+cciea_B_AS_DENS,density_anomaly,Common murre  Summer - Ce CC,Good,"N of Bodega Bay, CA to south of Monterey Bay, CA",NULL,NULL,Farallon Institute,Seasonal,Uria aalge,Seabirds,At-sea populations
+cciea_B_AS_DENS,density_anomaly,Sooty shearwater  Jun - NCC,Good,"Cape Flattery, WA to Newport, OR",NULL,NULL,NOAA NWFSC,Seasonal,Puffinus griseus,Seabirds,At-sea populations
+cciea_B_AS_DENS,density_anomaly,Sooty shearwater  Spring - So CC,Good,CalCOFI lines 76 to 93,NULL,NULL,Farallon Institute,Seasonal,Puffinus griseus,Seabirds,At-sea populations
+cciea_B_AS_DENS,density_anomaly,Sooty shearwater  Summer - Ce CC,Good,"N of Bodega Bay, CA to south of Monterey Bay, CA",NULL,NULL,Farallon Institute,Seasonal,Puffinus griseus,Seabirds,At-sea populations
+cciea_B_AS_DIET,percent_diet,Euphausia pacifica,Good,"CeCC; Farallon Islands, CA",NULL,NULL,Point Blue Conservation Science,Annual,NA,Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Flatfishes,Good,"NoCC; Yaquina Head, OR",NULL,NULL,OSU Seabird Oceanography Lab,Annual,"NA, mult-species",Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Herring and sardines,Good,"NoCC; Yaquina Head, OR",NULL,NULL,OSU Seabird Oceanography Lab,Annual,"NA, mult-species",Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Market squid,Good,"CeCC; Ano Nuevo, CA",NULL,NULL,Oikonos/Point Blue Conservation Science,Annual,Doryteuthis opalescens,Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Northern anchovy,Good,"CeCC; Ano Nuevo, CA",NULL,NULL,Oikonos/Point Blue Conservation Science,Annual,Engraulis mordax,Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Northern anchovy,Good,"CeCC; Farallon Islands, CA",NULL,NULL,Point Blue Conservation Science,Annual,NA,Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Northern anchovy,Good,"NoCC; Destruction Island, WA",NULL,NULL,NOAA NWFSC,Annual,Engraulis mordax,Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Pacific herring,Good,"NoCC; Destruction Island, WA",NULL,NULL,NOAA NWFSC,Annual,Clupea pallasii,Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Pacific sandlance,Good,"NoCC; Yaquina Head, OR",NULL,NULL,OSU Seabird Oceanography Lab,Annual,Ammodytes hexapterus,Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Pacific saury,Good,"CeCC; Ano Nuevo, CA",NULL,NULL,Oikonos/Point Blue Conservation Science,Annual,Cololabis saira,Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Rockfish juveniles,Good,"CeCC; Ano Nuevo, CA",NULL,NULL,Oikonos/Point Blue Conservation Science,Annual,"NA, multi-species",Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Rockfish juveniles,Good,"CeCC; Farallon Islands, CA",NULL,NULL,Point Blue Conservation Science,Annual,NA,Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Rockfish juveniles,Good,"NoCC; Destruction Island, WA",NULL,NULL,NOAA NWFSC,Annual,"NA, multi-species",Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Rockfish juveniles,Good,"NoCC; Yaquina Head, OR",NULL,NULL,OSU Seabird Oceanography Lab,Annual,"NA, mult-species",Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Salmon juveniles,Good,"CeCC; Farallon Islands, CA",NULL,NULL,Point Blue Conservation Science,Annual,NA,Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Smelts,Good,"NoCC; Destruction Island, WA",NULL,NULL,NOAA NWFSC,Annual,"NA, multi-species",Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Smelts,Good,"NoCC; Yaquina Head, OR",NULL,NULL,OSU Seabird Oceanography Lab,Annual,"NA, mult-species",Seabirds,Diet
+cciea_B_AS_DIET,percent_diet,Thysanoessa spinifera,Good,"CeCC; Farallon Islands, CA",NULL,NULL,Point Blue Conservation Science,Annual,NA,Seabirds,Diet
+cciea_B_B_MORT,encounter_rate,Brandts cormorant (Apr - Nov),Good,Ce/So CC,NULL,NULL,BeachWatch,Monthly (Apr - Nov),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Brandts Cormorant(Apr - Nov) Central,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (Apr - Nov),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Brandts Cormorant(Apr - Nov) North,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (Apr - Nov),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Cassins auklet (Oct - Feb),Good,"CA-OR border to Cape Flattery, WA",42 - 48.5N,NULL,COASST,Monthly (Oct-Feb),Ptychoramphus aleuticus,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Cassins auklet (Oct - Feb),Good,Ce/So CC,NULL,NULL,BeachWatch,Monthly (Oct-Feb),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Cassins auklet (Oct - Feb) Central,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (Oct-Feb),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Cassins auklet (Oct - Feb) North,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (Oct-Feb),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Cassins auklet (Oct - Feb) South,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (Oct-Feb),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Cassins auklet (Oct - Feb) SouthBrandts Cormorant(Apr - Nov) South,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (Apr - Nov),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Common murre (Jun- Dec),Good,Ce/So CC,NULL,NULL,BeachWatch,Monthly (Jun-Dec),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Common murre (Jun- Dec),Good,"Eureka, CA to Cape Flattery, WA",40.5 - 48.5N,NULL,COASST,Monthly (Jun-Dec),Uria aalge,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Common murre (Jun- Dec) Central,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (Jun-Dec),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Common murre (Jun- Dec) North,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (Jun-Dec),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Common murre (Jun- Dec) South,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (Jun-Dec),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Northern fulmar (Oct - Feb),Good,"Cape Blanco, OR to Cape Flattery, WA",43 - 48.5N,NULL,COASST,Monthly (Oct-Feb),Fulmarus glacialis,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Northern fulmar (Oct - Feb),Good,Ce/So CC,NULL,NULL,BeachWatch,Monthly (Oct-Feb),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Northern fulmar (Oct - Feb) Central,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (Oct-Feb),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Northern fulmar (Oct - Feb) North,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (Oct-Feb),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Northern fulmar (Oct - Feb) South,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (Oct-Feb),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Sooty shearwater (May - Oct),Good,Ce/So CC,NULL,NULL,BeachWatch,Monthly (May-Oct),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Sooty shearwater (May - Oct),Good,"Eureka, CA to Cape Flattery, WA",40.5 - 48.5N,NULL,COASST,Monthly (May-Oct),Puffinus griseus,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Sooty shearwater (May - Oct) Central,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (May-Oct),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Sooty shearwater (May - Oct) North,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (May-Oct),NA,Seabirds,Mortality
+cciea_B_B_MORT,encounter_rate,Sooty shearwater (May - Oct) South,Good,Ce/So CC,NULL,NULL,BeachCOMBERS,Monthly (May-Oct),NA,Seabirds,Mortality
+cciea_B_LEN,fork_length,Anchovy prey size,Good,NA,NULL,NULL,Oikonos Ecosystem Knowledge,NA,NA,Seabirds,Prey Size
+cciea_B_PR_ANOM,productivity_anomaly,Brandts cormorant,Good,"CeCC; Farallon Islands, CA",NULL,NULL,Point Blue Conservation Science,Annual,NA,Seabirds,Productivity
+cciea_B_PR_ANOM,productivity_anomaly,Brandts cormorant,Good,"NoCC; Yaquina Head, OR",NULL,NULL,OSU Seabird Oceanography Lab,Annual,NA,Seabirds,Productivity
+cciea_B_PR_ANOM,productivity_anomaly,Cassins auklet,Good,"CeCC; Farallon Islands, CA",NULL,NULL,Point Blue Conservation Science,Annual,NA,Seabirds,Productivity
+cciea_B_PR_ANOM,productivity_anomaly,Common murre,Good,"CeCC; Farallon Islands, CA",NULL,NULL,Point Blue Conservation Science,Annual,NA,Seabirds,Productivity
+cciea_B_PR_ANOM,productivity_anomaly,Common murre,Good,"NoCC; Yaquina Head, OR",NULL,NULL,OSU Seabird Oceanography Lab,Annual,NA,Seabirds,Productivity
+cciea_B_PR_ANOM,productivity_anomaly,Pelagic cormorant,Good,"NoCC; Yaquina Head, OR",NULL,NULL,OSU Seabird Oceanography Lab,Annual,NA,Seabirds,Productivity
+cciea_B_PR_ANOM,productivity_anomaly,Pigeon guillemot,Good,"CeCC; Farallon Islands, CA",NULL,NULL,Point Blue Conservation Science,Annual,NA,Seabirds,Productivity
+cciea_B_PR_ANOM,productivity_anomaly,Rhinoceros auklet,Good,"CeCC; Farallon Islands, CA",NULL,NULL,Point Blue Conservation Science,Annual,NA,Seabirds,Productivity
+cciea_EI_COP,copepod_species_richness_anomaly,NA,"Fisher, Peterson",NA,44.6 N,NULL,NOAA NWFSC,bi-weekly,"NA, mult-species",Ecological Integrity,Copepods
+cciea_EI_COP,northern_copepod_biomass_anomaly,NA,"Fisher, Peterson",NA,44.6 N,NULL,NOAA NWFSC,bi-weekly,"NA, mult-species",Ecological Integrity,Copepods
+cciea_EI_COP,southern_copepod_biomass_anomaly,NA,"Fisher, Peterson",NA,44.6 N,NULL,NOAA NWFSC,bi-weekly,"NA, mult-species",Ecological Integrity,Copepods
+cciea_EI_CRAB_FINF,biomass_ratio,NA,Tolimieri,NA,32N to 40.4 N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Trophic Structure
+cciea_EI_CRAB_FINF,biomass_ratio,NA,Tolimieri,NA,32N to 48.45N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Trophic Structure
+cciea_EI_CRAB_FINF,biomass_ratio,NA,Tolimieri,NA,40.4N to 48.45N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Trophic Structure
+cciea_EI_DOMACID_county,domoic_acid_concentration,NA,Moore,Washington Coast,NULL,NULL,Washington State Department of Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON,demoic_acid_concentration,NA,Coyne,Washington,46.455,-124.06,Washington State Department of Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON,demoic_acid_concentration,NA,Coyne,Washington,46.657,-124.061,Washington State Department of Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON,demoic_acid_concentration,NA,Coyne,Washington,46.82,-124.104,Washington State Department of Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON,demoic_acid_concentration,NA,Coyne,Washington,47.082,-124.179,Washington State Department of Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON,demoic_acid_concentration,NA,Coyne,Washington,47.225,-124.212,Washington State Department of Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON,demoic_acid_concentration,NA,Coyne,Washington,47.346,-124.297,Washington State Department of Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON,demoic_acid_concentration,NA,Coyne,Washington,47.609,-124.377,Washington State Department of Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON,demoic_acid_concentration,NA,Coyne,Washington,47.885,-124.619,Washington State Department of Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON_clam,domoic_acid_concentration,NA,Moore,Central CA Coast (Sonoma to San Luis Obispo counties),NULL,NULL,California Department of Public Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON_clam,domoic_acid_concentration,NA,Moore,Northern CA Coast (Del Norte to Mendocino counties),NULL,NULL,California Department of Public Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON_clam,domoic_acid_concentration,NA,Moore,Oregon Coast,NULL,NULL,Oregon Department of Fish and Wildlife,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON_clam,domoic_acid_concentration,NA,Moore,Washington Coast,47.082,-124.179,Washington State Department of Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON_crab,domoic_acid_concentration,NA,Moore,Central CA Coast (Sonoma to San Luis Obispo counties),NULL,NULL,California Department of Public Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON_crab,domoic_acid_concentration,NA,Moore,Northern CA Coast (Del Norte to Mendocino counties),NULL,NULL,California Department of Public Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON_crab,domoic_acid_concentration,NA,Moore,Oregon Coast,NULL,NULL,Oregon Department of Fish and Wildlife,monthly,NA,Ecological Integrity,Other
+cciea_EI_DOMACID_MON_crab,domoic_acid_concentration,NA,Moore,Washington Coast,NULL,NULL,Washington State Department of Health,monthly,NA,Ecological Integrity,Other
+cciea_EI_FBC,mean_cpue,NA,Field,CCC,NULL,NULL,NOAA SWFSC,Annual,Aurelia aurita,Ecological Integrity,Jellyfish biomass
+cciea_EI_FBC,mean_cpue,NA,Field,CCC,NULL,NULL,NOAA SWFSC,Annual,Chrysaora fuscescens,Ecological Integrity,Jellyfish biomass
+cciea_EI_FBC,mean_cpue,NA,Field,CCC,NULL,NULL,NOAA SWFSC,Annual,NA,Ecological Integrity,Forage Availability
+cciea_EI_FBC_2020,mean_cpue,NA,Field,CCC,NULL,NULL,NOAA SWFSC,Annual,Citharichthys spp.,Ecological Integrity,Forage Availability
+cciea_EI_FBC_2020,mean_cpue,NA,Field,CCC,NULL,NULL,NOAA SWFSC,Annual,Engraulis mordax,Ecological Integrity,Forage Availability
+cciea_EI_FBC_2020,mean_cpue,NA,Field,CCC,NULL,NULL,NOAA SWFSC,Annual,Euphausid spp.,Ecological Integrity,Forage Availability
+cciea_EI_FBC_2020,mean_cpue,NA,Field,CCC,NULL,NULL,NOAA SWFSC,Annual,Loligo opalescens,Ecological Integrity,Forage Availability
+cciea_EI_FBC_2020,mean_cpue,NA,Field,CCC,NULL,NULL,NOAA SWFSC,Annual,Merluccius productus,Ecological Integrity,Forage Availability
+cciea_EI_FBC_2020,mean_cpue,NA,Field,CCC,NULL,NULL,NOAA SWFSC,Annual,Sardinops sagax,Ecological Integrity,Forage Availability
+cciea_EI_FBC_2020,mean_cpue,NA,Field,CCC,NULL,NULL,NOAA SWFSC,Annual,YOY rockfish spp.,Ecological Integrity,Forage Availability
+cciea_EI_FBC_2020,mean_cpue,NA,Field,CCC,NULL,NULL,NOAA SWFSC,Annual,NA,Ecological Integrity,Forage Availability
+cciea_EI_FBN,mean_density,NA,Burke,NCC,44.6 - 48.24 deg N,124.0 - 124.7 deg W,NOAA NWFSC,Annually during June,Aequorea victoria,Ecological Integrity,Jellyfish biomass
+cciea_EI_FBN,mean_density,NA,Burke,NCC,44.6 - 48.24 deg N,124.0 - 124.7 deg W,NOAA NWFSC,Annually during June,Chrysaora fuscescens,Ecological Integrity,Jellyfish biomass
+cciea_EI_FBN,mean_density,NA,Burke,NCC,44.6 - 48.24 deg N,124.0 - 124.7 deg W,NOAA NWFSC,Annually during June,Loligo opalescens,Ecological Integrity,Forage Availability
+cciea_EI_FBN,mean_density,NA,Burke,NCC,44.6 - 48.24 deg N,124.0 - 124.7 deg W,NOAA NWFSC,Annually during June,Loligo opalescens,Salmon,NA
+cciea_EI_FBN,mean_density,NA,Burke,NCC,44.6 - 48.24 deg N,124.0 - 124.7 deg W,NOAA NWFSC,Annually during June,Trachurus symmetricus,Ecological Integrity,Forage Availability
+cciea_EI_FBN,mean_density,NA,Burke,NCC,44.6 - 48.24 deg N,124.0 - 124.7 deg W,NOAA NWFSC,Annually during June,NA,Ecological Integrity,Forage Availability
+cciea_EI_FBN,mean_density,NA,Burke,NCC,44.6 - 48.24 deg N,124.0 - 124.7 deg W,NOAA NWFSC,Annually during June,NA,Ecological Integrity,Jellyfish biomass
+cciea_EI_FBS,relative_abundance,Leuroglossus stilbius,Thompson,"CalCOFI lines 76.7-93.3, stations 28.0 - 120.3",NULL,NULL,NOAA SWFSC,Annually during Spring,Leuroglossus stilbius,Ecological Integrity,Forage Availability
+cciea_EI_FBS,relative_abundance,Lipolagus ochotensis,Thompson,"CalCOFI lines 76.7-93.3, stations 28.0 - 120.3",NULL,NULL,NOAA SWFSC,Annually during Spring,Lipolagus ochotensis,Ecological Integrity,Forage Availability
+cciea_EI_FBS,relative_abundance,Sciaenidae,Thompson,"CalCOFI lines 76.7-93.3, stations 28.0 - 120.3",NULL,NULL,NOAA SWFSC,Annually during Spring,Sciaenidae,Ecological Integrity,Forage Availability
+cciea_EI_FBS,relative_abundance,Stenobrachius leucopsarus,Thompson,"CalCOFI lines 76.7-93.3, stations 28.0 - 120.3",NULL,NULL,NOAA SWFSC,Annually during Spring,Stenobrachius leucopsarus,Ecological Integrity,Forage Availability
+cciea_EI_FBS_2020,relative_abundance,Citharichthys1,Thompson,"CalCOFI lines 76.7-93.3, stations 28.0 - 120.1",NULL,NULL,NOAA SWFSC,Annually during Spring,Citharichthys spp.,Ecological Integrity,Forage Availability
+cciea_EI_FBS_2020,relative_abundance,Doryteuthis.opalescens,Thompson,"CalCOFI lines 76.7-93.3, stations 28.0 - 120.0",NULL,NULL,NOAA SWFSC,Annually during Spring,Doryteuthis opalescens,Ecological Integrity,Forage Availability
+cciea_EI_FBS_2020,relative_abundance,Engraulis.mordax,Thompson,"CalCOFI lines 76.7-93.3, stations 28.0 - 120.0",NULL,NULL,NOAA SWFSC,Annually during Spring,Engraulis mordax,Ecological Integrity,Forage Availability
+cciea_EI_FBS_2020,relative_abundance,Merluccius.productus,Thompson,"CalCOFI lines 76.7-93.3, stations 28.0 - 120.0",NULL,NULL,NOAA SWFSC,Annually during Spring,Merluccius productus,Ecological Integrity,Forage Availability
+cciea_EI_FBS_2020,relative_abundance,Sardinops.sagax,Thompson,"CalCOFI lines 76.7-93.3, stations 28.0 - 120.0",NULL,NULL,NOAA SWFSC,Annually during Spring,Sardinops sagax,Ecological Integrity,Forage Availability
+cciea_EI_FBS_2020,relative_abundance,Sebastes.spp,Thompson,"CalCOFI lines 76.7-93.3, stations 28.0 - 120.2",NULL,NULL,NOAA SWFSC,Annually during Spring,Sebastes jordani,Ecological Integrity,Forage Availability
+cciea_EI_FBS_2020,relative_abundance,Southern.mesopelagics,Thompson,"CalCOFI lines 76.7-93.3, stations 28.0 - 120.3",NULL,NULL,NOAA SWFSC,Annually during Spring,"NA, multi-species",Ecological Integrity,Forage Availability
+cciea_EI_FBS_2020,relative_abundance,Trachurus.symmetricus,Thompson,"CalCOFI lines 76.7-93.3, stations 28.0 - 120.0",NULL,NULL,NOAA SWFSC,Annually during Spring,Trachurus symmetricus,Ecological Integrity,Forage Availability
+cciea_EI_FBS_2020,relative_abundance,warm,Thompson,"CalCOFI lines 76.7-93.3, stations 28.0 - 120.4",NULL,NULL,NOAA SWFSC,Annually during Spring,"NA, multi-species",Ecological Integrity,Forage Availability
+cciea_EI_HCI,hci_regn3,NA,Schroeder,CCC,35.5-40N,"NA",NOAA SWFSC/FED,Monthly,"NA",Ecological Integrity,Other
+cciea_EI_KRILLEN,mean_length,NA,Bjorkstedt,Trinidad Head line,NULL,NULL,NOAA SWFSC; Humboldt State University,monthly,Euphausia pacifica,Ecological Integrity,Other
+cciea_EI_MTL,mean_trophic_level,NA,Tolimieri,NA,32N to 40.4 N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Trophic Structure
+cciea_EI_MTL,mean_trophic_level,NA,Tolimieri,NA,32N to 48.45N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Trophic Structure
+cciea_EI_MTL,mean_trophic_level,NA,Tolimieri,NA,40.4N to 48.45N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Trophic Structure
+cciea_EI_SCAV_RAT,biomass_ratio,NA,Tolimieri,NA,32N to 40.4 N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Trophic Structure
+cciea_EI_SCAV_RAT,biomass_ratio,NA,Tolimieri,NA,32N to 48.45N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Trophic Structure
+cciea_EI_SCAV_RAT,biomass_ratio,NA,Tolimieri,NA,40.4N to 48.45N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Trophic Structure
+cciea_EI_SIMP,simpson_diversity,NA,Tolimieri,NA,32N to 40.4 N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Diversity
+cciea_EI_SIMP,simpson_diversity,NA,Tolimieri,NA,32N to 48.45N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Diversity
+cciea_EI_SIMP,simpson_diversity,NA,Tolimieri,NA,40.4N to 48.45N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Diversity
+cciea_EI_SP_RICH,species_richness,NA,Tolimieri,NA,32N to 40.4 N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Diversity
+cciea_EI_SP_RICH,species_richness,NA,Tolimieri,NA,32N to 48.45N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Diversity
+cciea_EI_SP_RICH,species_richness,NA,Tolimieri,NA,40.4N to 48.45N,NULL,NOAA NWFSC,Annually (end of May to October),"NA, multi-species",Ecological Integrity,Diversity
+cciea_EI_WH_ENT,number_of_entanglements,NA,Lawson,NA,NULL,NULL,NOAA SWFSC,yearly,NA,Ecological Integrity,Other
+cciea_GF_ABND,abundance_index,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Atheresthes stomias,Groundfish,NA
+cciea_GF_ABND,abundance_index,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Citharichthys sordidus,Groundfish,NA
+cciea_GF_ABND,abundance_index,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Hippoglossoides elassodon,Groundfish,NA
+cciea_GF_ABND,abundance_index,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Hydrolagus colliei,Groundfish,NA
+cciea_GF_ABND,abundance_index,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Parophrys vetulus,Groundfish,NA
+cciea_GF_ABND,abundance_index,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Raja rhina,Groundfish,NA
+cciea_GF_ABND,abundance_index,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes jordani,Groundfish,NA
+cciea_GF_ABND,abundance_index,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes saxicola,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,CA: north of Pt. Conception,NULL,NULL,NOAA NWFSC,annual (late May to October),Scorpaenichthys marmoratus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,CA: south of Pt. Conception,NULL,NULL,NOAA NWFSC,annual (late May to October),Scorpaenichthys marmoratus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,California,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes melanops,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,Cape Mendocino south,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes nebulosus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Anoplopoma fimbria,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Atheresthes stomias,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Eopsetta jordani,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Glyptocephalus zachirus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Merluccius productus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Microstomus pacificus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Ophiodon elongatus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Parophrys vetulus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Raja rhina,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes aleutianus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes alutus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes aurora,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes chlorostictus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes crameri,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes diploproa,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes elongatus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes entomelas,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes flavidus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes goodei,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes levis,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes melanops,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes melanostomus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes paucispinis,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes pinniger,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes ruberrimus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes zacentrus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastolobus alascanus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastolobus altivelis,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,coastwide,NULL,NULL,NOAA NWFSC,annual (late May to October),Squalus acanthias,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,OR to Cape Menodcino,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes nebulosus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,Oregon,NULL,NULL,NOAA NWFSC,annual (late May to October),Hexagrammos decagrammus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,Oregon,NULL,NULL,NOAA NWFSC,annual (late May to October),Scorpaenichthys marmoratus,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,Oregon,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes melanops,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,Washington,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes melanops,Groundfish,NA
+cciea_GF_STAT,relative_stock_status,NA,Cope,Washington,NULL,NULL,NOAA NWFSC,annual (late May to October),Sebastes nebulosus,Groundfish,NA
+cciea_HB_AUGMX,aug_mean_max,TS.MM.CG,"Greene, Munsch",Columbia Glaciated,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: August mean max temperature anomaly
+cciea_HB_AUGMX,aug_mean_max,TS.MM.CU,"Greene, Munsch",Columbia Unglaciated,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: August mean max temperature anomaly
+cciea_HB_AUGMX,aug_mean_max,TS.MM.ORNCA,"Greene, Munsch",Oregon and Northern California Coastal,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: August mean max temperature anomaly
+cciea_HB_AUGMX,aug_mean_max,TS.MM.SSSCB,"Greene, Munsch",Sacramento - San Joaquin & southern California Bight,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: August mean max temperature anomaly
+cciea_HB_AUGMX,aug_mean_max,TS.MM.SW,"Greene, Munsch",Salish Sea & WA coast,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: August mean max temperature anomaly
+cciea_HB_FLO1,flow_anomaly_1_day_max,TS.1.CG,"Greene, Munsch",Columbia Glaciated,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: 1 day max streamflow anomaly
+cciea_HB_FLO1,flow_anomaly_1_day_max,TS.1.CU,"Greene, Munsch",Columbia Unglaciated,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: 1 day max streamflow anomaly
+cciea_HB_FLO1,flow_anomaly_1_day_max,TS.1.ORNCA,"Greene, Munsch",Oregon and Northern California Coastal,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: 1 day max streamflow anomaly
+cciea_HB_FLO1,flow_anomaly_1_day_max,TS.1.SCB,"Greene, Munsch",Southern CA bight,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: 1 day max streamflow anomaly
+cciea_HB_FLO1,flow_anomaly_1_day_max,TS.1.SS,"Greene, Munsch",Sacramento - San Joaquin,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: 1 day max streamflow anomaly
+cciea_HB_FLO1,flow_anomaly_1_day_max,TS.1.SW,"Greene, Munsch",Salish Sea & WA coast,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKCAC,"Greene, Munsch",California Coast,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKCVF,"Greene, Munsch",Central Valley Fall late Fall,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKCVS,"Greene, Munsch",Central Valley Spring,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKLCR,"Greene, Munsch",Lower Columbia River,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKMCS,"Greene, Munsch",Mid-Columbia Spring,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKORC,"Greene, Munsch",Oregon Coast,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKPUG,"Greene, Munsch",Puget Sound,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKSAC,"Greene, Munsch",Sacramento Winter,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKSNC,"Greene, Munsch",S. Oregon N. California coast,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKSRF,"Greene, Munsch",Snake River Fall,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKSRS,"Greene, Munsch",Snake River Spring Summer,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKUCF,"Greene, Munsch",Upper Columbia Summer Fall,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKUCS,"Greene, Munsch",Upper Columbia Spring,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKUKT,"Greene, Munsch",Upper Klamath Trinity River,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKUWR,"Greene, Munsch",Upper Willamette River,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO1_CH,flow_anomaly_1_day_max,TS.1.CKWAC,"Greene, Munsch",Washington coast,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 1 day max streamflow anomaly
+cciea_HB_FLO7,flow_anomaly_7_day_min,TS.7.CG,"Greene, Munsch",Columbia Glaciated,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: 7 day min streamflow anomaly
+cciea_HB_FLO7,flow_anomaly_7_day_min,TS.7.CU,"Greene, Munsch",Columbia Unglaciated,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: 7 day min streamflow anomaly
+cciea_HB_FLO7,flow_anomaly_7_day_min,TS.7.ORNCA,"Greene, Munsch",Oregon and Northern California Coastal,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: 7 day min streamflow anomaly
+cciea_HB_FLO7,flow_anomaly_7_day_min,TS.7.SCB,"Greene, Munsch",Southern CA bight,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: 7 day min streamflow anomaly
+cciea_HB_FLO7,flow_anomaly_7_day_min,TS.7.SS,"Greene, Munsch",Sacramento - San Joaquin,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: 7 day min streamflow anomaly
+cciea_HB_FLO7,flow_anomaly_7_day_min,TS.7.SW,"Greene, Munsch",Salish Sea & WA coast,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKCAC,"Greene, Munsch",California Coast,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKCVF,"Greene, Munsch",Central Valley Fall late Fall,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKCVS,"Greene, Munsch",Central Valley Spring,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKLCR,"Greene, Munsch",Lower Columbia River,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKMCS,"Greene, Munsch",Mid-Columbia Spring,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKORC,"Greene, Munsch",Oregon Coast,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKPUG,"Greene, Munsch",Puget Sound,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKSAC,"Greene, Munsch",Sacramento Winter,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKSNC,"Greene, Munsch",S. Oregon N. California coast,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKSRF,"Greene, Munsch",Snake River Fall,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKSRS,"Greene, Munsch",Snake River Spring Summer,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKUCF,"Greene, Munsch",Upper Columbia Summer Fall,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKUCS,"Greene, Munsch",Upper Columbia Spring,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKUKT,"Greene, Munsch",Upper Klamath Trinity River,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKUWR,"Greene, Munsch",Upper Willamette River,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_FLO7_CH,flow_anomaly_7_day_min,TS.7.CKWAC,"Greene, Munsch",Washington coast,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Chinook ESUs: 7 day min streamflow anomaly
+cciea_HB_SWE,SWE_anomaly,TS.S.CG,"Greene, Munsch",Columbia Glaciated,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: Snow Water Equivalent
+cciea_HB_SWE,SWE_anomaly,TS.S.CU,"Greene, Munsch",Columbia Unglaciated,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: Snow Water Equivalent
+cciea_HB_SWE,SWE_anomaly,TS.S.ORNCA,"Greene, Munsch",Oregon and Northern California Coastal,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: Snow Water Equivalent
+cciea_HB_SWE,SWE_anomaly,TS.S.SS,"Greene, Munsch",Sacramento - San Joaquin,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: Snow Water Equivalent
+cciea_HB_SWE,SWE_anomaly,TS.S.SW,"Greene, Munsch",Salish Sea & WA coast,NULL,NULL,NOAA NWFSC,annual,NA,Habitat,Ecoregions: Snow Water Equivalent
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",California,NULL,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",Oregon,NULL,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",Washington,NULL,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",West Coast,NULL,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",West Coast and Alaska,NULL,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,33.75 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,34.2659 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,34.4285 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,36.8044 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,37.77493 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,39.44 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,40.8 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,41.75 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,42.0598 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,43.378399 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,44.63 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,46.188 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,46.3109 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,46.892 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,47.6218 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_ESI_VESS,average_ESI,NA,"Holland, Kasperski",NA,48.7871 N,NULL,NOAA NWFSC/AFSC,annual,NA,Human Wellbeing,Fleet Diversity
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,32.8153,-117.135,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,34.0194,-118.4108,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,34.1621,-119.2042,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,34.2681,-119.255,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,34.3989,-119.7134,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,36.8051,-121.7866,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,37.4668,-122.4374,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,37.5143,-122.4652,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,37.7272,-123.0322,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,38.3194,-123.0306,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,39.4411,-123.8036,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,40.7933,-124.1554,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,40.9523,-124.0748,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,41.0576,-124.1431,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,41.7665,-124.199,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,43.3812,-124.2327,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,43.6773,-124.1777,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,44.6209,-124.043,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,45.5608,-123.9113,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,46.1873,-123.8146,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,46.3127,-124.0267,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,46.3138,-119.3878,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,46.7088,-123.9834,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,48.361,-124.6115,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Dep,fishing_dependence,NA,Norman,NA,48.7526,-122.4697,NOAA NWFSC,Every 5 years,NA,Human Wellbeing,Community fishery dependence
+cciea_HD_Fish_Eng,fishing_engagement,NA,Norman,CCA,NULL,NULL,NOAA NWFSC,NA,NA,Human Wellbeing,Commercial fishing engagement
+cciea_HD_Fish_Eng,fishing_engagement,NA,Norman,NCA,NULL,NULL,NOAA NWFSC,NA,NA,Human Wellbeing,Commercial fishing engagement
+cciea_HD_Fish_Eng,fishing_engagement,NA,Norman,OR,NULL,NULL,NOAA NWFSC,NA,NA,Human Wellbeing,Commercial fishing engagement
+cciea_HD_Fish_Eng,fishing_engagement,NA,Norman,SCA,NULL,NULL,NOAA NWFSC,NA,NA,Human Wellbeing,Commercial fishing engagement
+cciea_HD_Fish_Eng,fishing_engagement,NA,Norman,WA,NULL,NULL,NOAA NWFSC,NA,NA,Human Wellbeing,Commercial fishing engagement
+cciea_HD_Fish_Rel,fishing_reliance,NA,Norman,CCA,NULL,NULL,NOAA NWFSC,NA,NA,Human Wellbeing,Commercial fishing reliance
+cciea_HD_Fish_Rel,fishing_reliance,NA,Norman,NCA,NULL,NULL,NOAA NWFSC,NA,NA,Human Wellbeing,Commercial fishing reliance
+cciea_HD_Fish_Rel,fishing_reliance,NA,Norman,OR,NULL,NULL,NOAA NWFSC,NA,NA,Human Wellbeing,Commercial fishing reliance
+cciea_HD_Fish_Rel,fishing_reliance,NA,Norman,SCA,NULL,NULL,NOAA NWFSC,NA,NA,Human Wellbeing,Commercial fishing reliance
+cciea_HD_Fish_Rel,fishing_reliance,NA,Norman,WA,NULL,NULL,NOAA NWFSC,NA,NA,Human Wellbeing,Commercial fishing reliance
+cciea_HD_PU,personal_catch,NA,Poe,California and Washington ports,NULL,NULL,"NOAA NWFSC, WA Seagrant",Annual,NA,Human Wellbeing,Personal use
+cciea_HD_Soc_Vuln_Indx,social_vulnerability_index,NA,atioon,NA,NULL,NULL,NOAA NWFSC,NA,NA,Human Wellbeing,Community social vulnerability index score
+cciea_HD_Soc_Vuln_Indx,social_vulnerability_index,NA,Norman,NA,NULL,NULL,NOAA NWFSC,NA,NA,Human Wellbeing,Community social vulnerability index score
+cciea_HMS,albacore_tuna_recruitment,Albacore recruitment,Muhling,North Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Thunnus alalunga,Highly Migratory Species,Recruitment
+cciea_HMS,albacore_tuna_spawning_stock_biomass,Albacore biomass,Muhling,North Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Thunnus alalunga,Highly Migratory Species,Spawning Stock Biomass
+cciea_HMS,bigeye_tuna_recruitment_optimistic,Bigeye tuna recruitment optimistic,Muhling,eastern Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Thunnus obesus,Highly Migratory Species,Recruitment
+cciea_HMS,bigeye_tuna_recruitment_pessimistic,Bigeye tuna recruitment pessimistic,Muhling,eastern Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Thunnus obesus,Highly Migratory Species,Recruitment
+cciea_HMS,bigeye_tuna_spawning_stock_biomass_optimistic,Bigeye tuna biomass optimistic,Muhling,eastern Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Thunnus obesus,Highly Migratory Species,Spawning Stock Biomass
+cciea_HMS,bigeye_tuna_spawning_stock_biomass_pessimistic,Bigeye tuna biomass pessimistic,Muhling,eastern Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Thunnus obesus,Highly Migratory Species,Spawning Stock Biomass
+cciea_HMS,blue_marlin_recruitment,Blue marlin recruitment,Muhling,Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Makaira nigricans,Highly Migratory Species,Recruitment
+cciea_HMS,blue_marlin_spawning_stock_biomass,Blue marlin biomass,Muhling,Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Makaira nigricans,Highly Migratory Species,Spawning Stock Biomass
+cciea_HMS,blue_marlin_total_biomass,Blue marlin total biomass,Muhling,Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Makaira nigricans,Highly Migratory Species,Total Biomass
+cciea_HMS,bluefin_tuna_recruitment,Bluefin tuna recruitment,Muhling,Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Thunnus orientalis,Highly Migratory Species,Recruitment
+cciea_HMS,bluefin_tuna_spawning_stock_biomass,Bluefin tuna biomass,Muhling,Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Thunnus orientalis,Highly Migratory Species,Spawning Stock Biomass
+cciea_HMS,bluefin_tuna_total_biomass,Bluefin total biomass,Muhling,Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Thunnus orientalis,Highly Migratory Species,Total Biomass
+cciea_HMS,skipjack_tuna_biomass,Skipjack tuna biomass,Muhling,Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Katsuwonus pelamis,Highly Migratory Species,Total Biomass
+cciea_HMS,skipjack_tuna_recruitment,Skipjack tuna recruitment,Muhling,Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Katsuwonus pelamis,Highly Migratory Species,Recruitment
+cciea_HMS,swordfish_eastern_pacific_exploitable_total_biomass,Eastern Pacific swordfish biomass,Muhling,eastern Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Xiphias gladius,Highly Migratory Species,Total Biomass
+cciea_HMS,swordfish_western_central_pacific_exploitable_recruitment,Western Central Pacific swordfish recruitment,Muhling,western central Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Xiphias gladius,Highly Migratory Species,Recruitment
+cciea_HMS,swordfish_western_central_pacific_spawning_stock_biomass,Western Central Pacific swordfish biomass,Muhling,western central Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Xiphias gladius,Highly Migratory Species,Spawning Stock Biomass
+cciea_HMS,yellowfin_tuna_recruitment,Yellowfin tuna recruitment,Muhling,Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Thunnus albacares,Highly Migratory Species,Recruitment
+cciea_HMS,yellowfin_tuna_spawning_stock_biomass_index,Yellowfin tuna biomass,Muhling,Pacific Ocean,NULL,NULL,NOAA SWFSC/FRD,annual,Thunnus albacares,Highly Migratory Species,Spawning Stock Biomass
+cciea_MM_cetacean,abundance,NA,Melin,US west coast,NULL,NULL,NOAA SWFSC/MMTD,multiyear,Balaenoptera musculus musculus,Marine Mammals,Cetacean
+cciea_MM_cetacean,abundance,NA,Melin,US west coast,NULL,NULL,NOAA SWFSC/MMTD,multiyear,Balaenoptera physalus physalus,Marine Mammals,Cetacean
+cciea_MM_cetacean,abundance,NA,Melin,US west coast,NULL,NULL,NOAA SWFSC/MMTD,multiyear,Delphinus delphis delphis,Marine Mammals,Cetacean
+cciea_MM_cetacean,abundance,NA,Melin,US west coast,NULL,NULL,NOAA SWFSC/MMTD,multiyear,Eschrichtius robustus,Marine Mammals,Cetacean
+cciea_MM_cetacean,abundance,NA,Melin,US west coast,NULL,NULL,NOAA SWFSC/MMTD,multiyear,Megaptera novaeangliea,Marine Mammals,Cetacean
+cciea_MM_cetacean,abundance,NA,Melin,US west coast,NULL,NULL,NOAA SWFSC/MMTD,multiyear,Pocoenoides dalli dalli,Marine Mammals,Cetacean
+cciea_MM_cetacean,abundance,NA,Melin,US west coast,NULL,NULL,NOAA SWFSC/MMTD,multiyear,Tursiops truncatus,Marine Mammals,Cetacean
+cciea_MM_cetacean,abundance,NA,Melin,US west coast and Puget Sound,NULL,NULL,NOAA NWFSC,annual,Orcinus orca,Marine Mammals,Cetacean
+cciea_MM_HB_REL,humpback_anomaly,NA,Santora,central CA,NULL,NULL,"Farallon Institute, RREAS surveys",annual,Megaptera novaeangliea,Marine Mammals,Cetacean
+cciea_MM_HB_REL,humpback_rate,NA,Santora,central CA,NULL,NULL,"Farallon Institute, RREAS surveys",annual,Megaptera novaeangliea,Marine Mammals,Cetacean
+cciea_MM_pup_count,live_pup_count,NA,Melin,NA,34.03 deg N,120.44 deg W,NOAA AFSC/MML,annual,Zalophus californianus,Marine Mammals,Sea Lion
+cciea_MM_pup_count,mean_growth_rate,NA,Melin,NA,34.03 deg N,120.44 deg W,NOAA AFSC/MML,annual,Zalophus californianus,Marine Mammals,Sea Lion
+cciea_MM_pup_count,mean_weight,NA,Melin,NA,34.03 deg N,120.44 deg W,NOAA AFSC/MML,annual,Zalophus californianus,Marine Mammals,Sea Lion
+cciea_OC_ARG,aragonite_saturation,NA,Schroeder,NA,44.65N,124.18W,NOAA NWFSC,NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_ARG,aragonite_saturation,NA,Schroeder,NA,44.7N,124.7W,NOAA NWFSC,NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_BEUTI,beuti,NA,Schroeder,NA,33N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_BEUTI,beuti,NA,Schroeder,NA,39N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_BEUTI,beuti,NA,Schroeder,NA,45N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_CUTI,cuti,NA,Schroeder,NA,33N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_CUTI,cuti,NA,Schroeder,NA,39N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_CUTI,cuti,NA,Schroeder,NA,45N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_DO,dissolved_oxygen,NA,Schroeder,NA,31.4N,122.0W,NOAA SWFSC,Quarterly,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_DO,dissolved_oxygen,NA,Schroeder,NA,32.8N,117.5W,NOAA SWFSC,Quarterly,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_DO,dissolved_oxygen,NA,Schroeder,NA,33.5N,122.5W,NOAA SWFSC,Quarterly,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_DO,dissolved_oxygen,NA,Schroeder,NA,44.65N,124.18W,NOAA SWFSC,Monthly,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_DO,dissolved_oxygen,NA,Schroeder,NA,44.65N,124.65W,NOAA NWFSC,Monthly,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_LUSI,lusi,NA,Schroeder,NA,33N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_LUSI,lusi,NA,Schroeder,NA,36N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_LUSI,lusi,NA,Schroeder,NA,39N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_LUSI,lusi,NA,Schroeder,NA,42N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_LUSI,lusi,NA,Schroeder,NA,45N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_LUSI,lusi,NA,Schroeder,NA,48N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_MEI,MEI,NA,Schroeder,Equatorial Pacific,NULL,NULL,"NOAA, Earth System Research Laboratory (ESRL)",Monthly,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_MHW,area_1,NA,Leising,California Current,NULL,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,NA
+cciea_OC_MHW,intensity_1,NA,Leising,California Current,NULL,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,NA
+cciea_OC_NOI,NOI,NA,Schroeder,Northeast Pacific,NULL,NULL,"NOAA, NMPFS, SWFSC, Environmental Research Division (ERD)",NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_NPGO,NPGO,NA,Schroeder,Northeast Pacific,NULL,NULL,Georgia Institute of Technology (GT),NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_NPH,nph_area,NA,Schroeder,coastwide,"NA","NA",NOAA SWFSC/ERD,Monthly,"NA",Climate and Ocean Drivers,Monthly
+cciea_OC_NPH_JF,nph_area,NA,Schroeder,coastwide,"NA","NA",NOAA SWFSC/ERD,Annual,"NA",Climate and Ocean Drivers,Annual
+cciea_OC_ONI,ONI,NA,Schroeder,Equatorial Pacific,NULL,NULL,"NOAA, Climate Prediction Center (CPC)",NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_PDO,PDO,NA,Schroeder,North Pacific,NULL,NULL,"University of Washington, Joint Institue for the Study of the Atmosphere and Ocean (JISAO)",NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_SL1,sea_level,NA,Schroeder,NA,44.6N,124.0W,NOAA NWFSC,NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_SL2,sea_level,NA,Schroeder,NA,37.8N,122.5W,NOAA NWFSC,NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_SL3,sea_level,NA,Schroeder,NA,32.7N,117.2W,NOAA NWFSC,NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_SST1,SST,NA,Schroeder,NA,44.6N,124.5W,"NOAA NDBC, NOAA",NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_SST2,SST,NA,Schroeder,NA,39.2N,124.0W,"NOAA NDBC, NOAA",NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_SST3,SST,NA,Schroeder,NA,33.7N,119.1W,"NOAA NDBC, NOAA",NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_STI,sti,NA,Schroeder,NA,33N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_STI,sti,NA,Schroeder,NA,36N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_STI,sti,NA,Schroeder,NA,39N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_STI,sti,NA,Schroeder,NA,42N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_STI,sti,NA,Schroeder,NA,45N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_STI,sti,NA,Schroeder,NA,48N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_TUMI,tumi,NA,Schroeder,NA,33N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_TUMI,tumi,NA,Schroeder,NA,36N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_TUMI,tumi,NA,Schroeder,NA,39N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_TUMI,tumi,NA,Schroeder,NA,42N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_TUMI,tumi,NA,Schroeder,NA,45N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_TUMI,tumi,NA,Schroeder,NA,48N,NULL,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Annual
+cciea_OC_UI1,upwelling_index,NA,Schroeder,NA,45N,125W,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_UI2,upwelling_index,NA,Schroeder,NA,39N,125W,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_UI3,upwelling_index,NA,Schroeder,NA,33N,119W,NOAA/SWFSC/ERD,NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_VWND1,vwnd,NA,Schroeder,NA,44.6N,124.5W,"NOAA NDBC, NOAA",NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_VWND2,vwnd,NA,Schroeder,NA,39.2N,124.0W,"NOAA NDBC, NOAA",NA,NA,Climate and Ocean Drivers,Monthly
+cciea_OC_VWND3,vwnd,NA,Schroeder,NA,33.7N,119.1W,"NOAA NDBC, NOAA",NA,NA,Climate and Ocean Drivers,Monthly
+cciea_SM_CA_CH_ABND,abundance_anomaly,NA,"Wells, Wainwright",California Coastal,39N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Abundance
+cciea_SM_CA_CH_ABND,abundance_anomaly,NA,"Wells, Wainwright",Central Valley California,39N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Abundance
+cciea_SM_CA_CH_ABND,abundance_anomaly,NA,"Wells, Wainwright",Klamath River,41.5N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Abundance
+cciea_SM_CA_CH_ABND,abundance_anomaly,NA,"Wells, Wainwright",Southern Oregon Northern California,40N-43N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Abundance
+cciea_SM_CA_CH_CND,condition,NA,"Wells, Wainwright",Central Valley California,39N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Condition
+cciea_SM_CA_CH_CND,condition,NA,"Wells, Wainwright",Klamath River,41.5N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Condition
+cciea_SM_CA_CH_CND,condition,NA,"Wells, Wainwright",Southern Oregon Northern California,40N-43N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Condition
+cciea_SM_CA_CO_ABND,abundance_anomaly,NA,"Wells, T. Williams",California Coastal,39N-40N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus kisutch,Salmon,Coho Abundance
+cciea_SM_CA_CO_ABND,abundance_anomaly,NA,"Wells, T. Williams",Southern Oregon Northern California,40N-43N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus kisutch,Salmon,Coho Abundance
+cciea_SM_ORWA_CH_ABND,abundance_anomaly,NA,"Barnas, M. Williams",Columbia River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Abundance
+cciea_SM_ORWA_CH_ABND,abundance_anomaly,NA,"Barnas, M. Williams",Snake River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Abundance
+cciea_SM_ORWA_CH_ABND,abundance_anomaly,NA,"Barnas, M. Williams",Willamette River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Abundance
+cciea_SM_ORWA_CH_CND,cond_age_div,NA,"Wells, Wainwright",Columbia River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Condition
+cciea_SM_ORWA_CH_CND,cond_age_div,NA,"Wells, Wainwright",Snake River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Condition
+cciea_SM_ORWA_CH_CND,cond_age_div,NA,"Wells, Wainwright",Willamette River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Condition
+cciea_SM_ORWA_CH_CND,cond_pct_nat,NA,"Wells, Wainwright",Columbia River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Condition
+cciea_SM_ORWA_CH_CND,cond_pct_nat,NA,"Wells, Wainwright",Snake River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Condition
+cciea_SM_ORWA_CH_CND,cond_pct_nat,NA,"Wells, Wainwright",Willamette River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Condition
+cciea_SM_ORWA_CH_CND,cond_pop_gr,NA,"Wells, Wainwright",Columbia River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Condition
+cciea_SM_ORWA_CH_CND,cond_pop_gr,NA,"Wells, Wainwright",Snake River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Condition
+cciea_SM_ORWA_CH_CND,cond_pop_gr,NA,"Wells, Wainwright",Willamette River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus tshawytscha,Salmon,Chinook Condition
+cciea_SM_ORWA_CO_ABND,abundance_anomaly,NA,"Barnas, M. Williams",Columbia River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus kisutch,Salmon,Coho Abundance
+cciea_SM_ORWA_CO_ABND,abundance_anomaly,NA,"Barnas, M. Williams",Oregon Coastal,43N-46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus kisutch,Salmon,Coho Abundance
+cciea_SM_ORWA_CO_CND,cond_pct_nat,NA,"Wells, Wainwright",Columbia River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus kisutch,Salmon,Coho Condition
+cciea_SM_ORWA_CO_CND,cond_pct_nat,NA,"Wells, Wainwright",Oregon Coastal,43N-46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus kisutch,Salmon,Coho Condition
+cciea_SM_ORWA_CO_CND,cond_pop_gr,NA,"Wells, Wainwright",Columbia River,46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus kisutch,Salmon,Coho Condition
+cciea_SM_ORWA_CO_CND,cond_pop_gr,NA,"Wells, Wainwright",Oregon Coastal,43N-46N,NULL,NOAA NWFSC/SWFSC,Annually,Oncorhynchus kisutch,Salmon,Coho Condition
+NA,domoic_acid_concentration,NA,Moore,Central CA Coast (Sonoma to San Luis Obispo counties),NULL,NULL,California Department of Public Health,monthly,NA,Ecological Integrity,Other
+NA,domoic_acid_concentration,NA,Moore,Northern CA Coast (Del Norte to Mendocino counties),NULL,NULL,California Department of Public Health,monthly,NA,Ecological Integrity,Other
+NA,domoic_acid_concentration,NA,Moore,Oregon Coast,NULL,NULL,Oregon Department of Fish and Wildlife,monthly,NA,Ecological Integrity,Other
+NA,domoic_acid_concentration,NA,Moore,Southern CA Coast (Santa Barbara to Sand Diego counties),NULL,NULL,California Department of Public Health,monthly,NA,Ecological Integrity,Other
+NA,domoic_acid_concentration,NA,Moore,Washington Coast,NULL,NULL,Washington State Department of Health,monthly,NA,Ecological Integrity,Other
+NA,NA,NA,Schroeder,NA,NULL,NULL,NA,NA,NA,Climate and Ocean Drivers,NA
