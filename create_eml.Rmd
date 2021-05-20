@@ -1,0 +1,56 @@
+---
+title: "Create EML"
+author: "Ben Best"
+date: "5/20/2021"
+output:
+  html_document:
+    code_folding: show
+    toc: true
+    toc_float: true
+    toc_depth: 4 
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = T, warning = F, message = F)
+```
+
+```{r}
+if (!require(librarian)){
+  install.packages("librarian")
+  library(librarian)
+}
+shelf(
+  dplyr, EML, here)
+```
+
+
+## Create EML
+
+* [Read and Write Ecological Metadata Language Files • rOpenSci: EML](https://docs.ropensci.org/EML/#a-minimal-valid-eml-document)
+
+```{r}
+me <- list(
+  individualName = list(
+    givenName = "Ben", surName = "Best"))
+my_eml <- list(
+  dataset = list(
+    title = "A Minimal Valid EML Dataset",
+    creator = me,
+    contact = me))
+
+eml_xml <- here("data/eml_example.xml")
+write_eml(my_eml, eml_xml)
+
+eml_validate(eml_xml)
+```
+
+## Read EML
+
+```{r}
+eml_raw <- readLines(eml_xml) %>% 
+  paste(collapse = "\n")
+```
+
+```xml
+`r eml_raw`
+```
