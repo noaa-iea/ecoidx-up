@@ -3,9 +3,7 @@ if (!require(librarian)){
   library(librarian)
 }
 shelf(
-  dplyr, DT, fs, glue, googleAuthR, here, readr, shiny)
-
-
+  dplyr, DT, noaa-iea/ecoidx, fs, glue, googleAuthR, here, plotly, readr, shiny)
 
 # read all csv files as tables
 tbl_csvs <- list.files(here("data"), "csv$", full.names = T)

@@ -17,6 +17,14 @@ shinyUI(fluidPage(
       tabsetPanel(
         type = "tabs",
         tabPanel(
-          "dataset_vars", 
-          dataTableOutput("tbl_dataset_vars")))))
+          "Datasets", 
+          dataTableOutput("tbl_datasets")),
+        tabPanel(
+          "Variables", 
+          dataTableOutput("tbl_dataset_vars")),
+        tabPanel(
+          "Plot", 
+          #plotlyOutput("fig_ts"))
+          plotOutput("fig_ts"))
+        )))
 ))
