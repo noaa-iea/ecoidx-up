@@ -32,7 +32,7 @@ shinyServer(function(input, output, session) {
   output$tbl_dataset_vars <- renderDataTable({
     dataset_vars %>% 
       filter(dataset_id == get_dataset_id())
-    }, options = list(scrollX = TRUE), selection = 'single')
+    }, options = list(scrollX = TRUE), selection = 'single', editable = T)
   
   #output$fig_ts <- renderPlotly({
   output$fig_ts <- renderPlot({
