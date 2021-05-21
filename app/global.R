@@ -3,7 +3,11 @@ if (!require(librarian)){
   library(librarian)
 }
 shelf(
-  dplyr, DT, noaa-iea/ecoidx, fs, glue, googleAuthR, here, plotly, readr, shiny)
+  dplyr, DT, 
+  # noaa-iea/ecoidx, 
+  fs, glue, googleAuthR, here, plotly, readr, shiny)
+
+devtools::load_all("~/github/noaa-iea/ecoidx")
 
 # read all csv files as tables
 tbl_csvs <- list.files(here("data"), "csv$", full.names = T)

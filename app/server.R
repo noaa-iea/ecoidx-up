@@ -48,22 +48,25 @@ shinyServer(function(input, output, session) {
     d <- get(dataset_id) %>% 
       tibble() %>% 
       select(time, index = all_of(var_id)) %>% 
-      #mutate(year = as.integer(format(as.Date(time),"%Y"))) %>% 
       mutate(
-        year = as.Date(time),
+        year  = as.integer(format(as.Date(time),"%Y")),
+        # year  = as.Date(time),
         index = as.double(index)) %>% 
       select(-time) %>% 
       filter(
         !is.na(year), !is.na(index),
-        !is.nan(year), !is.nan(index))
-    
+        !is.nan(year), !is.nan(index)) %>%
+      select(year, index)
+    # 
     #browser()
+    # View(d)
     
-    #devtools::load_all("~/github/noaa-iea/ecoidx")
-    fig_static <- ecoidx::plot_ts(d) %>% 
+    # devtools::load_all("~/github/noaa-iea/ecoidx")
+    fig_static <- ecoidx::plot_ts(d) +
        ggtitle(glue("{dataset_id}: {var_id}"))
     # p_interactive <- ecoidx::plot_ts(d, add_icons = F) %>% 
     #   plotly::ggplotly()
+    # p_interactive
     fig_static
   })
   
