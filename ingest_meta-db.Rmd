@@ -20,36 +20,160 @@ if (!require(librarian)){
   library(librarian)
 }
 shelf(
-  dplyr, DT, googlesheets4, readr)
+  dplyr, DT, glue, googledrive, googlesheets4, htmltools, purrr, readr)
 ```
 
-## Read Database
+## Read Metadata
 
 - Source: [ERDDAP_CCIEA_database_2021.20210317 - Google Sheets](https://docs.google.com/spreadsheets/d/1F8H2UFcajLVqq_MIPS0YAUt3ZnSSJP7cZ1hxCsMLW4g/edit?ts=6067b512#gid=747268021)
 
 ```{r}
-# Google Sheet
+# GoogleSheet and GoogleDrive locations
+#   shared to shares@iea-uploader.iam.gserviceaccount.com
 gs_url <- "https://docs.google.com/spreadsheets/d/1F8H2UFcajLVqq_MIPS0YAUt3ZnSSJP7cZ1hxCsMLW4g/edit"
+gd_url <- "https://drive.google.com/drive/u/2/folders/1seUbRmpwqhOyTjuWIndBql-m6Z0wvjxx"
+  
+# password authorization file for shares@iea-uploader.iam.gserviceaccount.com
+gs_json <- "/Volumes/GoogleDrive/My Drive/projects/iea-auto/data/iea-uploader-27c589771060.json"
+stopifnot(file.exists(gs_json))
+
+gs4_auth(path = gs_json)
+drive_auth(path = gs_json)
+
+doc <- read_sheet(gs_url, "Documentation", skip = 2)
+meta <- read_sheet(gs_url, "Indicator Metadata")
 
 sheet_names(gs_url)
 # "Views"              "Documentation"      "Indicator Metadata"
 ```
 
+## User Files
+
+To test uploading experience in Meta-app.
+
+### Data Files
+
+Ben's [ca](https://drive.google.com/drive/u/2/folders/1sZpQddkYmT71_hJxDVeKR8jBPnS_7w5H) / [data](`r gd_url`):
+
+```{r}
+data_files <- drive_ls(gd_url, recursive = FALSE) %>% 
+  mutate(
+    url  = glue("https://drive.google.com/file/d/{id}/edit"),
+    gd_file = glue("<a href='{url}' target='_blank'>{name}</id>"))
+
+data_files %>% 
+  select(gd_file) %>% 
+  datatable(
+    escape=F,
+    extensions = 'Buttons',         
+    options = list(
+      dom = 'Bfrtip',
+      buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+      pageLength = nrow(data_files),
+      lengthMenu = c(5, 20, 50, nrow(data_files))))
+```
+
+### **files_PI**
+
+Summary of `indicator name in PI file` in **Indicator Metadata** tab of [ERDDAP_CCIEA_database_2021.20210317 - Google Sheet](https://docs.google.com/spreadsheets/d/1F8H2UFcajLVqq_MIPS0YAUt3ZnSSJP7cZ1hxCsMLW4g/edit?ts=6067b512#gid=747268021) and if match in data/ files above in `gd_data`.
+
+```{r}
+meta_files <- meta %>% 
+  filter(!is.na(`PI filename`)) %>% 
+  group_by(`PI filename`, `ERDDAP Dataset ID`) %>% 
+  summarize(
+    vars_erddap = paste(`Variable Name/ERDDAP`, collapse = ", "),
+    .groups = "drop") %>% 
+  mutate(
+    name = basename(`PI filename`)) %>% 
+  left_join(
+    data_files %>% 
+      select(name, url, gd_file), by = "name")
+
+meta_files  %>% 
+  select(name, `PI filename`, `ERDDAP Dataset ID`, gd_file) %>% 
+  arrange(gd_file, name, `ERDDAP Dataset ID`) %>% 
+  datatable(
+    escape=F,
+    extensions = 'Buttons',
+    options = list(
+      dom = 'Bfrtip',
+      buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+      pageLength = nrow(meta_files),
+      lengthMenu = c(5, 20, 50, nrow(meta_files))))
+```
+
+#### TODO: search for unmatched elsewhere
+
+Like here:
+
+- [2021 Data - Google Drive](https://drive.google.com/drive/u/3/folders/1OXHLGN8xyVSyvpAFnDp7Jrv3GvdW9fVW)
+
+#### Write **files_pi** to Google Sheet
+
+- Write to **files_pi** tab in [ERDDAP_CCIEA_database_2021.20210317 - Google Sheet](https://docs.google.com/spreadsheets/d/1F8H2UFcajLVqq_MIPS0YAUt3ZnSSJP7cZ1hxCsMLW4g/edit?ts=6067b512#gid=1746509196)
+
+```{r, eval=F}
+meta_files %>% 
+  select(gd_file, name, url, `PI filename`, `ERDDAP Dataset ID`, `vars_erddap`) %>% 
+  arrange(gd_file, name) %>% 
+  mutate(
+    gd_file = ifelse(
+      !is.na(url),
+      glue('=HYPERLINK("{url}", "{name}")'),
+      NA) %>% gs4_formula) %>% 
+  select(-url) %>% 
+  write_sheet(gs_url, "files_PI")
+```
+
+### **files_unmatched**
+
+Files found in Ben's [ca](https://drive.google.com/drive/u/2/folders/1sZpQddkYmT71_hJxDVeKR8jBPnS_7w5H) / [data](`r gd_url`) but not matched with PI files (`indicator name in PI file`).  
+
+```{r}
+files_unmatched <- data_files %>%
+  anti_join(meta_files, by="name")
+
+files_unmatched %>% 
+  select(gd_file) %>% 
+  datatable(
+    escape=F,
+    extensions = 'Buttons',
+    options = list(
+      dom = 'Bfrtip',
+      buttons = c('copy', 'csv', 'excel', 'pdf', 'print'),
+      pageLength = nrow(files_unmatched),
+      lengthMenu = c(5, 20, 50, nrow(files_unmatched))))
+```
+
+#### Write **files_unmatched** to Google Sheet
+
+- Write to **files_unmatched** tab in [ERDDAP_CCIEA_database_2021.20210317 - Google Sheet](https://docs.google.com/spreadsheets/d/1F8H2UFcajLVqq_MIPS0YAUt3ZnSSJP7cZ1hxCsMLW4g/edit?ts=6067b512#gid=260570123)
+
+```{r, eval=F}
+files_unmatched %>% 
+  mutate(
+    gd_file = glue('=HYPERLINK("{url}", "{name}")') %>% 
+      gs4_formula) %>% 
+  select(gd_file) %>% 
+  write_sheet(gs_url, "files_unmatched")
+```
+
+## Metadata
+
 ### original: Documentation
 
 ```{r}
-doc <- read_sheet(gs_url, "Documentation", skip = 2)
 datatable(doc)
 ```
 
 ### original: Indicator Metadata
 
 ```{r}
-meta <- read_sheet(gs_url, "Indicator Metadata")
 datatable(meta)
 ```
 
-## Normalize Database
+## Normalize Metadata
 
 ### normalized: providers
 
