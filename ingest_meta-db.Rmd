@@ -40,7 +40,7 @@ stopifnot(file.exists(gs_json))
 gs4_auth(path = gs_json)
 drive_auth(path = gs_json)
 
-doc <- read_sheet(gs_url, "Documentation", skip = 2)
+doc  <- read_sheet(gs_url, "Documentation", skip = 2)
 meta <- read_sheet(gs_url, "Indicator Metadata")
 
 sheet_names(gs_url)
@@ -79,20 +79,22 @@ Summary of `indicator name in PI file` in **Indicator Metadata** tab of [ERDDAP_
 
 ```{r}
 meta_files <- meta %>% 
-  filter(!is.na(`PI filename`)) %>% 
+  filter(
+    !is.na(`PI filename`),
+    serve_flag == 1) %>% 
   group_by(`PI filename`, `ERDDAP Dataset ID`) %>% 
   summarize(
     vars_erddap = paste(`Variable Name/ERDDAP`, collapse = ", "),
     .groups = "drop") %>% 
   mutate(
-    name = basename(`PI filename`)) %>% 
+    basename = basename(`PI filename`)) %>% 
   left_join(
     data_files %>% 
-      select(name, url, gd_file), by = "name")
+      select(basename, url, gd_file), by = "basename")
 
 meta_files  %>% 
-  select(name, `PI filename`, `ERDDAP Dataset ID`, gd_file) %>% 
-  arrange(gd_file, name, `ERDDAP Dataset ID`) %>% 
+  select(basename, `PI filename`, `ERDDAP Dataset ID`, gd_file) %>% 
+  arrange(gd_file, basename, `ERDDAP Dataset ID`) %>% 
   datatable(
     escape=F,
     extensions = 'Buttons',
@@ -114,13 +116,19 @@ Like here:
 - Write to **files_pi** tab in [ERDDAP_CCIEA_database_2021.20210317 - Google Sheet](https://docs.google.com/spreadsheets/d/1F8H2UFcajLVqq_MIPS0YAUt3ZnSSJP7cZ1hxCsMLW4g/edit?ts=6067b512#gid=1746509196)
 
 ```{r, eval=F}
+files_PI <- read_sheet(gs_url, "files_PI") %>% 
+  filter(!is.na(gd_file))
 meta_files %>% 
-  select(gd_file, name, url, `PI filename`, `ERDDAP Dataset ID`, `vars_erddap`) %>% 
-  arrange(gd_file, name) %>% 
+  select(gd_file, basename, url, `PI filename`, `ERDDAP Dataset ID`, `vars_erddap`) %>% 
+  anti_join(
+    files_PI, by = "basename") %>% 
+  bind_rows(
+    files_PI) %>% 
+  arrange(gd_file, basename) %>% 
   mutate(
     gd_file = ifelse(
       !is.na(url),
-      glue('=HYPERLINK("{url}", "{name}")'),
+      glue('=HYPERLINK("{url}", "{basename}")'),
       NA) %>% gs4_formula) %>% 
   select(-url) %>% 
   write_sheet(gs_url, "files_PI")
@@ -132,7 +140,7 @@ Files found in Ben's [ca](https://drive.google.com/drive/u/2/folders/1sZpQddkYmT
 
 ```{r}
 files_unmatched <- data_files %>%
-  anti_join(meta_files, by="name")
+  anti_join(meta_files, by="basename")
 
 files_unmatched %>% 
   select(gd_file) %>% 
