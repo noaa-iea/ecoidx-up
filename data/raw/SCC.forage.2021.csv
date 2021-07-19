@@ -1,0 +1,254 @@
+year,data,metric,timeseries
+2020,1.45497645,ln abundance,Engraulis.mordax
+2019,3.705002359,ln abundance,Engraulis.mordax
+2018,3.403984866,ln abundance,Engraulis.mordax
+2017,NA,ln abundance,Engraulis.mordax
+2016,1.816879647,ln abundance,Engraulis.mordax
+2015,1.088073748,ln abundance,Engraulis.mordax
+2014,1.134948946,ln abundance,Engraulis.mordax
+2013,1.115288861,ln abundance,Engraulis.mordax
+2012,0.413319606,ln abundance,Engraulis.mordax
+2011,0.084963931,ln abundance,Engraulis.mordax
+2010,0.611841892,ln abundance,Engraulis.mordax
+2009,0,ln abundance,Engraulis.mordax
+2008,0,ln abundance,Engraulis.mordax
+2007,0.268477159,ln abundance,Engraulis.mordax
+2006,0,ln abundance,Engraulis.mordax
+2005,0.24242788,ln abundance,Engraulis.mordax
+2004,0.114791035,ln abundance,Engraulis.mordax
+2003,0.895013874,ln abundance,Engraulis.mordax
+2002,0.280551346,ln abundance,Engraulis.mordax
+2001,0.765463662,ln abundance,Engraulis.mordax
+2000,0.357087592,ln abundance,Engraulis.mordax
+1999,1.432072256,ln abundance,Engraulis.mordax
+1998,1.009412789,ln abundance,Engraulis.mordax
+2020,0,ln abundance,Sardinops.sagax
+2019,0,ln abundance,Sardinops.sagax
+2018,0.99845484,ln abundance,Sardinops.sagax
+2017,NA,ln abundance,Sardinops.sagax
+2016,0.17812962,ln abundance,Sardinops.sagax
+2015,0.264667017,ln abundance,Sardinops.sagax
+2014,0,ln abundance,Sardinops.sagax
+2013,0.326814562,ln abundance,Sardinops.sagax
+2012,0.167114419,ln abundance,Sardinops.sagax
+2011,0.104839509,ln abundance,Sardinops.sagax
+2010,0,ln abundance,Sardinops.sagax
+2009,0,ln abundance,Sardinops.sagax
+2008,0,ln abundance,Sardinops.sagax
+2007,0.369599656,ln abundance,Sardinops.sagax
+2006,0,ln abundance,Sardinops.sagax
+2005,0,ln abundance,Sardinops.sagax
+2004,0,ln abundance,Sardinops.sagax
+2003,0.142035423,ln abundance,Sardinops.sagax
+2002,0,ln abundance,Sardinops.sagax
+2001,0,ln abundance,Sardinops.sagax
+2000,0,ln abundance,Sardinops.sagax
+1999,0,ln abundance,Sardinops.sagax
+1998,1.110792199,ln abundance,Sardinops.sagax
+2020,1.094361701,ln abundance,Merluccius.productus
+2019,1.239283674,ln abundance,Merluccius.productus
+2018,2.286105566,ln abundance,Merluccius.productus
+2017,NA,ln abundance,Merluccius.productus
+2016,1.62230765,ln abundance,Merluccius.productus
+2015,1.499807847,ln abundance,Merluccius.productus
+2014,0.273907463,ln abundance,Merluccius.productus
+2013,1.709597501,ln abundance,Merluccius.productus
+2012,2.457357552,ln abundance,Merluccius.productus
+2011,1.698490511,ln abundance,Merluccius.productus
+2010,0.654681079,ln abundance,Merluccius.productus
+2009,0.201238305,ln abundance,Merluccius.productus
+2008,0.395279726,ln abundance,Merluccius.productus
+2007,0.680525,ln abundance,Merluccius.productus
+2006,1.286196378,ln abundance,Merluccius.productus
+2005,0.195399788,ln abundance,Merluccius.productus
+2004,0.584750497,ln abundance,Merluccius.productus
+2003,0.233878273,ln abundance,Merluccius.productus
+2002,2.765397454,ln abundance,Merluccius.productus
+2001,0.800244094,ln abundance,Merluccius.productus
+2000,0.487677046,ln abundance,Merluccius.productus
+1999,1.288743053,ln abundance,Merluccius.productus
+1998,0.129238979,ln abundance,Merluccius.productus
+2020,0,ln abundance,Trachurus.symmetricus
+2019,0.092545458,ln abundance,Trachurus.symmetricus
+2018,0.701534479,ln abundance,Trachurus.symmetricus
+2017,NA,ln abundance,Trachurus.symmetricus
+2016,0,ln abundance,Trachurus.symmetricus
+2015,0,ln abundance,Trachurus.symmetricus
+2014,0,ln abundance,Trachurus.symmetricus
+2013,0,ln abundance,Trachurus.symmetricus
+2012,0,ln abundance,Trachurus.symmetricus
+2011,0,ln abundance,Trachurus.symmetricus
+2010,0,ln abundance,Trachurus.symmetricus
+2009,0,ln abundance,Trachurus.symmetricus
+2008,0,ln abundance,Trachurus.symmetricus
+2007,0,ln abundance,Trachurus.symmetricus
+2006,0,ln abundance,Trachurus.symmetricus
+2005,0,ln abundance,Trachurus.symmetricus
+2004,0,ln abundance,Trachurus.symmetricus
+2003,0.168027992,ln abundance,Trachurus.symmetricus
+2002,0.089435717,ln abundance,Trachurus.symmetricus
+2001,0,ln abundance,Trachurus.symmetricus
+2000,0,ln abundance,Trachurus.symmetricus
+1999,0,ln abundance,Trachurus.symmetricus
+1998,0,ln abundance,Trachurus.symmetricus
+2020,0.295688829,ln abundance,Citharichthys1
+2019,0.61483547,ln abundance,Citharichthys1
+2018,0.747175961,ln abundance,Citharichthys1
+2017,NA,ln abundance,Citharichthys1
+2016,1.060067675,ln abundance,Citharichthys1
+2015,1.080305777,ln abundance,Citharichthys1
+2014,1.318611237,ln abundance,Citharichthys1
+2013,3.239486487,ln abundance,Citharichthys1
+2012,2.599922043,ln abundance,Citharichthys1
+2011,1.802570328,ln abundance,Citharichthys1
+2010,0.485913398,ln abundance,Citharichthys1
+2009,0,ln abundance,Citharichthys1
+2008,0.45205749,ln abundance,Citharichthys1
+2007,0.708123621,ln abundance,Citharichthys1
+2006,0.437222784,ln abundance,Citharichthys1
+2005,0.525269899,ln abundance,Citharichthys1
+2004,0.714527344,ln abundance,Citharichthys1
+2003,0.093329263,ln abundance,Citharichthys1
+2002,1.048523999,ln abundance,Citharichthys1
+2001,1.141971799,ln abundance,Citharichthys1
+2000,0.863848098,ln abundance,Citharichthys1
+1999,0.308679409,ln abundance,Citharichthys1
+1998,0.097370671,ln abundance,Citharichthys1
+2020,1.841008878,ln abundance,Sebastes.spp
+2019,2.163854613,ln abundance,Sebastes.spp
+2018,3.214800966,ln abundance,Sebastes.spp
+2017,NA,ln abundance,Sebastes.spp
+2016,3.888717178,ln abundance,Sebastes.spp
+2015,1.930583448,ln abundance,Sebastes.spp
+2014,2.085849502,ln abundance,Sebastes.spp
+2013,4.088700924,ln abundance,Sebastes.spp
+2012,3.70776868,ln abundance,Sebastes.spp
+2011,2.626482197,ln abundance,Sebastes.spp
+2010,2.538106131,ln abundance,Sebastes.spp
+2009,2.03684983,ln abundance,Sebastes.spp
+2008,2.401458325,ln abundance,Sebastes.spp
+2007,2.984817188,ln abundance,Sebastes.spp
+2006,1.955890115,ln abundance,Sebastes.spp
+2005,1.73998883,ln abundance,Sebastes.spp
+2004,2.407046251,ln abundance,Sebastes.spp
+2003,2.883765754,ln abundance,Sebastes.spp
+2002,2.65268003,ln abundance,Sebastes.spp
+2001,1.278189396,ln abundance,Sebastes.spp
+2000,1.982637805,ln abundance,Sebastes.spp
+1999,1.162315168,ln abundance,Sebastes.spp
+1998,1.717809604,ln abundance,Sebastes.spp
+2020,0.649333673,ln abundance,Stenobrachius leucopsarus
+2019,0.858641528,ln abundance,Stenobrachius leucopsarus
+2018,1.414872623,ln abundance,Stenobrachius leucopsarus
+2017,NA,ln abundance,Stenobrachius leucopsarus
+2016,0.517093822,ln abundance,Stenobrachius leucopsarus
+2015,0.918639334,ln abundance,Stenobrachius leucopsarus
+2014,1.120940532,ln abundance,Stenobrachius leucopsarus
+2013,3.25005128,ln abundance,Stenobrachius leucopsarus
+2012,3.41362332,ln abundance,Stenobrachius leucopsarus
+2011,3.003941427,ln abundance,Stenobrachius leucopsarus
+2010,0.9410143,ln abundance,Stenobrachius leucopsarus
+2009,0.736294806,ln abundance,Stenobrachius leucopsarus
+2008,2.040123492,ln abundance,Stenobrachius leucopsarus
+2007,0.875699494,ln abundance,Stenobrachius leucopsarus
+2006,1.839409784,ln abundance,Stenobrachius leucopsarus
+2005,0.37665279,ln abundance,Stenobrachius leucopsarus
+2004,1.587898668,ln abundance,Stenobrachius leucopsarus
+2003,1.886168789,ln abundance,Stenobrachius leucopsarus
+2002,1.828001419,ln abundance,Stenobrachius leucopsarus
+2001,0.981008512,ln abundance,Stenobrachius leucopsarus
+2000,2.155029535,ln abundance,Stenobrachius leucopsarus
+1999,1.281165047,ln abundance,Stenobrachius leucopsarus
+1998,0.37611617,ln abundance,Stenobrachius leucopsarus
+2020,3.489667338,ln abundance,Southern.mesopelagics
+2019,6.678053625,ln abundance,Southern.mesopelagics
+2018,5.74157124,ln abundance,Southern.mesopelagics
+2017,NA,ln abundance,Southern.mesopelagics
+2016,10.4821608,ln abundance,Southern.mesopelagics
+2015,7.684959179,ln abundance,Southern.mesopelagics
+2014,8.124964483,ln abundance,Southern.mesopelagics
+2013,6.571912516,ln abundance,Southern.mesopelagics
+2012,3.935134874,ln abundance,Southern.mesopelagics
+2011,4.059165153,ln abundance,Southern.mesopelagics
+2010,3.027014025,ln abundance,Southern.mesopelagics
+2009,3.139366196,ln abundance,Southern.mesopelagics
+2008,2.636426487,ln abundance,Southern.mesopelagics
+2007,2.472849475,ln abundance,Southern.mesopelagics
+2006,3.972276336,ln abundance,Southern.mesopelagics
+2005,3.888079079,ln abundance,Southern.mesopelagics
+2004,3.523759041,ln abundance,Southern.mesopelagics
+2003,5.424080637,ln abundance,Southern.mesopelagics
+2002,3.797980813,ln abundance,Southern.mesopelagics
+2001,3.130518086,ln abundance,Southern.mesopelagics
+2000,3.026312903,ln abundance,Southern.mesopelagics
+1999,3.635858282,ln abundance,Southern.mesopelagics
+1998,10.44105173,ln abundance,Southern.mesopelagics
+2020,0.877500161,ln abundance,Leuroglossus stilbius
+2019,2.064668362,ln abundance,Leuroglossus stilbius
+2018,2.034435689,ln abundance,Leuroglossus stilbius
+2017,NA,ln abundance,Leuroglossus stilbius
+2016,1.629757794,ln abundance,Leuroglossus stilbius
+2015,0.990914316,ln abundance,Leuroglossus stilbius
+2014,1.416370148,ln abundance,Leuroglossus stilbius
+2013,1.877236582,ln abundance,Leuroglossus stilbius
+2012,1.840338455,ln abundance,Leuroglossus stilbius
+2011,1.569610015,ln abundance,Leuroglossus stilbius
+2010,0.398780122,ln abundance,Leuroglossus stilbius
+2009,0.329450133,ln abundance,Leuroglossus stilbius
+2008,0.762255969,ln abundance,Leuroglossus stilbius
+2007,1.338231249,ln abundance,Leuroglossus stilbius
+2006,1.832545729,ln abundance,Leuroglossus stilbius
+2005,0.492317895,ln abundance,Leuroglossus stilbius
+2004,0.688401786,ln abundance,Leuroglossus stilbius
+2003,1.042395659,ln abundance,Leuroglossus stilbius
+2002,2.09026226,ln abundance,Leuroglossus stilbius
+2001,1.171749584,ln abundance,Leuroglossus stilbius
+2000,1.200128044,ln abundance,Leuroglossus stilbius
+1999,1.857272626,ln abundance,Leuroglossus stilbius
+1998,0.914291279,ln abundance,Leuroglossus stilbius
+2020,0.700218053,ln abundance,Lipolagus ochotensis
+2019,1.549878023,ln abundance,Lipolagus ochotensis
+2018,1.709892232,ln abundance,Lipolagus ochotensis
+2017,NA,ln abundance,Lipolagus ochotensis
+2016,1.633914533,ln abundance,Lipolagus ochotensis
+2015,1.117120671,ln abundance,Lipolagus ochotensis
+2014,1.24659782,ln abundance,Lipolagus ochotensis
+2013,2.075216747,ln abundance,Lipolagus ochotensis
+2012,2.439751056,ln abundance,Lipolagus ochotensis
+2011,2.496378682,ln abundance,Lipolagus ochotensis
+2010,0.351232274,ln abundance,Lipolagus ochotensis
+2009,0.261624055,ln abundance,Lipolagus ochotensis
+2008,0.293983834,ln abundance,Lipolagus ochotensis
+2007,0.470576905,ln abundance,Lipolagus ochotensis
+2006,1.085673872,ln abundance,Lipolagus ochotensis
+2005,0.620723865,ln abundance,Lipolagus ochotensis
+2004,0.826795555,ln abundance,Lipolagus ochotensis
+2003,0.744901281,ln abundance,Lipolagus ochotensis
+2002,2.156147476,ln abundance,Lipolagus ochotensis
+2001,0.690683131,ln abundance,Lipolagus ochotensis
+2000,0.777011792,ln abundance,Lipolagus ochotensis
+1999,1.123840941,ln abundance,Lipolagus ochotensis
+1998,1.078052017,ln abundance,Lipolagus ochotensis
+2020,0.367515476,ln abundance,Sciaenidae
+2019,0.43224557,ln abundance,Sciaenidae
+2018,0.13431655,ln abundance,Sciaenidae
+2017,NA,ln abundance,Sciaenidae
+2016,0.062899601,ln abundance,Sciaenidae
+2015,0.362598808,ln abundance,Sciaenidae
+2014,0,ln abundance,Sciaenidae
+2013,0.669734917,ln abundance,Sciaenidae
+2012,0.445392239,ln abundance,Sciaenidae
+2011,0.297046522,ln abundance,Sciaenidae
+2010,0.087633604,ln abundance,Sciaenidae
+2009,0,ln abundance,Sciaenidae
+2008,0,ln abundance,Sciaenidae
+2007,0.117489628,ln abundance,Sciaenidae
+2006,0.081949836,ln abundance,Sciaenidae
+2005,0.153281614,ln abundance,Sciaenidae
+2004,0,ln abundance,Sciaenidae
+2003,0,ln abundance,Sciaenidae
+2002,0,ln abundance,Sciaenidae
+2001,0.342771142,ln abundance,Sciaenidae
+2000,0.160943791,ln abundance,Sciaenidae
+1999,0,ln abundance,Sciaenidae
+1998,0,ln abundance,Sciaenidae

@@ -1,0 +1,729 @@
+year,index,metric,series_name,ass_year,CV
+1910,1,Depletion,Dover sole,2011,0
+1911,1,Depletion,Dover sole,2011,0
+1912,0.99998723,Depletion,Dover sole,2011,0
+1913,0.999961691,Depletion,Dover sole,2011,0
+1914,0.999923382,Depletion,Dover sole,2011,0
+1915,0.999872304,Depletion,Dover sole,2011,0
+1916,0.999808456,Depletion,Dover sole,2011,0
+1917,0.999721197,Depletion,Dover sole,2011,0
+1918,0.999474318,Depletion,Dover sole,2011,0
+1919,0.999150822,Depletion,Dover sole,2011,0
+1920,0.998789016,Depletion,Dover sole,2011,0
+1921,0.998444237,Depletion,Dover sole,2011,0
+1922,0.997967506,Depletion,Dover sole,2011,0
+1923,0.99725028,Depletion,Dover sole,2011,0
+1924,0.996454308,Depletion,Dover sole,2011,0
+1925,0.995402945,Depletion,Dover sole,2011,0
+1926,0.994281348,Depletion,Dover sole,2011,0
+1927,0.993200189,Depletion,Dover sole,2011,0
+1928,0.991935999,Depletion,Dover sole,2011,0
+1929,0.990727143,Depletion,Dover sole,2011,0
+1930,0.989384207,Depletion,Dover sole,2011,0
+1931,0.988162583,Depletion,Dover sole,2011,0
+1932,0.987138886,Depletion,Dover sole,2011,0
+1933,0.986172653,Depletion,Dover sole,2011,0
+1934,0.985274525,Depletion,Dover sole,2011,0
+1935,0.984299779,Depletion,Dover sole,2011,0
+1936,0.983139874,Depletion,Dover sole,2011,0
+1937,0.981820349,Depletion,Dover sole,2011,0
+1938,0.980400795,Depletion,Dover sole,2011,0
+1939,0.979030192,Depletion,Dover sole,2011,0
+1940,0.977021108,Depletion,Dover sole,2011,0
+1941,0.974875816,Depletion,Dover sole,2011,0
+1942,0.972628366,Depletion,Dover sole,2011,0
+1943,0.969940366,Depletion,Dover sole,2011,0
+1944,0.964698446,Depletion,Dover sole,2011,0
+1945,0.962097704,Depletion,Dover sole,2011,0
+1946,0.958400906,Depletion,Dover sole,2011,0
+1947,0.953852801,Depletion,Dover sole,2011,0
+1948,0.949651603,Depletion,Dover sole,2011,0
+1949,0.943845692,Depletion,Dover sole,2011,0
+1950,0.93593067,Depletion,Dover sole,2011,0
+1951,0.925276568,Depletion,Dover sole,2011,0
+1952,0.913683901,Depletion,Dover sole,2011,0
+1953,0.900682322,Depletion,Dover sole,2011,0
+1954,0.892024535,Depletion,Dover sole,2011,0
+1955,0.882128096,Depletion,Dover sole,2011,0
+1956,0.872489178,Depletion,Dover sole,2011,0
+1957,0.862763001,Depletion,Dover sole,2011,0
+1958,0.853817897,Depletion,Dover sole,2011,0
+1959,0.844853639,Depletion,Dover sole,2011,0
+1960,0.837179111,Depletion,Dover sole,2011,0
+1961,0.828689456,Depletion,Dover sole,2011,0
+1962,0.824049835,Depletion,Dover sole,2011,0
+1963,0.821536353,Depletion,Dover sole,2011,0
+1964,0.821412913,Depletion,Dover sole,2011,0
+1965,0.825965275,Depletion,Dover sole,2011,0
+1966,0.83461455,Depletion,Dover sole,2011,0
+1967,0.845851796,Depletion,Dover sole,2011,0
+1968,0.859711067,Depletion,Dover sole,2011,0
+1969,0.872499819,Depletion,Dover sole,2011,0
+1970,0.882117455,Depletion,Dover sole,2011,0
+1971,0.892154359,Depletion,Dover sole,2011,0
+1972,0.90625838,Depletion,Dover sole,2011,0
+1973,0.918453346,Depletion,Dover sole,2011,0
+1974,0.932144484,Depletion,Dover sole,2011,0
+1975,0.945205654,Depletion,Dover sole,2011,0
+1976,0.952265114,Depletion,Dover sole,2011,0
+1977,0.952609893,Depletion,Dover sole,2011,0
+1978,0.948391669,Depletion,Dover sole,2011,0
+1979,0.936586176,Depletion,Dover sole,2011,0
+1980,0.914590543,Depletion,Dover sole,2011,0
+1981,0.893067385,Depletion,Dover sole,2011,0
+1982,0.868353956,Depletion,Dover sole,2011,0
+1983,0.838362427,Depletion,Dover sole,2011,0
+1984,0.811763354,Depletion,Dover sole,2011,0
+1985,0.787713944,Depletion,Dover sole,2011,0
+1986,0.763132468,Depletion,Dover sole,2011,0
+1987,0.744173871,Depletion,Dover sole,2011,0
+1988,0.725457897,Depletion,Dover sole,2011,0
+1989,0.70840197,Depletion,Dover sole,2011,0
+1990,0.690407478,Depletion,Dover sole,2011,0
+1991,0.676403485,Depletion,Dover sole,2011,0
+1992,0.658947445,Depletion,Dover sole,2011,0
+1993,0.644660393,Depletion,Dover sole,2011,0
+1994,0.635617389,Depletion,Dover sole,2011,0
+1995,0.638790634,Depletion,Dover sole,2011,0
+1996,0.646724811,Depletion,Dover sole,2011,0
+1997,0.657027748,Depletion,Dover sole,2011,0
+1998,0.674353965,Depletion,Dover sole,2011,0
+1999,0.699156781,Depletion,Dover sole,2011,0
+2000,0.725102476,Depletion,Dover sole,2011,0
+2001,0.749164655,Depletion,Dover sole,2011,0
+2002,0.769383186,Depletion,Dover sole,2011,0
+2003,0.784057582,Depletion,Dover sole,2011,0
+2004,0.794933023,Depletion,Dover sole,2011,0
+2005,0.806851315,Depletion,Dover sole,2011,0
+2006,0.818437597,Depletion,Dover sole,2011,0
+2007,0.831924421,Depletion,Dover sole,2011,0
+2008,0.842980765,Depletion,Dover sole,2011,0
+2009,0.849010143,Depletion,Dover sole,2011,0
+2010,0.846700974,Depletion,Dover sole,2011,0
+2011,0.837487709,Depletion,Dover sole,2011,0
+1876,1,Depletion,Petrale sole,2013,0
+1877,0.999992,Depletion,Petrale sole,2013,0
+1878,0.999974,Depletion,Petrale sole,2013,0
+1879,0.999957,Depletion,Petrale sole,2013,0
+1880,0.999942,Depletion,Petrale sole,2013,0
+1881,0.99971,Depletion,Petrale sole,2013,0
+1882,0.999272,Depletion,Petrale sole,2013,0
+1883,0.998639,Depletion,Petrale sole,2013,0
+1884,0.997825,Depletion,Petrale sole,2013,0
+1885,0.996845,Depletion,Petrale sole,2013,0
+1886,0.995714,Depletion,Petrale sole,2013,0
+1887,0.994446,Depletion,Petrale sole,2013,0
+1888,0.993054,Depletion,Petrale sole,2013,0
+1889,0.991551,Depletion,Petrale sole,2013,0
+1890,0.989949,Depletion,Petrale sole,2013,0
+1891,0.988258,Depletion,Petrale sole,2013,0
+1892,0.986488,Depletion,Petrale sole,2013,0
+1893,0.984649,Depletion,Petrale sole,2013,0
+1894,0.982748,Depletion,Petrale sole,2013,0
+1895,0.980793,Depletion,Petrale sole,2013,0
+1896,0.97879,Depletion,Petrale sole,2013,0
+1897,0.97674,Depletion,Petrale sole,2013,0
+1898,0.974655,Depletion,Petrale sole,2013,0
+1899,0.97254,Depletion,Petrale sole,2013,0
+1900,0.970397,Depletion,Petrale sole,2013,0
+1901,0.968232,Depletion,Petrale sole,2013,0
+1902,0.966047,Depletion,Petrale sole,2013,0
+1903,0.963845,Depletion,Petrale sole,2013,0
+1904,0.96163,Depletion,Petrale sole,2013,0
+1905,0.959403,Depletion,Petrale sole,2013,0
+1906,0.957169,Depletion,Petrale sole,2013,0
+1907,0.954928,Depletion,Petrale sole,2013,0
+1908,0.952683,Depletion,Petrale sole,2013,0
+1909,0.950437,Depletion,Petrale sole,2013,0
+1910,0.948192,Depletion,Petrale sole,2013,0
+1911,0.945949,Depletion,Petrale sole,2013,0
+1912,0.943712,Depletion,Petrale sole,2013,0
+1913,0.941483,Depletion,Petrale sole,2013,0
+1914,0.939264,Depletion,Petrale sole,2013,0
+1915,0.93706,Depletion,Petrale sole,2013,0
+1916,0.934872,Depletion,Petrale sole,2013,0
+1917,0.932806,Depletion,Petrale sole,2013,0
+1918,0.928093,Depletion,Petrale sole,2013,0
+1919,0.92584,Depletion,Petrale sole,2013,0
+1920,0.925739,Depletion,Petrale sole,2013,0
+1921,0.927959,Depletion,Petrale sole,2013,0
+1922,0.928952,Depletion,Petrale sole,2013,0
+1923,0.927317,Depletion,Petrale sole,2013,0
+1924,0.925782,Depletion,Petrale sole,2013,0
+1925,0.922257,Depletion,Petrale sole,2013,0
+1926,0.91911,Depletion,Petrale sole,2013,0
+1927,0.91643,Depletion,Petrale sole,2013,0
+1928,0.911824,Depletion,Petrale sole,2013,0
+1929,0.907902,Depletion,Petrale sole,2013,0
+1930,0.902638,Depletion,Petrale sole,2013,0
+1931,0.898885,Depletion,Petrale sole,2013,0
+1932,0.895301,Depletion,Petrale sole,2013,0
+1933,0.889538,Depletion,Petrale sole,2013,0
+1934,0.883775,Depletion,Petrale sole,2013,0
+1935,0.863088,Depletion,Petrale sole,2013,0
+1936,0.844263,Depletion,Petrale sole,2013,0
+1937,0.832935,Depletion,Petrale sole,2013,0
+1938,0.811489,Depletion,Petrale sole,2013,0
+1939,0.7868,Depletion,Petrale sole,2013,0
+1940,0.754715,Depletion,Petrale sole,2013,0
+1941,0.728023,Depletion,Petrale sole,2013,0
+1942,0.710021,Depletion,Petrale sole,2013,0
+1943,0.677017,Depletion,Petrale sole,2013,0
+1944,0.64616,Depletion,Petrale sole,2013,0
+1945,0.633349,Depletion,Petrale sole,2013,0
+1946,0.625561,Depletion,Petrale sole,2013,0
+1947,0.592155,Depletion,Petrale sole,2013,0
+1948,0.570921,Depletion,Petrale sole,2013,0
+1949,0.521718,Depletion,Petrale sole,2013,0
+1950,0.475015,Depletion,Petrale sole,2013,0
+1951,0.424099,Depletion,Petrale sole,2013,0
+1952,0.403989,Depletion,Petrale sole,2013,0
+1953,0.387487,Depletion,Petrale sole,2013,0
+1954,0.377055,Depletion,Petrale sole,2013,0
+1955,0.354013,Depletion,Petrale sole,2013,0
+1956,0.336075,Depletion,Petrale sole,2013,0
+1957,0.324898,Depletion,Petrale sole,2013,0
+1958,0.303706,Depletion,Petrale sole,2013,0
+1959,0.286177,Depletion,Petrale sole,2013,0
+1960,0.278469,Depletion,Petrale sole,2013,0
+1961,0.264634,Depletion,Petrale sole,2013,0
+1962,0.241182,Depletion,Petrale sole,2013,0
+1963,0.221063,Depletion,Petrale sole,2013,0
+1964,0.202085,Depletion,Petrale sole,2013,0
+1965,0.197489,Depletion,Petrale sole,2013,0
+1966,0.201047,Depletion,Petrale sole,2013,0
+1967,0.204704,Depletion,Petrale sole,2013,0
+1968,0.204787,Depletion,Petrale sole,2013,0
+1969,0.209488,Depletion,Petrale sole,2013,0
+1970,0.220083,Depletion,Petrale sole,2013,0
+1971,0.231399,Depletion,Petrale sole,2013,0
+1972,0.24717,Depletion,Petrale sole,2013,0
+1973,0.252127,Depletion,Petrale sole,2013,0
+1974,0.255258,Depletion,Petrale sole,2013,0
+1975,0.23575,Depletion,Petrale sole,2013,0
+1976,0.212006,Depletion,Petrale sole,2013,0
+1977,0.195185,Depletion,Petrale sole,2013,0
+1978,0.183312,Depletion,Petrale sole,2013,0
+1979,0.156591,Depletion,Petrale sole,2013,0
+1980,0.129713,Depletion,Petrale sole,2013,0
+1981,0.11721,Depletion,Petrale sole,2013,0
+1982,0.110144,Depletion,Petrale sole,2013,0
+1983,0.101362,Depletion,Petrale sole,2013,0
+1984,0.0958579,Depletion,Petrale sole,2013,0
+1985,0.0975764,Depletion,Petrale sole,2013,0
+1986,0.0998646,Depletion,Petrale sole,2013,0
+1987,0.0958805,Depletion,Petrale sole,2013,0
+1988,0.0850762,Depletion,Petrale sole,2013,0
+1989,0.0799805,Depletion,Petrale sole,2013,0
+1990,0.0762391,Depletion,Petrale sole,2013,0
+1991,0.071957,Depletion,Petrale sole,2013,0
+1992,0.0597108,Depletion,Petrale sole,2013,0
+1993,0.0556061,Depletion,Petrale sole,2013,0
+1994,0.0602587,Depletion,Petrale sole,2013,0
+1995,0.0748378,Depletion,Petrale sole,2013,0
+1996,0.087851,Depletion,Petrale sole,2013,0
+1997,0.0909095,Depletion,Petrale sole,2013,0
+1998,0.0873156,Depletion,Petrale sole,2013,0
+1999,0.0905502,Depletion,Petrale sole,2013,0
+2000,0.0976834,Depletion,Petrale sole,2013,0
+2001,0.0993495,Depletion,Petrale sole,2013,0
+2002,0.101091,Depletion,Petrale sole,2013,0
+2003,0.109676,Depletion,Petrale sole,2013,0
+2004,0.130405,Depletion,Petrale sole,2013,0
+2005,0.142412,Depletion,Petrale sole,2013,0
+2006,0.134258,Depletion,Petrale sole,2013,0
+2007,0.13045,Depletion,Petrale sole,2013,0
+2008,0.119268,Depletion,Petrale sole,2013,0
+2009,0.111388,Depletion,Petrale sole,2013,0
+2010,0.104155,Depletion,Petrale sole,2013,0
+2011,0.127859,Depletion,Petrale sole,2013,0
+2012,0.168532,Depletion,Petrale sole,2013,0
+2013,0.22304,Depletion,Petrale sole,2013,0
+1916,1,Depletion,Arrowtooth,2007,0
+1917,1,Depletion,Arrowtooth,2007,0
+1918,1,Depletion,Arrowtooth,2007,0
+1919,1,Depletion,Arrowtooth,2007,0
+1920,1,Depletion,Arrowtooth,2007,0
+1921,1,Depletion,Arrowtooth,2007,0
+1922,1,Depletion,Arrowtooth,2007,0
+1923,1,Depletion,Arrowtooth,2007,0
+1924,1,Depletion,Arrowtooth,2007,0
+1925,1,Depletion,Arrowtooth,2007,0
+1926,1,Depletion,Arrowtooth,2007,0
+1927,1,Depletion,Arrowtooth,2007,0
+1928,1,Depletion,Arrowtooth,2007,0
+1929,1,Depletion,Arrowtooth,2007,0
+1930,0.999942724,Depletion,Arrowtooth,2007,0
+1931,0.999925293,Depletion,Arrowtooth,2007,0
+1932,0.999909106,Depletion,Arrowtooth,2007,0
+1933,0.999785839,Depletion,Arrowtooth,2007,0
+1934,0.999712377,Depletion,Arrowtooth,2007,0
+1935,0.999668798,Depletion,Arrowtooth,2007,0
+1936,0.999579149,Depletion,Arrowtooth,2007,0
+1937,0.999256663,Depletion,Arrowtooth,2007,0
+1938,0.99777995,Depletion,Arrowtooth,2007,0
+1939,0.997752557,Depletion,Arrowtooth,2007,0
+1940,0.993226543,Depletion,Arrowtooth,2007,0
+1941,0.986866467,Depletion,Arrowtooth,2007,0
+1942,0.978572718,Depletion,Arrowtooth,2007,0
+1943,0.974988016,Depletion,Arrowtooth,2007,0
+1944,0.958531256,Depletion,Arrowtooth,2007,0
+1945,0.955897825,Depletion,Arrowtooth,2007,0
+1946,0.956859059,Depletion,Arrowtooth,2007,0
+1947,0.957880058,Depletion,Arrowtooth,2007,0
+1948,0.956693458,Depletion,Arrowtooth,2007,0
+1949,0.950556258,Depletion,Arrowtooth,2007,0
+1950,0.942267489,Depletion,Arrowtooth,2007,0
+1951,0.944011903,Depletion,Arrowtooth,2007,0
+1952,0.944656876,Depletion,Arrowtooth,2007,0
+1953,0.945139983,Depletion,Arrowtooth,2007,0
+1954,0.936327018,Depletion,Arrowtooth,2007,0
+1955,0.94021304,Depletion,Arrowtooth,2007,0
+1956,0.941661116,Depletion,Arrowtooth,2007,0
+1957,0.894600534,Depletion,Arrowtooth,2007,0
+1958,0.862190043,Depletion,Arrowtooth,2007,0
+1959,0.836276591,Depletion,Arrowtooth,2007,0
+1960,0.809297316,Depletion,Arrowtooth,2007,0
+1961,0.789354218,Depletion,Arrowtooth,2007,0
+1962,0.765933498,Depletion,Arrowtooth,2007,0
+1963,0.74769497,Depletion,Arrowtooth,2007,0
+1964,0.73340472,Depletion,Arrowtooth,2007,0
+1965,0.718047402,Depletion,Arrowtooth,2007,0
+1966,0.709757388,Depletion,Arrowtooth,2007,0
+1967,0.702028924,Depletion,Arrowtooth,2007,0
+1968,0.697220268,Depletion,Arrowtooth,2007,0
+1969,0.686116282,Depletion,Arrowtooth,2007,0
+1970,0.653774272,Depletion,Arrowtooth,2007,0
+1971,0.609101832,Depletion,Arrowtooth,2007,0
+1972,0.558227446,Depletion,Arrowtooth,2007,0
+1973,0.504140649,Depletion,Arrowtooth,2007,0
+1974,0.4542138,Depletion,Arrowtooth,2007,0
+1975,0.437395955,Depletion,Arrowtooth,2007,0
+1976,0.452433277,Depletion,Arrowtooth,2007,0
+1977,0.45715851,Depletion,Arrowtooth,2007,0
+1978,0.475856487,Depletion,Arrowtooth,2007,0
+1979,0.501679045,Depletion,Arrowtooth,2007,0
+1980,0.523936823,Depletion,Arrowtooth,2007,0
+1981,0.567494879,Depletion,Arrowtooth,2007,0
+1982,0.592386087,Depletion,Arrowtooth,2007,0
+1983,0.594964732,Depletion,Arrowtooth,2007,0
+1984,0.621438488,Depletion,Arrowtooth,2007,0
+1985,0.65916938,Depletion,Arrowtooth,2007,0
+1986,0.686321727,Depletion,Arrowtooth,2007,0
+1987,0.702850704,Depletion,Arrowtooth,2007,0
+1988,0.700818667,Depletion,Arrowtooth,2007,0
+1989,0.711702267,Depletion,Arrowtooth,2007,0
+1990,0.702198261,Depletion,Arrowtooth,2007,0
+1991,0.662590972,Depletion,Arrowtooth,2007,0
+1992,0.642307956,Depletion,Arrowtooth,2007,0
+1993,0.640980657,Depletion,Arrowtooth,2007,0
+1994,0.654347028,Depletion,Arrowtooth,2007,0
+1995,0.682012364,Depletion,Arrowtooth,2007,0
+1996,0.694253145,Depletion,Arrowtooth,2007,0
+1997,0.680123516,Depletion,Arrowtooth,2007,0
+1998,0.669893604,Depletion,Arrowtooth,2007,0
+1999,0.659439571,Depletion,Arrowtooth,2007,0
+2000,0.603478867,Depletion,Arrowtooth,2007,0
+2001,0.55847149,Depletion,Arrowtooth,2007,0
+2002,0.527062075,Depletion,Arrowtooth,2007,0
+2003,0.553685246,Depletion,Arrowtooth,2007,0
+2004,0.635273024,Depletion,Arrowtooth,2007,0
+2005,0.703322605,Depletion,Arrowtooth,2007,0
+2006,0.754959004,Depletion,Arrowtooth,2007,0
+2007,0.788180069,Depletion,Arrowtooth,2007,0
+1876,1,Depletion,English sole,2013,0
+1877,0.999973,Depletion,English sole,2013,0
+1878,0.99995,Depletion,English sole,2013,0
+1879,0.999931,Depletion,English sole,2013,0
+1880,0.999888,Depletion,English sole,2013,0
+1881,0.999852,Depletion,English sole,2013,0
+1882,0.999822,Depletion,English sole,2013,0
+1883,0.999771,Depletion,English sole,2013,0
+1884,0.999674,Depletion,English sole,2013,0
+1885,0.999593,Depletion,English sole,2013,0
+1886,0.999497,Depletion,English sole,2013,0
+1887,0.99939,Depletion,English sole,2013,0
+1888,0.999275,Depletion,English sole,2013,0
+1889,0.999126,Depletion,English sole,2013,0
+1890,0.998921,Depletion,English sole,2013,0
+1891,0.998694,Depletion,English sole,2013,0
+1892,0.998451,Depletion,English sole,2013,0
+1893,0.998143,Depletion,English sole,2013,0
+1894,0.997777,Depletion,English sole,2013,0
+1895,0.997311,Depletion,English sole,2013,0
+1896,0.996759,Depletion,English sole,2013,0
+1897,0.996137,Depletion,English sole,2013,0
+1898,0.99535,Depletion,English sole,2013,0
+1899,0.994423,Depletion,English sole,2013,0
+1900,0.993326,Depletion,English sole,2013,0
+1901,0.992008,Depletion,English sole,2013,0
+1902,0.990396,Depletion,English sole,2013,0
+1903,0.988485,Depletion,English sole,2013,0
+1904,0.986162,Depletion,English sole,2013,0
+1905,0.983364,Depletion,English sole,2013,0
+1906,0.98003,Depletion,English sole,2013,0
+1907,0.976037,Depletion,English sole,2013,0
+1908,0.971224,Depletion,English sole,2013,0
+1909,0.965458,Depletion,English sole,2013,0
+1910,0.958545,Depletion,English sole,2013,0
+1911,0.95022,Depletion,English sole,2013,0
+1912,0.940229,Depletion,English sole,2013,0
+1913,0.928231,Depletion,English sole,2013,0
+1914,0.913806,Depletion,English sole,2013,0
+1915,0.89649,Depletion,English sole,2013,0
+1916,0.875687,Depletion,English sole,2013,0
+1917,0.82076,Depletion,English sole,2013,0
+1918,0.747091,Depletion,English sole,2013,0
+1919,0.703054,Depletion,English sole,2013,0
+1920,0.685293,Depletion,English sole,2013,0
+1921,0.690693,Depletion,English sole,2013,0
+1922,0.68389,Depletion,English sole,2013,0
+1923,0.653348,Depletion,English sole,2013,0
+1924,0.624901,Depletion,English sole,2013,0
+1925,0.577258,Depletion,English sole,2013,0
+1926,0.538808,Depletion,English sole,2013,0
+1927,0.509854,Depletion,English sole,2013,0
+1928,0.465587,Depletion,English sole,2013,0
+1929,0.440903,Depletion,English sole,2013,0
+1930,0.40493,Depletion,English sole,2013,0
+1931,0.400256,Depletion,English sole,2013,0
+1932,0.440299,Depletion,English sole,2013,0
+1933,0.434764,Depletion,English sole,2013,0
+1934,0.432084,Depletion,English sole,2013,0
+1935,0.442833,Depletion,English sole,2013,0
+1936,0.442783,Depletion,English sole,2013,0
+1937,0.439227,Depletion,English sole,2013,0
+1938,0.440181,Depletion,English sole,2013,0
+1939,0.456653,Depletion,English sole,2013,0
+1940,0.461349,Depletion,English sole,2013,0
+1941,0.464054,Depletion,English sole,2013,0
+1942,0.484625,Depletion,English sole,2013,0
+1943,0.509125,Depletion,English sole,2013,0
+1944,0.490248,Depletion,English sole,2013,0
+1945,0.509415,Depletion,English sole,2013,0
+1946,0.53529,Depletion,English sole,2013,0
+1947,0.479578,Depletion,English sole,2013,0
+1948,0.469856,Depletion,English sole,2013,0
+1949,0.399127,Depletion,English sole,2013,0
+1950,0.394626,Depletion,English sole,2013,0
+1951,0.34307,Depletion,English sole,2013,0
+1952,0.332925,Depletion,English sole,2013,0
+1953,0.332817,Depletion,English sole,2013,0
+1954,0.352495,Depletion,English sole,2013,0
+1955,0.379902,Depletion,English sole,2013,0
+1956,0.395594,Depletion,English sole,2013,0
+1957,0.386178,Depletion,English sole,2013,0
+1958,0.362485,Depletion,English sole,2013,0
+1959,0.315262,Depletion,English sole,2013,0
+1960,0.276906,Depletion,English sole,2013,0
+1961,0.269175,Depletion,English sole,2013,0
+1962,0.26934,Depletion,English sole,2013,0
+1963,0.259338,Depletion,English sole,2013,0
+1964,0.249367,Depletion,English sole,2013,0
+1965,0.235549,Depletion,English sole,2013,0
+1966,0.21785,Depletion,English sole,2013,0
+1967,0.190959,Depletion,English sole,2013,0
+1968,0.1762,Depletion,English sole,2013,0
+1969,0.16017,Depletion,English sole,2013,0
+1970,0.173466,Depletion,English sole,2013,0
+1971,0.197234,Depletion,English sole,2013,0
+1972,0.224006,Depletion,English sole,2013,0
+1973,0.236669,Depletion,English sole,2013,0
+1974,0.234993,Depletion,English sole,2013,0
+1975,0.230872,Depletion,English sole,2013,0
+1976,0.214369,Depletion,English sole,2013,0
+1977,0.182489,Depletion,English sole,2013,0
+1978,0.194489,Depletion,English sole,2013,0
+1979,0.188622,Depletion,English sole,2013,0
+1980,0.178283,Depletion,English sole,2013,0
+1981,0.178372,Depletion,English sole,2013,0
+1982,0.185132,Depletion,English sole,2013,0
+1983,0.190278,Depletion,English sole,2013,0
+1984,0.209262,Depletion,English sole,2013,0
+1985,0.244849,Depletion,English sole,2013,0
+1986,0.265105,Depletion,English sole,2013,0
+1987,0.276134,Depletion,English sole,2013,0
+1988,0.266928,Depletion,English sole,2013,0
+1989,0.273917,Depletion,English sole,2013,0
+1990,0.272936,Depletion,English sole,2013,0
+1991,0.295009,Depletion,English sole,2013,0
+1992,0.306671,Depletion,English sole,2013,0
+1993,0.332932,Depletion,English sole,2013,0
+1994,0.359111,Depletion,English sole,2013,0
+1995,0.398126,Depletion,English sole,2013,0
+1996,0.439076,Depletion,English sole,2013,0
+1997,0.48031,Depletion,English sole,2013,0
+1998,0.506204,Depletion,English sole,2013,0
+1999,0.541465,Depletion,English sole,2013,0
+2000,0.5792,Depletion,English sole,2013,0
+2001,0.61859,Depletion,English sole,2013,0
+2002,0.641766,Depletion,English sole,2013,0
+2003,0.651199,Depletion,English sole,2013,0
+2004,0.675658,Depletion,English sole,2013,0
+2005,0.694745,Depletion,English sole,2013,0
+2006,0.71363,Depletion,English sole,2013,0
+2007,0.730948,Depletion,English sole,2013,0
+2008,0.753301,Depletion,English sole,2013,0
+2009,0.783837,Depletion,English sole,2013,0
+2010,0.810166,Depletion,English sole,2013,0
+2011,0.836938,Depletion,English sole,2013,0
+2012,0.860468,Depletion,English sole,2013,0
+2013,0.879429,Depletion,English sole,2013,0
+1896,1,Depletion,Rex sole,2013,0
+1897,1,Depletion,Rex sole,2013,0
+1898,1,Depletion,Rex sole,2013,0
+1899,1,Depletion,Rex sole,2013,0
+1900,1,Depletion,Rex sole,2013,0
+1901,1,Depletion,Rex sole,2013,0
+1902,1,Depletion,Rex sole,2013,0
+1903,1,Depletion,Rex sole,2013,0
+1904,1,Depletion,Rex sole,2013,0
+1905,1,Depletion,Rex sole,2013,0
+1906,1,Depletion,Rex sole,2013,0
+1907,1,Depletion,Rex sole,2013,0
+1908,1,Depletion,Rex sole,2013,0
+1909,1,Depletion,Rex sole,2013,0
+1910,1,Depletion,Rex sole,2013,0
+1911,1,Depletion,Rex sole,2013,0
+1912,1,Depletion,Rex sole,2013,0
+1913,1,Depletion,Rex sole,2013,0
+1914,1,Depletion,Rex sole,2013,0
+1915,1,Depletion,Rex sole,2013,0
+1916,1,Depletion,Rex sole,2013,0
+1917,0.991389,Depletion,Rex sole,2013,0
+1918,0.980753,Depletion,Rex sole,2013,0
+1919,0.973952,Depletion,Rex sole,2013,0
+1920,0.970433,Depletion,Rex sole,2013,0
+1921,0.9701275,Depletion,Rex sole,2013,0
+1922,0.968181,Depletion,Rex sole,2013,0
+1923,0.963813,Depletion,Rex sole,2013,0
+1924,0.959923,Depletion,Rex sole,2013,0
+1925,0.954259,Depletion,Rex sole,2013,0
+1926,0.949483,Depletion,Rex sole,2013,0
+1927,0.945786,Depletion,Rex sole,2013,0
+1928,0.940159,Depletion,Rex sole,2013,0
+1929,0.935716,Depletion,Rex sole,2013,0
+1930,0.929855,Depletion,Rex sole,2013,0
+1931,0.926235,Depletion,Rex sole,2013,0
+1932,0.915245,Depletion,Rex sole,2013,0
+1933,0.913831,Depletion,Rex sole,2013,0
+1934,0.912968,Depletion,Rex sole,2013,0
+1935,0.90875,Depletion,Rex sole,2013,0
+1936,0.906209,Depletion,Rex sole,2013,0
+1937,0.907476,Depletion,Rex sole,2013,0
+1938,0.910004,Depletion,Rex sole,2013,0
+1939,0.909554,Depletion,Rex sole,2013,0
+1940,0.905017,Depletion,Rex sole,2013,0
+1941,0.902361,Depletion,Rex sole,2013,0
+1942,0.905715,Depletion,Rex sole,2013,0
+1943,0.910108,Depletion,Rex sole,2013,0
+1944,0.895752,Depletion,Rex sole,2013,0
+1945,0.896927,Depletion,Rex sole,2013,0
+1946,0.899157,Depletion,Rex sole,2013,0
+1947,0.897937,Depletion,Rex sole,2013,0
+1948,0.8890255,Depletion,Rex sole,2013,0
+1949,0.8708855,Depletion,Rex sole,2013,0
+1950,0.850721,Depletion,Rex sole,2013,0
+1951,0.835746,Depletion,Rex sole,2013,0
+1952,0.820705,Depletion,Rex sole,2013,0
+1953,0.8012975,Depletion,Rex sole,2013,0
+1954,0.771895,Depletion,Rex sole,2013,0
+1955,0.7425795,Depletion,Rex sole,2013,0
+1956,0.696015,Depletion,Rex sole,2013,0
+1957,0.638743,Depletion,Rex sole,2013,0
+1958,0.5958315,Depletion,Rex sole,2013,0
+1959,0.555371,Depletion,Rex sole,2013,0
+1960,0.525418,Depletion,Rex sole,2013,0
+1961,0.501807,Depletion,Rex sole,2013,0
+1962,0.47725,Depletion,Rex sole,2013,0
+1963,0.4391,Depletion,Rex sole,2013,0
+1964,0.3957245,Depletion,Rex sole,2013,0
+1965,0.383761,Depletion,Rex sole,2013,0
+1966,0.376464,Depletion,Rex sole,2013,0
+1967,0.344341,Depletion,Rex sole,2013,0
+1968,0.315522,Depletion,Rex sole,2013,0
+1969,0.295825,Depletion,Rex sole,2013,0
+1970,0.267487,Depletion,Rex sole,2013,0
+1971,0.258185,Depletion,Rex sole,2013,0
+1972,0.264179,Depletion,Rex sole,2013,0
+1973,0.254307,Depletion,Rex sole,2013,0
+1974,0.245448,Depletion,Rex sole,2013,0
+1975,0.238605,Depletion,Rex sole,2013,0
+1976,0.2327445,Depletion,Rex sole,2013,0
+1977,0.223705,Depletion,Rex sole,2013,0
+1978,0.2224205,Depletion,Rex sole,2013,0
+1979,0.213275,Depletion,Rex sole,2013,0
+1980,0.1973405,Depletion,Rex sole,2013,0
+1981,0.1920045,Depletion,Rex sole,2013,0
+1982,0.188023,Depletion,Rex sole,2013,0
+1983,0.183198,Depletion,Rex sole,2013,0
+1984,0.181577,Depletion,Rex sole,2013,0
+1985,0.183291,Depletion,Rex sole,2013,0
+1986,0.182932,Depletion,Rex sole,2013,0
+1987,0.185506,Depletion,Rex sole,2013,0
+1988,0.188038,Depletion,Rex sole,2013,0
+1989,0.18957,Depletion,Rex sole,2013,0
+1990,0.196722,Depletion,Rex sole,2013,0
+1991,0.223212,Depletion,Rex sole,2013,0
+1992,0.230691,Depletion,Rex sole,2013,0
+1993,0.260032,Depletion,Rex sole,2013,0
+1994,0.298548,Depletion,Rex sole,2013,0
+1995,0.329682,Depletion,Rex sole,2013,0
+1996,0.3532525,Depletion,Rex sole,2013,0
+1997,0.381113,Depletion,Rex sole,2013,0
+1998,0.412672,Depletion,Rex sole,2013,0
+1999,0.4577785,Depletion,Rex sole,2013,0
+2000,0.5012,Depletion,Rex sole,2013,0
+2001,0.546557,Depletion,Rex sole,2013,0
+2002,0.579173,Depletion,Rex sole,2013,0
+2003,0.608468,Depletion,Rex sole,2013,0
+2004,0.635988,Depletion,Rex sole,2013,0
+2005,0.664166,Depletion,Rex sole,2013,0
+2006,0.685678,Depletion,Rex sole,2013,0
+2007,0.7026615,Depletion,Rex sole,2013,0
+2008,0.7202455,Depletion,Rex sole,2013,0
+2009,0.735308,Depletion,Rex sole,2013,0
+2010,0.747802,Depletion,Rex sole,2013,0
+2011,0.765197,Depletion,Rex sole,2013,0
+2012,0.783949,Depletion,Rex sole,2013,0
+2013,0.799698,Depletion,Rex sole,2013,0
+1876,1,Depletion,Petrale sole,2015,0
+1877,0.999988,Depletion,Petrale sole,2015,0
+1878,0.999971,Depletion,Petrale sole,2015,0
+1879,0.999955,Depletion,Petrale sole,2015,0
+1880,0.99994,Depletion,Petrale sole,2015,0
+1881,0.999724,Depletion,Petrale sole,2015,0
+1882,0.999314,Depletion,Petrale sole,2015,0
+1883,0.998724,Depletion,Petrale sole,2015,0
+1884,0.997963,Depletion,Petrale sole,2015,0
+1885,0.997046,Depletion,Petrale sole,2015,0
+1886,0.995986,Depletion,Petrale sole,2015,0
+1887,0.994795,Depletion,Petrale sole,2015,0
+1888,0.993486,Depletion,Petrale sole,2015,0
+1889,0.99207,Depletion,Petrale sole,2015,0
+1890,0.990559,Depletion,Petrale sole,2015,0
+1891,0.988962,Depletion,Petrale sole,2015,0
+1892,0.987289,Depletion,Petrale sole,2015,0
+1893,0.985549,Depletion,Petrale sole,2015,0
+1894,0.983747,Depletion,Petrale sole,2015,0
+1895,0.981893,Depletion,Petrale sole,2015,0
+1896,0.979992,Depletion,Petrale sole,2015,0
+1897,0.978044,Depletion,Petrale sole,2015,0
+1898,0.976061,Depletion,Petrale sole,2015,0
+1899,0.974048,Depletion,Petrale sole,2015,0
+1900,0.972006,Depletion,Petrale sole,2015,0
+1901,0.969941,Depletion,Petrale sole,2015,0
+1902,0.967855,Depletion,Petrale sole,2015,0
+1903,0.965751,Depletion,Petrale sole,2015,0
+1904,0.963632,Depletion,Petrale sole,2015,0
+1905,0.9615,Depletion,Petrale sole,2015,0
+1906,0.959358,Depletion,Petrale sole,2015,0
+1907,0.957207,Depletion,Petrale sole,2015,0
+1908,0.95505,Depletion,Petrale sole,2015,0
+1909,0.952888,Depletion,Petrale sole,2015,0
+1910,0.950723,Depletion,Petrale sole,2015,0
+1911,0.948557,Depletion,Petrale sole,2015,0
+1912,0.946392,Depletion,Petrale sole,2015,0
+1913,0.94423,Depletion,Petrale sole,2015,0
+1914,0.942072,Depletion,Petrale sole,2015,0
+1915,0.93992,Depletion,Petrale sole,2015,0
+1916,0.937777,Depletion,Petrale sole,2015,0
+1917,0.935738,Depletion,Petrale sole,2015,0
+1918,0.931225,Depletion,Petrale sole,2015,0
+1919,0.928991,Depletion,Petrale sole,2015,0
+1920,0.928746,Depletion,Petrale sole,2015,0
+1921,0.930652,Depletion,Petrale sole,2015,0
+1922,0.931408,Depletion,Petrale sole,2015,0
+1923,0.929712,Depletion,Petrale sole,2015,0
+1924,0.9281,Depletion,Petrale sole,2015,0
+1925,0.924615,Depletion,Petrale sole,2015,0
+1926,0.921458,Depletion,Petrale sole,2015,0
+1927,0.918703,Depletion,Petrale sole,2015,0
+1928,0.914114,Depletion,Petrale sole,2015,0
+1929,0.910124,Depletion,Petrale sole,2015,0
+1930,0.904837,Depletion,Petrale sole,2015,0
+1931,0.900912,Depletion,Petrale sole,2015,0
+1932,0.897096,Depletion,Petrale sole,2015,0
+1933,0.8912,Depletion,Petrale sole,2015,0
+1934,0.885246,Depletion,Petrale sole,2015,0
+1935,0.865273,Depletion,Petrale sole,2015,0
+1936,0.846913,Depletion,Petrale sole,2015,0
+1937,0.835434,Depletion,Petrale sole,2015,0
+1938,0.81439,Depletion,Petrale sole,2015,0
+1939,0.790184,Depletion,Petrale sole,2015,0
+1940,0.758943,Depletion,Petrale sole,2015,0
+1941,0.732566,Depletion,Petrale sole,2015,0
+1942,0.714123,Depletion,Petrale sole,2015,0
+1943,0.681554,Depletion,Petrale sole,2015,0
+1944,0.650736,Depletion,Petrale sole,2015,0
+1945,0.636641,Depletion,Petrale sole,2015,0
+1946,0.627308,Depletion,Petrale sole,2015,0
+1947,0.594123,Depletion,Petrale sole,2015,0
+1948,0.572474,Depletion,Petrale sole,2015,0
+1949,0.524504,Depletion,Petrale sole,2015,0
+1950,0.478459,Depletion,Petrale sole,2015,0
+1951,0.428154,Depletion,Petrale sole,2015,0
+1952,0.406883,Depletion,Petrale sole,2015,0
+1953,0.389093,Depletion,Petrale sole,2015,0
+1954,0.377196,Depletion,Petrale sole,2015,0
+1955,0.35352,Depletion,Petrale sole,2015,0
+1956,0.33498,Depletion,Petrale sole,2015,0
+1957,0.323136,Depletion,Petrale sole,2015,0
+1958,0.302092,Depletion,Petrale sole,2015,0
+1959,0.284844,Depletion,Petrale sole,2015,0
+1960,0.277263,Depletion,Petrale sole,2015,0
+1961,0.264127,Depletion,Petrale sole,2015,0
+1962,0.242047,Depletion,Petrale sole,2015,0
+1963,0.223503,Depletion,Petrale sole,2015,0
+1964,0.206464,Depletion,Petrale sole,2015,0
+1965,0.203176,Depletion,Petrale sole,2015,0
+1966,0.206278,Depletion,Petrale sole,2015,0
+1967,0.208152,Depletion,Petrale sole,2015,0
+1968,0.206272,Depletion,Petrale sole,2015,0
+1969,0.209153,Depletion,Petrale sole,2015,0
+1970,0.217409,Depletion,Petrale sole,2015,0
+1971,0.224718,Depletion,Petrale sole,2015,0
+1972,0.234664,Depletion,Petrale sole,2015,0
+1973,0.234548,Depletion,Petrale sole,2015,0
+1974,0.234153,Depletion,Petrale sole,2015,0
+1975,0.213765,Depletion,Petrale sole,2015,0
+1976,0.190799,Depletion,Petrale sole,2015,0
+1977,0.175193,Depletion,Petrale sole,2015,0
+1978,0.165173,Depletion,Petrale sole,2015,0
+1979,0.142152,Depletion,Petrale sole,2015,0
+1980,0.119662,Depletion,Petrale sole,2015,0
+1981,0.110768,Depletion,Petrale sole,2015,0
+1982,0.105996,Depletion,Petrale sole,2015,0
+1983,0.0990279,Depletion,Petrale sole,2015,0
+1984,0.0940884,Depletion,Petrale sole,2015,0
+1985,0.0952305,Depletion,Petrale sole,2015,0
+1986,0.0961219,Depletion,Petrale sole,2015,0
+1987,0.091137,Depletion,Petrale sole,2015,0
+1988,0.0797203,Depletion,Petrale sole,2015,0
+1989,0.0742027,Depletion,Petrale sole,2015,0
+1990,0.0699823,Depletion,Petrale sole,2015,0
+1991,0.0654233,Depletion,Petrale sole,2015,0
+1992,0.0538519,Depletion,Petrale sole,2015,0
+1993,0.0498108,Depletion,Petrale sole,2015,0
+1994,0.0542907,Depletion,Petrale sole,2015,0
+1995,0.0681523,Depletion,Petrale sole,2015,0
+1996,0.0804919,Depletion,Petrale sole,2015,0
+1997,0.0834884,Depletion,Petrale sole,2015,0
+1998,0.0799465,Depletion,Petrale sole,2015,0
+1999,0.0824671,Depletion,Petrale sole,2015,0
+2000,0.0887589,Depletion,Petrale sole,2015,0
+2001,0.0900363,Depletion,Petrale sole,2015,0
+2002,0.0913412,Depletion,Petrale sole,2015,0
+2003,0.0992558,Depletion,Petrale sole,2015,0
+2004,0.118356,Depletion,Petrale sole,2015,0
+2005,0.129938,Depletion,Petrale sole,2015,0
+2006,0.12335,Depletion,Petrale sole,2015,0
+2007,0.120982,Depletion,Petrale sole,2015,0
+2008,0.111843,Depletion,Petrale sole,2015,0
+2009,0.105928,Depletion,Petrale sole,2015,0
+2010,0.101202,Depletion,Petrale sole,2015,0
+2011,0.128624,Depletion,Petrale sole,2015,0
+2012,0.174032,Depletion,Petrale sole,2015,0
+2013,0.230338,Depletion,Petrale sole,2015,0
+2014,0.277805,Depletion,Petrale sole,2015,0
+2015,0.307378,Depletion,Petrale sole,2015,0

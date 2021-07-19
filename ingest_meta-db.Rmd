@@ -20,7 +20,7 @@ if (!require(librarian)){
   library(librarian)
 }
 shelf(
-  dplyr, DT, glue, googledrive, googlesheets4, htmltools, purrr, readr)
+  dplyr, DT, glue, googledrive, googlesheets4, here, htmltools, purrr, readr)
 ```
 
 ## Read Metadata
@@ -59,7 +59,8 @@ Ben's [ca](https://drive.google.com/drive/u/2/folders/1sZpQddkYmT71_hJxDVeKR8jBP
 data_files <- drive_ls(gd_url, recursive = FALSE) %>% 
   mutate(
     url  = glue("https://drive.google.com/file/d/{id}/edit"),
-    gd_file = glue("<a href='{url}' target='_blank'>{name}</id>"))
+    gd_file = glue("<a href='{url}' target='_blank'>{name}</id>")) %>% 
+  rename(basename = name)
 
 data_files %>% 
   select(gd_file) %>% 
@@ -78,6 +79,23 @@ data_files %>%
 Summary of `indicator name in PI file` in **Indicator Metadata** tab of [ERDDAP_CCIEA_database_2021.20210317 - Google Sheet](https://docs.google.com/spreadsheets/d/1F8H2UFcajLVqq_MIPS0YAUt3ZnSSJP7cZ1hxCsMLW4g/edit?ts=6067b512#gid=747268021) and if match in data/ files above in `gd_data`.
 
 ```{r}
+files_pi <- read_sheet(gs_url, "files_PI")
+write_csv(files_pi, "data/files_pi.csv")
+
+googledrive::drive_auth()
+# 1: ben@ecoquants.com
+
+
+# download files
+files_pi %>% 
+  pwalk(function(gd_file_url, gd_file,...){
+    # gd_file <- 'species_landings_2021.csv'
+    # gd_file_url <- 'https://drive.google.com/file/d/11TDW38l3EuHnu47CfTZ2g5Pto56LlIT0/edit'
+    f <- here(glue("data/raw/{gd_file}"))
+    drive_download(gd_file_url, f, overwrite = T) })
+    
+View(files_pi)
+
 meta_files <- meta %>% 
   filter(
     !is.na(`PI filename`),
@@ -118,6 +136,7 @@ Like here:
 ```{r, eval=F}
 files_PI <- read_sheet(gs_url, "files_PI") %>% 
   filter(!is.na(gd_file))
+
 meta_files %>% 
   select(gd_file, basename, url, `PI filename`, `ERDDAP Dataset ID`, `vars_erddap`) %>% 
   anti_join(

@@ -1,0 +1,658 @@
+Year,index,sd,SE,metric,timeseries,data.type,data.type2,SElo,SEup,Notes,SE_type
+1994,81740.1,26720.7,,Spawning biomass (mt),Albacore,biomass,,55019.4,108460.8,,SD
+1995,80589.5,23673,,Spawning biomass (mt),Albacore,biomass,,56916.5,104262.5,,SD
+1996,86714.6,22167.8,,Spawning biomass (mt),Albacore,biomass,,64546.8,108882.4,,SD
+1997,83222.3,20564.7,,Spawning biomass (mt),Albacore,biomass,,62657.6,103787,,SD
+1998,82165.9,19832.4,,Spawning biomass (mt),Albacore,biomass,,62333.5,101998.3,,SD
+1999,81894.8,19287.8,,Spawning biomass (mt),Albacore,biomass,,62607,101182.6,,SD
+2000,67892.6,17574.1,,Spawning biomass (mt),Albacore,biomass,,50318.5,85466.7,,SD
+2001,61535.8,16330.3,,Spawning biomass (mt),Albacore,biomass,,45205.5,77866.1,,SD
+2002,55029.6,15527.9,,Spawning biomass (mt),Albacore,biomass,,39501.7,70557.5,,SD
+2003,54970.6,14722.2,,Spawning biomass (mt),Albacore,biomass,,40248.4,69692.8,,SD
+2004,62895.7,16092.5,,Spawning biomass (mt),Albacore,biomass,,46803.2,78988.2,,SD
+2005,59876.2,16268.9,,Spawning biomass (mt),Albacore,biomass,,43607.3,76145.1,,SD
+2006,59583.7,16037.3,,Spawning biomass (mt),Albacore,biomass,,43546.4,75621,,SD
+2007,58027.1,15906.6,,Spawning biomass (mt),Albacore,biomass,,42120.5,73933.7,,SD
+2008,57404.4,15841.7,,Spawning biomass (mt),Albacore,biomass,,41562.7,73246.1,,SD
+2009,71946.5,17540.2,,Spawning biomass (mt),Albacore,biomass,,54406.3,89486.7,,SD
+2010,71887.2,18012,,Spawning biomass (mt),Albacore,biomass,,53875.2,89899.2,,SD
+2011,68171.5,17352.4,,Spawning biomass (mt),Albacore,biomass,,50819.1,85523.9,,SD
+2012,64753.7,16563.7,,Spawning biomass (mt),Albacore,biomass,,48190,81317.4,,SD
+2013,59903.6,16019.5,,Spawning biomass (mt),Albacore,biomass,,43884.1,75923.1,,SD
+2014,57602,15299.8,,Spawning biomass (mt),Albacore,biomass,,42302.2,72901.8,,SD
+2015,55929.8,14915.4,,Spawning biomass (mt),Albacore,biomass,,41014.4,70845.2,,SD
+2016,54312.6,14737.6,,Spawning biomass (mt),Albacore,biomass,,39575,69050.2,,SD
+2017,52465.5,14341.8,,Spawning biomass (mt),Albacore,biomass,,38123.7,66807.3,,SD
+2018,58858.2,15871.2,,Spawning biomass (mt),Albacore,biomass,,42987,74729.4,,SD
+2019,60134.1,16806.1,,Spawning biomass (mt),Albacore,biomass,,43328,76940.2,,SD
+1994,189594,36467.4,,Recruits (x1000),Albacore,recruitment,,153126.6,226061.4,,SD
+1995,163714,32548.3,,Recruits (x1000),Albacore,recruitment,,131165.7,196262.3,,SD
+1996,170831,34654.2,,Recruits (x1000),Albacore,recruitment,,136176.8,205485.2,,SD
+1997,153239,31997.2,,Recruits (x1000),Albacore,recruitment,,121241.8,185236.2,,SD
+1998,156442,31083,,Recruits (x1000),Albacore,recruitment,,125359,187525,,SD
+1999,256880,38891.1,,Recruits (x1000),Albacore,recruitment,,217988.9,295771.1,,SD
+2000,156185,27068.6,,Recruits (x1000),Albacore,recruitment,,129116.4,183253.6,,SD
+2001,199342,31883.2,,Recruits (x1000),Albacore,recruitment,,167458.8,231225.2,,SD
+2002,139882,24759.9,,Recruits (x1000),Albacore,recruitment,,115122.1,164641.9,,SD
+2003,186757,33527.7,,Recruits (x1000),Albacore,recruitment,,153229.3,220284.7,,SD
+2004,249480,38967.2,,Recruits (x1000),Albacore,recruitment,,210512.8,288447.2,,SD
+2005,170586,27513.6,,Recruits (x1000),Albacore,recruitment,,143072.4,198099.6,,SD
+2006,173815,29245.8,,Recruits (x1000),Albacore,recruitment,,144569.2,203060.8,,SD
+2007,149597,25504.2,,Recruits (x1000),Albacore,recruitment,,124092.8,175101.2,,SD
+2008,187181,29419.7,,Recruits (x1000),Albacore,recruitment,,157761.3,216600.7,,SD
+2009,164899,27852.9,,Recruits (x1000),Albacore,recruitment,,137046.1,192751.9,,SD
+2010,180860,30003.5,,Recruits (x1000),Albacore,recruitment,,150856.5,210863.5,,SD
+2011,137925,23985.5,,Recruits (x1000),Albacore,recruitment,,113939.5,161910.5,,SD
+2012,139635,26826.4,,Recruits (x1000),Albacore,recruitment,,112808.6,166461.4,,SD
+2013,197952,39321.2,,Recruits (x1000),Albacore,recruitment,,158630.8,237273.2,,SD
+2014,124520,28383.4,,Recruits (x1000),Albacore,recruitment,,96136.6,152903.4,,SD
+2015,112811,29131.1,,Recruits (x1000),Albacore,recruitment,,83679.9,141942.1,,SD
+2016,169108,48441.4,,Recruits (x1000),Albacore,recruitment,,120666.6,217549.4,,SD
+2017,175497,57350.5,,Recruits (x1000),Albacore,recruitment,,118146.5,232847.5,,SD
+2018,173719,57100.9,,Recruits (x1000),Albacore,recruitment,,116618.1,230819.9,,SD
+2019,173949,57187.1,,Recruits (x1000),Albacore,recruitment,,116761.9,231136.1,,SD
+2000,322132.6639,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,97059,587351,,CI
+2001,340780.1896,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,104019,622352,,CI
+2002,365255.968,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,112185,668900,,CI
+2003,319472.5798,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,88140,591637,,CI
+2004,261827.4861,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,65786,487789,,CI
+2005,245515.1074,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,63202,457518,,CI
+2006,281294.8907,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,79019,523666,,CI
+2007,290669.2852,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,83379,538413,,CI
+2008,295494.8846,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,87453,542043,,CI
+2009,311799.0348,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,95099,569206,,CI
+2010,325639.3487,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,100429,592935,,CI
+2011,299456.9967,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,89164,544576,,CI
+2012,266288.0139,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,78015,482898,,CI
+2013,239142.2557,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,69533,433763,,CI
+2014,226997.6393,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,66973,412043,,CI
+2015,224016.1643,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,67900,405962,,CI
+2016,234987.0331,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,70547,429269,,CI
+2017,241144.9643,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,71646,441864,,CI
+2018,234321.412,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,67434,431237,,CI
+2019,223595.2776,,,Spawning biomass (mt),Bigeye tuna,biomass,optimistic,62773,412822,,CI
+2000,73358.20182,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,44332,107910,,CI
+2001,87855.46845,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,54249,126889,,CI
+2002,101975.1128,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,64157,147028,,CI
+2003,82769.73012,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,47806,128445,,CI
+2004,63068.99136,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,33371,104706,,CI
+2005,59567.00756,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,31691,97979,,CI
+2006,72595.16249,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,40371,114147,,CI
+2007,77302.58513,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,42623,121287,,CI
+2008,82151.56288,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,46289,128090,,CI
+2009,89414.18928,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,52065,137741,,CI
+2010,93840.14909,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,55064,144538,,CI
+2011,84313.40925,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,47902,133264,,CI
+2012,75298.51664,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,42905,120758,,CI
+2013,67755.24244,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,38505,109447,,CI
+2014,64642.87381,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,37284,103169,,CI
+2015,64488.2191,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,38098,101075,,CI
+2016,65691.57195,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,37862,102604,,CI
+2017,68166.45009,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,38784,106038,,CI
+2018,65924.63418,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,36525,103819,,CI
+2019,63293.33405,,,Spawning biomass (mt),Bigeye tuna,biomass,pessimistic,34690,100345,,CI
+2000,25361,,,Recuitment,Bigeye tuna,recruitment,optimistic,17645,35741,,CI
+2001,43620,,,Recuitment,Bigeye tuna,recruitment,optimistic,25872,67403,,CI
+2002,56301,,,Recuitment,Bigeye tuna,recruitment,optimistic,37520,82651,,CI
+2003,39857,,,Recuitment,Bigeye tuna,recruitment,optimistic,22002,64264,,CI
+2004,40032,,,Recuitment,Bigeye tuna,recruitment,optimistic,27379,56167,,CI
+2005,62830,,,Recuitment,Bigeye tuna,recruitment,optimistic,42846,90209,,CI
+2006,54162,,,Recuitment,Bigeye tuna,recruitment,optimistic,36414,78533,,CI
+2007,27674,,,Recuitment,Bigeye tuna,recruitment,optimistic,18901,39072,,CI
+2008,43851,,,Recuitment,Bigeye tuna,recruitment,optimistic,29835,62480,,CI
+2009,32051,,,Recuitment,Bigeye tuna,recruitment,optimistic,22410,44786,,CI
+2010,39584,,,Recuitment,Bigeye tuna,recruitment,optimistic,27867,55516,,CI
+2011,37474,,,Recuitment,Bigeye tuna,recruitment,optimistic,24096,55688,,CI
+2012,42824,,,Recuitment,Bigeye tuna,recruitment,optimistic,29380,61371,,CI
+2013,39190,,,Recuitment,Bigeye tuna,recruitment,optimistic,26497,56715,,CI
+2014,38677,,,Recuitment,Bigeye tuna,recruitment,optimistic,25646,56058,,CI
+2015,39995,,,Recuitment,Bigeye tuna,recruitment,optimistic,28037,56019,,CI
+2016,39373,,,Recuitment,Bigeye tuna,recruitment,optimistic,26540,56669,,CI
+2017,59502.24144,,,Recuitment,Bigeye tuna,recruitment,optimistic,35395.1,91464.1,,CI
+2018,51744.99565,,,Recuitment,Bigeye tuna,recruitment,optimistic,28298.9,79650.2,,CI
+2019,46046.34759,,,Recuitment,Bigeye tuna,recruitment,optimistic,19354.4,77985.6,,CI
+2000,17413,,,Recuitment,Bigeye tuna,recruitment,pessimistic,14616,20315,,CI
+2001,25961,,,Recuitment,Bigeye tuna,recruitment,pessimistic,19973,32777,,CI
+2002,34906,,,Recuitment,Bigeye tuna,recruitment,pessimistic,29831,40300,,CI
+2003,23776,,,Recuitment,Bigeye tuna,recruitment,pessimistic,17547,30954,,CI
+2004,28080,,,Recuitment,Bigeye tuna,recruitment,pessimistic,23073,33398,,CI
+2005,42614,,,Recuitment,Bigeye tuna,recruitment,pessimistic,36075,49427,,CI
+2006,34338,,,Recuitment,Bigeye tuna,recruitment,pessimistic,29168,39607,,CI
+2007,19779,,,Recuitment,Bigeye tuna,recruitment,pessimistic,16141,23558,,CI
+2008,30470,,,Recuitment,Bigeye tuna,recruitment,pessimistic,25093,36317,,CI
+2009,23962,,,Recuitment,Bigeye tuna,recruitment,pessimistic,19543,28498,,CI
+2010,27881,,,Recuitment,Bigeye tuna,recruitment,pessimistic,23345,32646,,CI
+2011,24091,,,Recuitment,Bigeye tuna,recruitment,pessimistic,19447,29173,,CI
+2012,29039,,,Recuitment,Bigeye tuna,recruitment,pessimistic,24306,33977,,CI
+2013,26908,,,Recuitment,Bigeye tuna,recruitment,pessimistic,22231,31638,,CI
+2014,25691,,,Recuitment,Bigeye tuna,recruitment,pessimistic,21033,30591,,CI
+2015,29116,,,Recuitment,Bigeye tuna,recruitment,pessimistic,23959,34612,,CI
+2016,29451,,,Recuitment,Bigeye tuna,recruitment,pessimistic,23292,35814,,CI
+2017,40487.41054,,,Recuitment,Bigeye tuna,recruitment,pessimistic,29218.8,52259.9,,CI
+2018,36980.19559,,,Recuitment,Bigeye tuna,recruitment,pessimistic,23421.6,50769.9,,CI
+2019,30322.63788,,,Recuitment,Bigeye tuna,recruitment,pessimistic,14327.6,46707.2,,CI
+1952,103502,48140.5,,Spawning biomass (mt),Bluefin tuna,biomass,,55361.5,151642.5,,SD
+1953,97940.6,44013.5,,Spawning biomass (mt),Bluefin tuna,biomass,,53927.1,141954.1,,SD
+1954,87974,39400.6,,Spawning biomass (mt),Bluefin tuna,biomass,,48573.4,127374.6,,SD
+1955,75359.6,34615.5,,Spawning biomass (mt),Bluefin tuna,biomass,,40744.1,109975.1,,SD
+1956,67700.3,30924,,Spawning biomass (mt),Bluefin tuna,biomass,,36776.3,98624.3,,SD
+1957,76817,31888.7,,Spawning biomass (mt),Bluefin tuna,biomass,,44928.3,108705.7,,SD
+1958,100683,37494.1,,Spawning biomass (mt),Bluefin tuna,biomass,,63188.9,138177.1,,SD
+1959,136430,47933.4,,Spawning biomass (mt),Bluefin tuna,biomass,,88496.6,184363.4,,SD
+1960,144411,52012.6,,Spawning biomass (mt),Bluefin tuna,biomass,,92398.4,196423.6,,SD
+1961,156302,56526.6,,Spawning biomass (mt),Bluefin tuna,biomass,,99775.4,212828.6,,SD
+1962,141277,54158,,Spawning biomass (mt),Bluefin tuna,biomass,,87119,195435,,SD
+1963,120244,49051.2,,Spawning biomass (mt),Bluefin tuna,biomass,,71192.8,169295.2,,SD
+1964,105870,44004.7,,Spawning biomass (mt),Bluefin tuna,biomass,,61865.3,149874.7,,SD
+1965,93222,38683.6,,Spawning biomass (mt),Bluefin tuna,biomass,,54538.4,131905.6,,SD
+1966,89235.6,35759.4,,Spawning biomass (mt),Bluefin tuna,biomass,,53476.2,124995,,SD
+1967,83207.9,33123.1,,Spawning biomass (mt),Bluefin tuna,biomass,,50084.8,116331,,SD
+1968,77465.5,31751.3,,Spawning biomass (mt),Bluefin tuna,biomass,,45714.2,109216.8,,SD
+1969,64298.7,27561.1,,Spawning biomass (mt),Bluefin tuna,biomass,,36737.6,91859.8,,SD
+1970,53960.6,23770.7,,Spawning biomass (mt),Bluefin tuna,biomass,,30189.9,77731.3,,SD
+1971,46839,20336.2,,Spawning biomass (mt),Bluefin tuna,biomass,,26502.8,67175.2,,SD
+1972,40446.6,16924.6,,Spawning biomass (mt),Bluefin tuna,biomass,,23522,57371.2,,SD
+1973,35273.3,13759.5,,Spawning biomass (mt),Bluefin tuna,biomass,,21513.8,49032.8,,SD
+1974,28502.3,10921.2,,Spawning biomass (mt),Bluefin tuna,biomass,,17581.1,39423.5,,SD
+1975,26409.6,8861.39,,Spawning biomass (mt),Bluefin tuna,biomass,,17548.21,35270.99,,SD
+1976,29274.3,7778.42,,Spawning biomass (mt),Bluefin tuna,biomass,,21495.88,37052.72,,SD
+1977,35105.3,7908.38,,Spawning biomass (mt),Bluefin tuna,biomass,,27196.92,43013.68,,SD
+1978,32218.9,7278.65,,Spawning biomass (mt),Bluefin tuna,biomass,,24940.25,39497.55,,SD
+1979,27092.6,6843.14,,Spawning biomass (mt),Bluefin tuna,biomass,,20249.46,33935.74,,SD
+1980,29657.3,6624.57,,Spawning biomass (mt),Bluefin tuna,biomass,,23032.73,36281.87,,SD
+1981,27927.6,5122.76,,Spawning biomass (mt),Bluefin tuna,biomass,,22804.84,33050.36,,SD
+1982,24239.7,4502.09,,Spawning biomass (mt),Bluefin tuna,biomass,,19737.61,28741.79,,SD
+1983,14455.7,3631.97,,Spawning biomass (mt),Bluefin tuna,biomass,,10823.73,18087.67,,SD
+1984,12651.1,3332.98,,Spawning biomass (mt),Bluefin tuna,biomass,,9318.12,15984.08,,SD
+1985,12816.6,3126.86,,Spawning biomass (mt),Bluefin tuna,biomass,,9689.74,15943.46,,SD
+1986,15146.6,3149.7,,Spawning biomass (mt),Bluefin tuna,biomass,,11996.9,18296.3,,SD
+1987,13957.5,3137.16,,Spawning biomass (mt),Bluefin tuna,biomass,,10820.34,17094.66,,SD
+1988,14931,3344.26,,Spawning biomass (mt),Bluefin tuna,biomass,,11586.74,18275.26,,SD
+1989,14839.1,3389.89,,Spawning biomass (mt),Bluefin tuna,biomass,,11449.21,18228.99,,SD
+1990,18952.7,3917.6,,Spawning biomass (mt),Bluefin tuna,biomass,,15035.1,22870.3,,SD
+1991,25293.9,4581.42,,Spawning biomass (mt),Bluefin tuna,biomass,,20712.48,29875.32,,SD
+1992,32252.4,5182.73,,Spawning biomass (mt),Bluefin tuna,biomass,,27069.67,37435.13,,SD
+1993,43639.1,6304.8,,Spawning biomass (mt),Bluefin tuna,biomass,,37334.3,49943.9,,SD
+1994,50277.2,7180.11,,Spawning biomass (mt),Bluefin tuna,biomass,,43097.09,57457.31,,SD
+1995,62783.9,8725.94,,Spawning biomass (mt),Bluefin tuna,biomass,,54057.96,71509.84,,SD
+1996,61826.1,8526.26,,Spawning biomass (mt),Bluefin tuna,biomass,,53299.84,70352.36,,SD
+1997,56393.3,8088.21,,Spawning biomass (mt),Bluefin tuna,biomass,,48305.09,64481.51,,SD
+1998,55887.5,7738.84,,Spawning biomass (mt),Bluefin tuna,biomass,,48148.66,63626.34,,SD
+1999,51705.4,7584.71,,Spawning biomass (mt),Bluefin tuna,biomass,,44120.69,59290.11,,SD
+2000,48935.8,7446.16,,Spawning biomass (mt),Bluefin tuna,biomass,,41489.64,56381.96,,SD
+2001,46408.3,7062.91,,Spawning biomass (mt),Bluefin tuna,biomass,,39345.39,53471.21,,SD
+2002,44491.8,6677.37,,Spawning biomass (mt),Bluefin tuna,biomass,,37814.43,51169.17,,SD
+2003,43805.6,6230.64,,Spawning biomass (mt),Bluefin tuna,biomass,,37574.96,50036.24,,SD
+2004,36701.2,5442.66,,Spawning biomass (mt),Bluefin tuna,biomass,,31258.54,42143.86,,SD
+2005,30004.1,4760.32,,Spawning biomass (mt),Bluefin tuna,biomass,,25243.78,34764.42,,SD
+2006,24088.6,4113.66,,Spawning biomass (mt),Bluefin tuna,biomass,,19974.94,28202.26,,SD
+2007,19061.3,3475.88,,Spawning biomass (mt),Bluefin tuna,biomass,,15585.42,22537.18,,SD
+2008,14805,2953.99,,Spawning biomass (mt),Bluefin tuna,biomass,,11851.01,17758.99,,SD
+2009,11422.2,2286.08,,Spawning biomass (mt),Bluefin tuna,biomass,,9136.12,13708.28,,SD
+2010,10837.1,1952.63,,Spawning biomass (mt),Bluefin tuna,biomass,,8884.47,12789.73,,SD
+2011,12096.2,2005.98,,Spawning biomass (mt),Bluefin tuna,biomass,,10090.22,14102.18,,SD
+2012,14577.6,2275.26,,Spawning biomass (mt),Bluefin tuna,biomass,,12302.34,16852.86,,SD
+2013,16703.2,2477.72,,Spawning biomass (mt),Bluefin tuna,biomass,,14225.48,19180.92,,SD
+2014,18502.7,2584.04,,Spawning biomass (mt),Bluefin tuna,biomass,,15918.66,21086.74,,SD
+2015,21013.8,2897.78,,Spawning biomass (mt),Bluefin tuna,biomass,,18116.02,23911.58,,SD
+2016,25009.1,3355.1,,Spawning biomass (mt),Bluefin tuna,biomass,,21654,28364.2,,SD
+2017,25632,3705.87,,Spawning biomass (mt),Bluefin tuna,biomass,,21926.13,29337.87,,SD
+2018,28228.1,4523.17,,Spawning biomass (mt),Bluefin tuna,biomass,,23704.93,32751.27,,SD
+1952,4857,NA,,Recruitment,Bluefin tuna,recruitment,,NA,NA,,SD
+1953,20954,3836.35,,Recruitment,Bluefin tuna,recruitment,,17117.65,24790.35,,SD
+1954,34812.8,4651.72,,Recruitment,Bluefin tuna,recruitment,,30161.08,39464.52,,SD
+1955,13442.2,2606.76,,Recruitment,Bluefin tuna,recruitment,,10835.44,16048.96,,SD
+1956,33581.7,3386.97,,Recruitment,Bluefin tuna,recruitment,,30194.73,36968.67,,SD
+1957,11689.9,1901.57,,Recruitment,Bluefin tuna,recruitment,,9788.33,13591.47,,SD
+1958,3194.88,954.556,,Recruitment,Bluefin tuna,recruitment,,2240.324,4149.436,,SD
+1959,7757.75,1719.43,,Recruitment,Bluefin tuna,recruitment,,6038.32,9477.18,,SD
+1960,7730.86,1623.16,,Recruitment,Bluefin tuna,recruitment,,6107.7,9354.02,,SD
+1961,23339.3,2292.09,,Recruitment,Bluefin tuna,recruitment,,21047.21,25631.39,,SD
+1962,10737.4,1959.48,,Recruitment,Bluefin tuna,recruitment,,8777.92,12696.88,,SD
+1963,28112.2,2913.22,,Recruitment,Bluefin tuna,recruitment,,25198.98,31025.42,,SD
+1964,5695.71,1841.55,,Recruitment,Bluefin tuna,recruitment,,3854.16,7537.26,,SD
+1965,10709.7,3897,,Recruitment,Bluefin tuna,recruitment,,6812.7,14606.7,,SD
+1966,8679.6,3795.78,,Recruitment,Bluefin tuna,recruitment,,4883.82,12475.38,,SD
+1967,10897.1,4239.19,,Recruitment,Bluefin tuna,recruitment,,6657.91,15136.29,,SD
+1968,14535.2,3558.02,,Recruitment,Bluefin tuna,recruitment,,10977.18,18093.22,,SD
+1969,6484.18,2009.44,,Recruitment,Bluefin tuna,recruitment,,4474.74,8493.62,,SD
+1970,7027.03,2868.32,,Recruitment,Bluefin tuna,recruitment,,4158.71,9895.35,,SD
+1971,12420,4393.64,,Recruitment,Bluefin tuna,recruitment,,8026.36,16813.64,,SD
+1972,23551.8,4022.01,,Recruitment,Bluefin tuna,recruitment,,19529.79,27573.81,,SD
+1973,10967.5,3203.37,,Recruitment,Bluefin tuna,recruitment,,7764.13,14170.87,,SD
+1974,13321.7,2476.06,,Recruitment,Bluefin tuna,recruitment,,10845.64,15797.76,,SD
+1975,11251.8,2084.68,,Recruitment,Bluefin tuna,recruitment,,9167.12,13336.48,,SD
+1976,9252.7,2891.89,,Recruitment,Bluefin tuna,recruitment,,6360.81,12144.59,,SD
+1977,25600.9,4355.92,,Recruitment,Bluefin tuna,recruitment,,21244.98,29956.82,,SD
+1978,14036.7,4248.49,,Recruitment,Bluefin tuna,recruitment,,9788.21,18285.19,,SD
+1979,12650,2969.89,,Recruitment,Bluefin tuna,recruitment,,9680.11,15619.89,,SD
+1980,6910.34,2373,,Recruitment,Bluefin tuna,recruitment,,4537.34,9283.34,,SD
+1981,13340.4,1967.09,,Recruitment,Bluefin tuna,recruitment,,11373.31,15307.49,,SD
+1982,6512.31,1705.32,,Recruitment,Bluefin tuna,recruitment,,4806.99,8217.63,,SD
+1983,10133.2,1991.94,,Recruitment,Bluefin tuna,recruitment,,8141.26,12125.14,,SD
+1984,9184.31,2425.99,,Recruitment,Bluefin tuna,recruitment,,6758.32,11610.3,,SD
+1985,9676.41,2292.25,,Recruitment,Bluefin tuna,recruitment,,7384.16,11968.66,,SD
+1986,8180.59,1702.27,,Recruitment,Bluefin tuna,recruitment,,6478.32,9882.86,,SD
+1987,6025.98,1504.05,,Recruitment,Bluefin tuna,recruitment,,4521.93,7530.03,,SD
+1988,9304.49,1357.07,,Recruitment,Bluefin tuna,recruitment,,7947.42,10661.56,,SD
+1989,4409.3,1259.33,,Recruitment,Bluefin tuna,recruitment,,3149.97,5668.63,,SD
+1990,18095.5,1762.98,,Recruitment,Bluefin tuna,recruitment,,16332.52,19858.48,,SD
+1991,10392.3,1731.96,,Recruitment,Bluefin tuna,recruitment,,8660.34,12124.26,,SD
+1992,3958.07,864.92,,Recruitment,Bluefin tuna,recruitment,,3093.15,4822.99,,SD
+1993,4449.55,786.14,,Recruitment,Bluefin tuna,recruitment,,3663.41,5235.69,,SD
+1994,29313.5,1293.35,,Recruitment,Bluefin tuna,recruitment,,28020.15,30606.85,,SD
+1995,16533.1,1597.63,,Recruitment,Bluefin tuna,recruitment,,14935.47,18130.73,,SD
+1996,17787.3,1154.97,,Recruitment,Bluefin tuna,recruitment,,16632.33,18942.27,,SD
+1997,11258.5,1179,,Recruitment,Bluefin tuna,recruitment,,10079.5,12437.5,,SD
+1998,16018.3,1303.14,,Recruitment,Bluefin tuna,recruitment,,14715.16,17321.44,,SD
+1999,22842,1343.33,,Recruitment,Bluefin tuna,recruitment,,21498.67,24185.33,,SD
+2000,14382.9,1056.8,,Recruitment,Bluefin tuna,recruitment,,13326.1,15439.7,,SD
+2001,17383.8,957.479,,Recruitment,Bluefin tuna,recruitment,,16426.321,18341.279,,SD
+2002,13761.3,1001.33,,Recruitment,Bluefin tuna,recruitment,,12759.97,14762.63,,SD
+2003,7109.86,851.515,,Recruitment,Bluefin tuna,recruitment,,6258.345,7961.375,,SD
+2004,27929.7,1061.78,,Recruitment,Bluefin tuna,recruitment,,26867.92,28991.48,,SD
+2005,15256.1,1035.9,,Recruitment,Bluefin tuna,recruitment,,14220.2,16292,,SD
+2006,13659.7,874.772,,Recruitment,Bluefin tuna,recruitment,,12784.928,14534.472,,SD
+2007,23145.5,956.387,,Recruitment,Bluefin tuna,recruitment,,22189.113,24101.887,,SD
+2008,21265.4,959.528,,Recruitment,Bluefin tuna,recruitment,,20305.872,22224.928,,SD
+2009,8002.23,794.85,,Recruitment,Bluefin tuna,recruitment,,7207.38,8797.08,,SD
+2010,18230.4,899.965,,Recruitment,Bluefin tuna,recruitment,,17330.435,19130.365,,SD
+2011,12573.6,810.14,,Recruitment,Bluefin tuna,recruitment,,11763.46,13383.74,,SD
+2012,6844.71,634.888,,Recruitment,Bluefin tuna,recruitment,,6209.822,7479.598,,SD
+2013,12797.9,723.335,,Recruitment,Bluefin tuna,recruitment,,12074.565,13521.235,,SD
+2014,3783.31,480.594,,Recruitment,Bluefin tuna,recruitment,,3302.716,4263.904,,SD
+2015,8777.72,905.168,,Recruitment,Bluefin tuna,recruitment,,7872.552,9682.888,,SD
+2016,16503.5,2069.37,,Recruitment,Bluefin tuna,recruitment,,14434.13,18572.87,,SD
+2017,6663.1,1123.53,,Recruitment,Bluefin tuna,recruitment,,5539.57,7786.63,,SD
+2018,4657.8,1291.76,,Recruitment,Bluefin tuna,recruitment,,3366.04,5949.56,,SD
+1984,15563.52,,,Spawning biomass (mt),Yellowfin tuna,biomass,,2981.463,49771.07,,CI
+1985,22883.36,,,Spawning biomass (mt),Yellowfin tuna,biomass,,6727.819,60072.42,,CI
+1986,26607.24,,,Spawning biomass (mt),Yellowfin tuna,biomass,,7899.442,66526.3,,CI
+1987,23145.39,,,Spawning biomass (mt),Yellowfin tuna,biomass,,7284.956,57735.09,,CI
+1988,17296.79,,,Spawning biomass (mt),Yellowfin tuna,biomass,,6006.438,43109.55,,CI
+1989,17456.58,,,Spawning biomass (mt),Yellowfin tuna,biomass,,6353.725,43096.72,,CI
+1990,17164.4,,,Spawning biomass (mt),Yellowfin tuna,biomass,,6248.289,42393.1,,CI
+1991,16817.68,,,Spawning biomass (mt),Yellowfin tuna,biomass,,6368.113,41506.43,,CI
+1992,17182.37,,,Spawning biomass (mt),Yellowfin tuna,biomass,,6550.569,42135.85,,CI
+1993,17304.3,,,Spawning biomass (mt),Yellowfin tuna,biomass,,6309.742,42790.74,,CI
+1994,16382.39,,,Spawning biomass (mt),Yellowfin tuna,biomass,,5722.649,40693.37,,CI
+1995,16904.27,,,Spawning biomass (mt),Yellowfin tuna,biomass,,5970.959,41790.69,,CI
+1996,19054.59,,,Spawning biomass (mt),Yellowfin tuna,biomass,,7191.8,45903.56,,CI
+1997,14723.02,,,Spawning biomass (mt),Yellowfin tuna,biomass,,5783.111,35585.77,,CI
+1998,13089.63,,,Spawning biomass (mt),Yellowfin tuna,biomass,,5421.689,31576.01,,CI
+1999,13073.77,,,Spawning biomass (mt),Yellowfin tuna,biomass,,5507.45,31320.76,,CI
+2000,13385.87,,,Spawning biomass (mt),Yellowfin tuna,biomass,,5415.997,31482.32,,CI
+2001,16655.1,,,Spawning biomass (mt),Yellowfin tuna,biomass,,6545.48,35730.3,,CI
+2002,20884.59,,,Spawning biomass (mt),Yellowfin tuna,biomass,,8664.75,41560.77,,CI
+2003,16163.37,,,Spawning biomass (mt),Yellowfin tuna,biomass,,7032.078,32720.98,,CI
+2004,12221.29,,,Spawning biomass (mt),Yellowfin tuna,biomass,,5575.071,26275.88,,CI
+2005,10301.23,,,Spawning biomass (mt),Yellowfin tuna,biomass,,4819.981,23166.76,,CI
+2006,9369.287,,,Spawning biomass (mt),Yellowfin tuna,biomass,,4271.964,21448.07,,CI
+2007,8498.499,,,Spawning biomass (mt),Yellowfin tuna,biomass,,3933.637,19170.12,,CI
+2008,9392.25,,,Spawning biomass (mt),Yellowfin tuna,biomass,,4351.706,21385,,CI
+2009,11290.88,,,Spawning biomass (mt),Yellowfin tuna,biomass,,5194.503,25888.71,,CI
+2010,10352.96,,,Spawning biomass (mt),Yellowfin tuna,biomass,,4617.471,24226.27,,CI
+2011,9573.05,,,Spawning biomass (mt),Yellowfin tuna,biomass,,4513.556,21836.56,,CI
+2012,9650.416,,,Spawning biomass (mt),Yellowfin tuna,biomass,,4568.323,21934.48,,CI
+2013,9679.721,,,Spawning biomass (mt),Yellowfin tuna,biomass,,4596.055,21966.37,,CI
+2014,9219.312,,,Spawning biomass (mt),Yellowfin tuna,biomass,,4461.684,20581.25,,CI
+2015,8446.805,,,Spawning biomass (mt),Yellowfin tuna,biomass,,4077.947,18580.01,,CI
+2016,7485.324,,,Spawning biomass (mt),Yellowfin tuna,biomass,,3550.388,16209.59,,CI
+2017,6244.701,,,Spawning biomass (mt),Yellowfin tuna,biomass,,2892.493,13145.74,,CI
+2018,6984.063,,,Spawning biomass (mt),Yellowfin tuna,biomass,,3449.599,14300.63,,CI
+2019,7020.344,,,Spawning biomass (mt),Yellowfin tuna,biomass,,3327.336,14801.09,,CI
+2020,7367.766,,,Spawning biomass (mt),Yellowfin tuna,biomass,,3159.202,15772.53,,CI
+1984,1409273,,,Recruitment,Yellowfin tuna,recruitment,,654547.2,3079301,,CI
+1985,1198399,,,Recruitment,Yellowfin tuna,recruitment,,705631.5,2355989,,CI
+1986,1297837,,,Recruitment,Yellowfin tuna,recruitment,,674793.9,2637992,,CI
+1987,1209255,,,Recruitment,Yellowfin tuna,recruitment,,716673.9,2319956,,CI
+1988,1363102,,,Recruitment,Yellowfin tuna,recruitment,,795284.8,2698211,,CI
+1989,1294066,,,Recruitment,Yellowfin tuna,recruitment,,681214.8,2654029,,CI
+1990,1178998,,,Recruitment,Yellowfin tuna,recruitment,,591232.6,2468266,,CI
+1991,1032157,,,Recruitment,Yellowfin tuna,recruitment,,562535.9,2031767,,CI
+1992,1304619,,,Recruitment,Yellowfin tuna,recruitment,,699801,2651291,,CI
+1993,1476699,,,Recruitment,Yellowfin tuna,recruitment,,783078,3001893,,CI
+1994,871238.8,,,Recruitment,Yellowfin tuna,recruitment,,520498.5,1657758,,CI
+1995,1063234,,,Recruitment,Yellowfin tuna,recruitment,,667294.4,1975619,,CI
+1996,1132275,,,Recruitment,Yellowfin tuna,recruitment,,644302.5,2159202,,CI
+1997,1030252,,,Recruitment,Yellowfin tuna,recruitment,,631357.1,1857180,,CI
+1998,1369656,,,Recruitment,Yellowfin tuna,recruitment,,810707.4,2295236,,CI
+1999,2035279,,,Recruitment,Yellowfin tuna,recruitment,,1244589,3308169,,CI
+2000,1094839,,,Recruitment,Yellowfin tuna,recruitment,,727945.7,1763885,,CI
+2001,1142496,,,Recruitment,Yellowfin tuna,recruitment,,767977.3,1922451,,CI
+2002,922452,,,Recruitment,Yellowfin tuna,recruitment,,608436.3,1589854,,CI
+2003,924689.3,,,Recruitment,Yellowfin tuna,recruitment,,621738.4,1558045,,CI
+2004,598155.6,,,Recruitment,Yellowfin tuna,recruitment,,384056.3,1032929,,CI
+2005,825547.1,,,Recruitment,Yellowfin tuna,recruitment,,528028.7,1480983,,CI
+2006,973117.9,,,Recruitment,Yellowfin tuna,recruitment,,560720.5,1855196,,CI
+2007,794432.2,,,Recruitment,Yellowfin tuna,recruitment,,528500.5,1398207,,CI
+2008,856294,,,Recruitment,Yellowfin tuna,recruitment,,562678.2,1486857,,CI
+2009,781654.9,,,Recruitment,Yellowfin tuna,recruitment,,494584.8,1399636,,CI
+2010,790273.5,,,Recruitment,Yellowfin tuna,recruitment,,534279.8,1356377,,CI
+2011,795319.1,,,Recruitment,Yellowfin tuna,recruitment,,521701.1,1382154,,CI
+2012,757525.6,,,Recruitment,Yellowfin tuna,recruitment,,502494,1273070,,CI
+2013,711983.7,,,Recruitment,Yellowfin tuna,recruitment,,502941.8,1108335,,CI
+2014,608772.9,,,Recruitment,Yellowfin tuna,recruitment,,423367.8,911885,,CI
+2015,842962.6,,,Recruitment,Yellowfin tuna,recruitment,,617476,1267655,,CI
+2016,714256.1,,,Recruitment,Yellowfin tuna,recruitment,,487459.8,1107587,,CI
+2017,808253.7,,,Recruitment,Yellowfin tuna,recruitment,,563772.3,1243886,,CI
+2018,978221.8,,,Recruitment,Yellowfin tuna,recruitment,,488062.5,1798578,,CI
+2019,1486848,,,Recruitment,Yellowfin tuna,recruitment,,246326.1,3226259,,CI
+1975,44100,,8638,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,35462,52738,,SE
+1976,39375,,8115,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,31260,47490,,SE
+1977,35617,,7816,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,27801,43433,,SE
+1978,32091,,7697,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,24394,39788,,SE
+1979,29057,,7489,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,21568,36546,,SE
+1980,27485,,7253,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,20232,34738,,SE
+1981,25871,,7008,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,18863,32879,,SE
+1982,25512,,6953,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,18559,32465,,SE
+1983,23811,,6753,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,17058,30564,,SE
+1984,23426,,6730,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,16696,30156,,SE
+1985,23356,,6763,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,16593,30119,,SE
+1986,24286,,6946,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,17340,31232,,SE
+1987,24154,,7029,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,17125,31183,,SE
+1988,22691,,6876,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,15815,29567,,SE
+1989,21921,,6708,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,15213,28629,,SE
+1990,21709,,6454,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,15255,28163,,SE
+1991,21373,,6116,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,15257,27489,,SE
+1992,19156,,5522,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,13634,24678,,SE
+1993,17191,,4768,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,12423,21959,,SE
+1994,17716,,4320,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,13396,22036,,SE
+1995,18832,,4219,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,14613,23051,,SE
+1996,19224,,4191,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,15033,23415,,SE
+1997,19451,,4163,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,15288,23614,,SE
+1998,18745,,4081,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,14664,22826,,SE
+1999,18039,,3936,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,14103,21975,,SE
+2000,18365,,3815,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,14550,22180,,SE
+2001,20322,,3857,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,16465,24179,,SE
+2002,20911,,3889,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,17022,24800,,SE
+2003,20866,,3908,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,16958,24774,,SE
+2004,20767,,3939,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,16828,24706,,SE
+2005,20990,,4025,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,16965,25015,,SE
+2006,22848,,4215,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,18633,27063,,SE
+2007,23811,,4404,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,19407,28215,,SE
+2008,24557,,4573,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,19984,29130,,SE
+2009,25392,,4743,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,20649,30135,,SE
+2010,26136,,4891,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,21245,31027,,SE
+2011,26448,,4987,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,21461,31435,,SE
+2012,26569,,5056,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,21513,31625,,SE
+2013,27546,,5179,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,22367,32725,,SE
+2014,28580,,5295,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,23285,33875,,SE
+2015,28865,,5393,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,23472,34258,,SE
+2016,29404,,5533,Spawning biomass (mt),Western Central Pacific swordfish,biomass,,23871,34937,,SE
+1975,789,,377,Recruits (x1000),Western Central Pacific swordfish,recruitment,,412,1166,,SE
+1976,697,,334,Recruits (x1000),Western Central Pacific swordfish,recruitment,,363,1031,,SE
+1977,803,,378,Recruits (x1000),Western Central Pacific swordfish,recruitment,,425,1181,,SE
+1978,833,,387,Recruits (x1000),Western Central Pacific swordfish,recruitment,,446,1220,,SE
+1979,705,,335,Recruits (x1000),Western Central Pacific swordfish,recruitment,,370,1040,,SE
+1980,682,,329,Recruits (x1000),Western Central Pacific swordfish,recruitment,,353,1011,,SE
+1981,854,,422,Recruits (x1000),Western Central Pacific swordfish,recruitment,,432,1276,,SE
+1982,1061,,552,Recruits (x1000),Western Central Pacific swordfish,recruitment,,509,1613,,SE
+1983,1241,,615,Recruits (x1000),Western Central Pacific swordfish,recruitment,,626,1856,,SE
+1984,894,,474,Recruits (x1000),Western Central Pacific swordfish,recruitment,,420,1368,,SE
+1985,803,,403,Recruits (x1000),Western Central Pacific swordfish,recruitment,,400,1206,,SE
+1986,772,,381,Recruits (x1000),Western Central Pacific swordfish,recruitment,,391,1153,,SE
+1987,820,,390,Recruits (x1000),Western Central Pacific swordfish,recruitment,,430,1210,,SE
+1988,760,,349,Recruits (x1000),Western Central Pacific swordfish,recruitment,,411,1109,,SE
+1989,587,,265,Recruits (x1000),Western Central Pacific swordfish,recruitment,,322,852,,SE
+1990,586,,255,Recruits (x1000),Western Central Pacific swordfish,recruitment,,331,841,,SE
+1991,1178,,256,Recruits (x1000),Western Central Pacific swordfish,recruitment,,922,1434,,SE
+1992,702,,164,Recruits (x1000),Western Central Pacific swordfish,recruitment,,538,866,,SE
+1993,658,,133,Recruits (x1000),Western Central Pacific swordfish,recruitment,,525,791,,SE
+1994,677,,129,Recruits (x1000),Western Central Pacific swordfish,recruitment,,548,806,,SE
+1995,563,,107,Recruits (x1000),Western Central Pacific swordfish,recruitment,,456,670,,SE
+1996,401,,86,Recruits (x1000),Western Central Pacific swordfish,recruitment,,315,487,,SE
+1997,894,,145,Recruits (x1000),Western Central Pacific swordfish,recruitment,,749,1039,,SE
+1998,1068,,153,Recruits (x1000),Western Central Pacific swordfish,recruitment,,915,1221,,SE
+1999,564,,116,Recruits (x1000),Western Central Pacific swordfish,recruitment,,448,680,,SE
+2000,669,,115,Recruits (x1000),Western Central Pacific swordfish,recruitment,,554,784,,SE
+2001,737,,108,Recruits (x1000),Western Central Pacific swordfish,recruitment,,629,845,,SE
+2002,706,,101,Recruits (x1000),Western Central Pacific swordfish,recruitment,,605,807,,SE
+2003,1066,,117,Recruits (x1000),Western Central Pacific swordfish,recruitment,,949,1183,,SE
+2004,901,,121,Recruits (x1000),Western Central Pacific swordfish,recruitment,,780,1022,,SE
+2005,703,,121,Recruits (x1000),Western Central Pacific swordfish,recruitment,,582,824,,SE
+2006,762,,123,Recruits (x1000),Western Central Pacific swordfish,recruitment,,639,885,,SE
+2007,723,,115,Recruits (x1000),Western Central Pacific swordfish,recruitment,,608,838,,SE
+2008,567,,97,Recruits (x1000),Western Central Pacific swordfish,recruitment,,470,664,,SE
+2009,617,,101,Recruits (x1000),Western Central Pacific swordfish,recruitment,,516,718,,SE
+2010,789,,117,Recruits (x1000),Western Central Pacific swordfish,recruitment,,672,906,,SE
+2011,565,,101,Recruits (x1000),Western Central Pacific swordfish,recruitment,,464,666,,SE
+2012,671,,106,Recruits (x1000),Western Central Pacific swordfish,recruitment,,565,777,,SE
+2013,710,,115,Recruits (x1000),Western Central Pacific swordfish,recruitment,,595,825,,SE
+2014,683,,129,Recruits (x1000),Western Central Pacific swordfish,recruitment,,554,812,,SE
+2015,742,,232,Recruits (x1000),Western Central Pacific swordfish,recruitment,,510,974,,SE
+2016,781,,303,Recruits (x1000),Western Central Pacific swordfish,recruitment,,478,1084,,SE
+1951,57210,,14460,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,42750,71670,,SE
+1952,55010,,15680,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,39330,70690,,SE
+1953,51470,,16980,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,34490,68450,,SE
+1954,45550,,17060,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,28490,62610,,SE
+1955,38360,,14450,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,23910,52810,,SE
+1956,37030,,13820,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,23210,50850,,SE
+1957,41690,,14470,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,27220,56160,,SE
+1958,40890,,14290,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,26600,55180,,SE
+1959,39680,,14150,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,25530,53830,,SE
+1960,42920,,14850,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,28070,57770,,SE
+1961,49290,,16160,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,33130,65450,,SE
+1962,54920,,17730,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,37190,72650,,SE
+1963,59320,,19060,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,40260,78380,,SE
+1964,60010,,19450,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,40560,79460,,SE
+1965,58080,,19450,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,38630,77530,,SE
+1966,60160,,20000,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,40160,80160,,SE
+1967,62370,,20700,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,41670,83070,,SE
+1968,64250,,21370,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,42880,85620,,SE
+1969,67070,,22310,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,44760,89380,,SE
+1970,64850,,22520,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,42330,87370,,SE
+1971,60990,,21470,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,39520,82460,,SE
+1972,61350,,20650,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,40700,82000,,SE
+1973,62890,,20720,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,42170,83610,,SE
+1974,59700,,19690,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,40010,79390,,SE
+1975,56520,,17910,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,38610,74430,,SE
+1976,55920,,17680,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,38240,73600,,SE
+1977,54950,,17630,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,37320,72580,,SE
+1978,52230,,16910,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,35320,69140,,SE
+1979,49500,,16150,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,33350,65650,,SE
+1980,50490,,16220,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,34270,66710,,SE
+1981,51960,,16690,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,35270,68650,,SE
+1982,48780,,15870,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,32910,64650,,SE
+1983,46160,,15190,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,30970,61350,,SE
+1984,43110,,14190,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,28920,57300,,SE
+1985,42180,,13840,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,28340,56020,,SE
+1986,44180,,14190,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,29990,58370,,SE
+1987,44520,,14260,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,30260,58780,,SE
+1988,42480,,13740,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,28740,56220,,SE
+1989,42190,,13630,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,28560,55820,,SE
+1990,43410,,13720,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,29690,57130,,SE
+1991,39840,,12970,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,26870,52810,,SE
+1992,38140,,12320,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,25820,50460,,SE
+1993,35860,,11820,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,24040,47680,,SE
+1994,32160,,11050,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,21110,43210,,SE
+1995,31510,,11070,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,20440,42580,,SE
+1996,33620,,11520,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,22100,45140,,SE
+1997,36170,,12180,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,23990,48350,,SE
+1998,37980,,12910,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,25070,50890,,SE
+1999,37900,,13490,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,24410,51390,,SE
+2000,43420,,14470,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,28950,57890,,SE
+2001,46460,,15610,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,30850,62070,,SE
+2002,44320,,15180,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,29140,59500,,SE
+2003,41980,,14620,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,27360,56600,,SE
+2004,40660,,14170,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,26490,54830,,SE
+2005,39550,,13940,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,25610,53490,,SE
+2006,43100,,14890,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,28210,57990,,SE
+2007,47980,,16290,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,31690,64270,,SE
+2008,53840,,18080,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,35760,71920,,SE
+2009,60570,,20290,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,40280,80860,,SE
+2010,62120,,21440,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,40680,83560,,SE
+2011,60810,,21830,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,38980,82640,,SE
+2012,58590,,21950,Exploitable biomass (mt),Eastern Pacific swordfish,biomass,,36640,80540,,SE
+1971,71806.5,,19780.7,Spawning biomass (mt),Blue marlin,biomass,,52025.8,91587.2,,SE
+1972,69410.4,,17793.1,Spawning biomass (mt),Blue marlin,biomass,,51617.3,87203.5,,SE
+1973,67252.4,,16063.4,Spawning biomass (mt),Blue marlin,biomass,,51189,83315.8,,SE
+1974,65101.3,,14553.2,Spawning biomass (mt),Blue marlin,biomass,,50548.1,79654.5,,SE
+1975,63538.2,,13194.7,Spawning biomass (mt),Blue marlin,biomass,,50343.5,76732.9,,SE
+1976,61014,,11904.1,Spawning biomass (mt),Blue marlin,biomass,,49109.9,72918.1,,SE
+1977,57275,,10713.3,Spawning biomass (mt),Blue marlin,biomass,,46561.7,67988.3,,SE
+1978,53483.6,,9673.9,Spawning biomass (mt),Blue marlin,biomass,,43809.7,63157.5,,SE
+1979,52426.7,,8804.21,Spawning biomass (mt),Blue marlin,biomass,,43622.49,61230.91,,SE
+1980,52251.4,,8101.66,Spawning biomass (mt),Blue marlin,biomass,,44149.74,60353.06,,SE
+1981,52895.1,,7625.9,Spawning biomass (mt),Blue marlin,biomass,,45269.2,60521,,SE
+1982,52545.9,,7284.46,Spawning biomass (mt),Blue marlin,biomass,,45261.44,59830.36,,SE
+1983,51632,,7040.13,Spawning biomass (mt),Blue marlin,biomass,,44591.87,58672.13,,SE
+1984,52040,,6904.71,Spawning biomass (mt),Blue marlin,biomass,,45135.29,58944.71,,SE
+1985,51964.7,,6800.38,Spawning biomass (mt),Blue marlin,biomass,,45164.32,58765.08,,SE
+1986,51909.3,,6694.74,Spawning biomass (mt),Blue marlin,biomass,,45214.56,58604.04,,SE
+1987,49865.9,,6546.65,Spawning biomass (mt),Blue marlin,biomass,,43319.25,56412.55,,SE
+1988,45912.4,,6368.19,Spawning biomass (mt),Blue marlin,biomass,,39544.21,52280.59,,SE
+1989,44752.1,,6235.93,Spawning biomass (mt),Blue marlin,biomass,,38516.17,50988.03,,SE
+1990,44531.8,,6100.03,Spawning biomass (mt),Blue marlin,biomass,,38431.77,50631.83,,SE
+1991,44821.9,,5940.22,Spawning biomass (mt),Blue marlin,biomass,,38881.68,50762.12,,SE
+1992,44088.6,,5747.45,Spawning biomass (mt),Blue marlin,biomass,,38341.15,49836.05,,SE
+1993,42563.4,,5524,Spawning biomass (mt),Blue marlin,biomass,,37039.4,48087.4,,SE
+1994,41234.1,,5192.05,Spawning biomass (mt),Blue marlin,biomass,,36042.05,46426.15,,SE
+1995,38589.3,,4890.91,Spawning biomass (mt),Blue marlin,biomass,,33698.39,43480.21,,SE
+1996,35884.2,,4647.35,Spawning biomass (mt),Blue marlin,biomass,,31236.85,40531.55,,SE
+1997,35948.7,,4478.24,Spawning biomass (mt),Blue marlin,biomass,,31470.46,40426.94,,SE
+1998,34572.7,,4273.84,Spawning biomass (mt),Blue marlin,biomass,,30298.86,38846.54,,SE
+1999,34912.9,,4052.85,Spawning biomass (mt),Blue marlin,biomass,,30860.05,38965.75,,SE
+2000,33608,,3843.25,Spawning biomass (mt),Blue marlin,biomass,,29764.75,37451.25,,SE
+2001,31235.6,,3553.67,Spawning biomass (mt),Blue marlin,biomass,,27681.93,34789.27,,SE
+2002,28457.9,,3273.39,Spawning biomass (mt),Blue marlin,biomass,,25184.51,31731.29,,SE
+2003,25771.8,,2996.42,Spawning biomass (mt),Blue marlin,biomass,,22775.38,28768.22,,SE
+2004,23187.6,,2758.55,Spawning biomass (mt),Blue marlin,biomass,,20429.05,25946.15,,SE
+2005,22374,,2636.61,Spawning biomass (mt),Blue marlin,biomass,,19737.39,25010.61,,SE
+2006,20972,,2576.58,Spawning biomass (mt),Blue marlin,biomass,,18395.42,23548.58,,SE
+2007,21341.1,,2623.27,Spawning biomass (mt),Blue marlin,biomass,,18717.83,23964.37,,SE
+2008,22705.8,,2697.06,Spawning biomass (mt),Blue marlin,biomass,,20008.74,25402.86,,SE
+2009,23065.3,,2729.6,Spawning biomass (mt),Blue marlin,biomass,,20335.7,25794.9,,SE
+2010,22391.8,,2757.74,Spawning biomass (mt),Blue marlin,biomass,,19634.06,25149.54,,SE
+2011,23181.8,,2832.15,Spawning biomass (mt),Blue marlin,biomass,,20349.65,26013.95,,SE
+2012,23432.2,,2946.78,Spawning biomass (mt),Blue marlin,biomass,,20485.42,26378.98,,SE
+2013,24770.9,,3125.3,Spawning biomass (mt),Blue marlin,biomass,,21645.6,27896.2,,SE
+2014,24808.7,,3372.22,Spawning biomass (mt),Blue marlin,biomass,,21436.48,28180.92,,SE
+1971,891.36,,168.41,Recruits (x1000),Blue marlin,recruitment,,722.95,1059.77,,SE
+1972,841.41,,163.75,Recruits (x1000),Blue marlin,recruitment,,677.66,1005.16,,SE
+1973,825.18,,150.42,Recruits (x1000),Blue marlin,recruitment,,674.76,975.6,,SE
+1974,589.3,,115.84,Recruits (x1000),Blue marlin,recruitment,,473.46,705.14,,SE
+1975,636.27,,118.48,Recruits (x1000),Blue marlin,recruitment,,517.79,754.75,,SE
+1976,663.81,,128.59,Recruits (x1000),Blue marlin,recruitment,,535.22,792.4,,SE
+1977,1176.94,,212.03,Recruits (x1000),Blue marlin,recruitment,,964.91,1388.97,,SE
+1978,1063.48,,221.6,Recruits (x1000),Blue marlin,recruitment,,841.88,1285.08,,SE
+1979,1048.29,,206.08,Recruits (x1000),Blue marlin,recruitment,,842.21,1254.37,,SE
+1980,953.28,,196.94,Recruits (x1000),Blue marlin,recruitment,,756.34,1150.22,,SE
+1981,919.69,,188.98,Recruits (x1000),Blue marlin,recruitment,,730.71,1108.67,,SE
+1982,1181.18,,218.24,Recruits (x1000),Blue marlin,recruitment,,962.94,1399.42,,SE
+1983,1028.63,,201.99,Recruits (x1000),Blue marlin,recruitment,,826.64,1230.62,,SE
+1984,875.43,,175.19,Recruits (x1000),Blue marlin,recruitment,,700.24,1050.62,,SE
+1985,881.3,,170.44,Recruits (x1000),Blue marlin,recruitment,,710.86,1051.74,,SE
+1986,1085.58,,181.21,Recruits (x1000),Blue marlin,recruitment,,904.37,1266.79,,SE
+1987,1024.75,,184.58,Recruits (x1000),Blue marlin,recruitment,,840.17,1209.33,,SE
+1988,992.11,,185.31,Recruits (x1000),Blue marlin,recruitment,,806.8,1177.42,,SE
+1989,940.2,,183.66,Recruits (x1000),Blue marlin,recruitment,,756.54,1123.86,,SE
+1990,931.47,,171.9,Recruits (x1000),Blue marlin,recruitment,,759.57,1103.37,,SE
+1991,946.97,,176.46,Recruits (x1000),Blue marlin,recruitment,,770.51,1123.43,,SE
+1992,1137.68,,199.7,Recruits (x1000),Blue marlin,recruitment,,937.98,1337.38,,SE
+1993,899.15,,165.93,Recruits (x1000),Blue marlin,recruitment,,733.22,1065.08,,SE
+1994,816.74,,146.08,Recruits (x1000),Blue marlin,recruitment,,670.66,962.82,,SE
+1995,856.11,,136.22,Recruits (x1000),Blue marlin,recruitment,,719.89,992.33,,SE
+1996,800.7,,139.5,Recruits (x1000),Blue marlin,recruitment,,661.2,940.2,,SE
+1997,1056.28,,143.15,Recruits (x1000),Blue marlin,recruitment,,913.13,1199.43,,SE
+1998,628.63,,110.72,Recruits (x1000),Blue marlin,recruitment,,517.91,739.35,,SE
+1999,848.77,,129.44,Recruits (x1000),Blue marlin,recruitment,,719.33,978.21,,SE
+2000,923.38,,130.08,Recruits (x1000),Blue marlin,recruitment,,793.3,1053.46,,SE
+2001,840.92,,126.28,Recruits (x1000),Blue marlin,recruitment,,714.64,967.2,,SE
+2002,880.83,,127.32,Recruits (x1000),Blue marlin,recruitment,,753.51,1008.15,,SE
+2003,985.46,,122.97,Recruits (x1000),Blue marlin,recruitment,,862.49,1108.43,,SE
+2004,793.43,,111.27,Recruits (x1000),Blue marlin,recruitment,,682.16,904.7,,SE
+2005,956.88,,119.43,Recruits (x1000),Blue marlin,recruitment,,837.45,1076.31,,SE
+2006,874.14,,119.44,Recruits (x1000),Blue marlin,recruitment,,754.7,993.58,,SE
+2007,699.28,,110.74,Recruits (x1000),Blue marlin,recruitment,,588.54,810.02,,SE
+2008,687.05,,112.41,Recruits (x1000),Blue marlin,recruitment,,574.64,799.46,,SE
+2009,1031,,135.69,Recruits (x1000),Blue marlin,recruitment,,895.31,1166.69,,SE
+2010,701.74,,128.39,Recruits (x1000),Blue marlin,recruitment,,573.35,830.13,,SE
+2011,1060.95,,156.88,Recruits (x1000),Blue marlin,recruitment,,904.07,1217.83,,SE
+2012,763.04,,142.62,Recruits (x1000),Blue marlin,recruitment,,620.42,905.66,,SE
+2013,908.75,,179.42,Recruits (x1000),Blue marlin,recruitment,,729.33,1088.17,,SE
+2014,838.53,,37.27,Recruits (x1000),Blue marlin,recruitment,,801.26,875.8,,SE
+1975,0.89015248,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1976,0.710177872,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1977,0.471187503,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1978,0.761604135,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1979,0.534276898,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1980,0.525671876,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1981,0.587241832,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1982,0.614157051,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1983,0.5776636,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1984,0.73104611,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1985,0.755514841,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1986,0.808568248,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1987,0.783961038,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1988,0.814688316,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1989,0.901119365,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1990,0.726272381,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1991,0.670006995,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1992,0.862071718,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1993,0.772459465,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1994,0.622877474,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1995,0.904254409,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1996,0.698441287,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1997,0.800353699,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1998,0.725458022,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1999,1.975653807,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2000,1.264088323,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2001,0.621061178,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2002,0.822362567,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2003,1.576069789,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2004,1.335649323,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2005,1.579903693,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2006,1.558920579,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2007,1.232605851,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2008,1.696246871,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2009,1.444153085,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2010,1.232278234,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2011,1.732846414,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2012,1.777004559,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2013,1.692853691,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2014,1.556607756,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2015,1.882778176,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+2016,2.244900704,,,Relative biomass index,Skipjack tuna,biomass,,,,,
+1975,0.711231071,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1976,0.670778208,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1977,0.476052462,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1978,0.927661324,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1979,0.649988202,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1980,0.702759273,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1981,0.785503915,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1982,0.720881803,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1983,0.573305705,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1984,0.682635861,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1985,0.59801484,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1986,0.644519932,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1987,0.617889244,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1988,0.677173099,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1989,0.839067186,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1990,0.531238694,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1991,0.569787634,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1992,0.819041834,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1993,0.584089095,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1994,0.503886323,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1995,0.946531981,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1996,0.583636171,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1997,0.850167338,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1998,0.804724991,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+1999,2.503386429,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2000,0.755524843,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2001,0.50947604,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2002,1.042081224,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2003,1.898896808,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2004,1.275718776,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2005,1.634319429,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2006,1.589498539,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2007,1.295357256,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2008,1.900606932,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2009,1.427640357,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2010,1.177548732,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2011,1.881773216,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2012,1.797228275,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2013,1.634732989,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2014,1.577974764,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2015,2.082897181,,,Recruitment index,Skipjack tuna,recruitment,,,,,
+2016,2.472783038,,,Recruitment index,Skipjack tuna,recruitment,,,,,

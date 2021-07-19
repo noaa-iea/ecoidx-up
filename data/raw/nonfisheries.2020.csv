@@ -1,0 +1,1305 @@
+year,raw.data,fitted.data,Seup,Selo,metric,timeseries,order
+1994,0.29,0.29,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+1995,0.22,0.22,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+1996,0.2,0.2,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+1997,0.24,0.24,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+1998,0.26,0.26,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+1999,0.26,0.26,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2000,0.3,0.3,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2001,0.27,0.27,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2002,0.25,0.25,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2003,0.23,0.23,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2004,0.25,0.25,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2005,0.26,0.26,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2006,0.24,0.24,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2007,0.25,0.25,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2008,0.24,0.24,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2009,0.26,0.26,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2010,0.21,0.21,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2011,0.24,0.24,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2012,0.24,0.24,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2013,0.28,0.28,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2014,0.18,0.18,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2015,0.22,0.22,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2016,0.18,0.18,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2017,0.15,0.15,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+2018,0.14,0.14,NA,NA,Mean concentration (mg/L),Atmospheric pollution,1
+1981,3085,3085,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1982,3248,3248,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1983,3367,3367,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1984,3453,3453,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1985,3518,3518,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1986,3470,3470,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1987,3361,3361,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1988,3333,3333,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1989,3311,3311,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1990,3229,3229,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1991,3181,3181,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1992,3115,3115,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1993,3087,3087,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1994,3040,3040,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1995,2891,2891,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1996,3226,3226,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1997,3202,3202,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1998,3127,3127,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1999,3007,3007,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2000,2854,2854,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2001,2840,2840,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2002,3040,3040,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2003,2809,2809,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2004,2773,2773,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2005,2758,2758,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2006,2725,2725,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2007,2732,2732,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2008,2768,2768,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2009,2769,2769,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2010,2692,2692,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2011,2656,2656,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2012,2689,2689,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2013,2745,2745,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2014,2810,2810,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2015,3064,3064,NA,NA,Offshore oil & gas wells,Benthic structures,2
+2016,3057,3057,NA,NA,Offshore oil & gas wells,Benthic structures,2
+1970,15.544196,15.544196,NA,NA,Coastal population (millions),Coastal engineering,3
+1971,15.7597,15.7597,NA,NA,Coastal population (millions),Coastal engineering,3
+1972,15.8435,15.8435,NA,NA,Coastal population (millions),Coastal engineering,3
+1973,16.0437,16.0437,NA,NA,Coastal population (millions),Coastal engineering,3
+1974,16.2844,16.2844,NA,NA,Coastal population (millions),Coastal engineering,3
+1975,16.5517,16.5517,NA,NA,Coastal population (millions),Coastal engineering,3
+1976,16.8275,16.8275,NA,NA,Coastal population (millions),Coastal engineering,3
+1977,17.0985,17.0985,NA,NA,Coastal population (millions),Coastal engineering,3
+1978,17.435,17.435,NA,NA,Coastal population (millions),Coastal engineering,3
+1979,17.7282,17.7282,NA,NA,Coastal population (millions),Coastal engineering,3
+1980,18.024654,18.024654,NA,NA,Coastal population (millions),Coastal engineering,3
+1981,18.44749,18.44749,NA,NA,Coastal population (millions),Coastal engineering,3
+1982,18.772445,18.772445,NA,NA,Coastal population (millions),Coastal engineering,3
+1983,19.096978,19.096978,NA,NA,Coastal population (millions),Coastal engineering,3
+1984,19.39452,19.39452,NA,NA,Coastal population (millions),Coastal engineering,3
+1985,19.765765,19.765765,NA,NA,Coastal population (millions),Coastal engineering,3
+1986,20.217494,20.217494,NA,NA,Coastal population (millions),Coastal engineering,3
+1987,20.64617,20.64617,NA,NA,Coastal population (millions),Coastal engineering,3
+1988,21.057208,21.057208,NA,NA,Coastal population (millions),Coastal engineering,3
+1989,21.479585,21.479585,NA,NA,Coastal population (millions),Coastal engineering,3
+1990,21.833842,21.833842,NA,NA,Coastal population (millions),Coastal engineering,3
+1991,22.07145,22.07145,NA,NA,Coastal population (millions),Coastal engineering,3
+1992,22.376459,22.376459,NA,NA,Coastal population (millions),Coastal engineering,3
+1993,22.550103,22.550103,NA,NA,Coastal population (millions),Coastal engineering,3
+1994,22.637155,22.637155,NA,NA,Coastal population (millions),Coastal engineering,3
+1995,22.750691,22.750691,NA,NA,Coastal population (millions),Coastal engineering,3
+1996,22.932233,22.932233,NA,NA,Coastal population (millions),Coastal engineering,3
+1997,23.243948,23.243948,NA,NA,Coastal population (millions),Coastal engineering,3
+1998,23.553076,23.553076,NA,NA,Coastal population (millions),Coastal engineering,3
+1999,23.833449,23.833449,NA,NA,Coastal population (millions),Coastal engineering,3
+2000,24.411264,24.411264,NA,NA,Coastal population (millions),Coastal engineering,3
+2001,24.665523,24.665523,NA,NA,Coastal population (millions),Coastal engineering,3
+2002,24.854971,24.854971,NA,NA,Coastal population (millions),Coastal engineering,3
+2003,24.999743,24.999743,NA,NA,Coastal population (millions),Coastal engineering,3
+2004,25.096767,25.096767,NA,NA,Coastal population (millions),Coastal engineering,3
+2005,25.151401,25.151401,NA,NA,Coastal population (millions),Coastal engineering,3
+2006,25.19798,25.19798,NA,NA,Coastal population (millions),Coastal engineering,3
+2007,25.299084,25.299084,NA,NA,Coastal population (millions),Coastal engineering,3
+2008,25.533269,25.533269,NA,NA,Coastal population (millions),Coastal engineering,3
+2009,25.789216,25.789216,NA,NA,Coastal population (millions),Coastal engineering,3
+2010,25.938485,25.938485,NA,NA,Coastal population (millions),Coastal engineering,3
+2011,26.172137,26.172137,NA,NA,Coastal population (millions),Coastal engineering,3
+2012,26.423181,26.423181,NA,NA,Coastal population (millions),Coastal engineering,3
+2013,26.637923,26.637923,NA,NA,Coastal population (millions),Coastal engineering,3
+2014,26.946602,26.946602,NA,NA,Coastal population (millions),Coastal engineering,3
+2015,27.18616,27.18616,NA,NA,Coastal population (millions),Coastal engineering,3
+2016,27.284321,27.284321,NA,NA,Coastal population (millions),Coastal engineering,3
+2017,27.406408,27.406408,NA,NA,Coastal population (millions),Coastal engineering,3
+2018,27.504479,27.504479,NA,NA,Coastal population (millions),Coastal engineering,3
+2001,9.687435151,9.687435151,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2002,9.565982327,9.565982327,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2003,9.902488658,9.902488658,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2004,10.29948793,10.29948793,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2005,10.00449406,10.00449406,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2006,10.90754882,10.90754882,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2007,10.34038368,10.34038368,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2008,9.878130873,9.878130873,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2009,8.160398678,8.160398678,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2010,8.314537117,8.314537117,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2011,8.780379419,8.780379419,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2012,8.306685666,8.306685666,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2013,8.403500129,8.403500129,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2014,8.486479699,8.486479699,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2015,8.277246831,8.277246831,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+2016,8.268260326,8.268260326,NA,NA,Trillions of cubic meters,Commercial shipping activity (water displacement),4
+1997,27.25464794,27.25464794,NA,NA,Millions of km,Commercial shipping activity,5
+1998,17.68676229,17.68676229,NA,NA,Millions of km,Commercial shipping activity,5
+1999,28.25573514,28.25573514,NA,NA,Millions of km,Commercial shipping activity,5
+2000,31.40238408,31.40238408,NA,NA,Millions of km,Commercial shipping activity,5
+2001,26.66188221,26.66188221,NA,NA,Millions of km,Commercial shipping activity,5
+2002,27.01581368,27.01581368,NA,NA,Millions of km,Commercial shipping activity,5
+2003,26.8765038,26.8765038,NA,NA,Millions of km,Commercial shipping activity,5
+2004,27.57169331,27.57169331,NA,NA,Millions of km,Commercial shipping activity,5
+2005,27.69367437,27.69367437,NA,NA,Millions of km,Commercial shipping activity,5
+2006,29.27928235,29.27928235,NA,NA,Millions of km,Commercial shipping activity,5
+2007,28.10124653,28.10124653,NA,NA,Millions of km,Commercial shipping activity,5
+2008,26.46682315,26.46682315,NA,NA,Millions of km,Commercial shipping activity,5
+2009,22.35579196,22.35579196,NA,NA,Millions of km,Commercial shipping activity,5
+2010,22.43485584,22.43485584,NA,NA,Millions of km,Commercial shipping activity,5
+2011,23.45975257,23.45975257,NA,NA,Millions of km,Commercial shipping activity,5
+2012,22.31695188,22.31695188,NA,NA,Millions of km,Commercial shipping activity,5
+2013,22.14884584,22.14884584,NA,NA,Millions of km,Commercial shipping activity,5
+2014,22.38176632,22.38176632,NA,NA,Millions of km,Commercial shipping activity,5
+2015,21.95935476,21.95935476,NA,NA,Millions of km,Commercial shipping activity,5
+2016,21.87946688,21.87946688,NA,NA,Millions of km,Commercial shipping activity,5
+2017,22.61271998,22.61271998,NA,NA,Millions of km,Commercial shipping activity,5
+2018,22.96427774,22.96427774,NA,NA,Millions of km,Commercial shipping activity,5
+1995,21.32092878,21.32092878,NA,NA,Millions of cubic meters,Dredging,6
+1996,15.76357218,15.76357218,NA,NA,Millions of cubic meters,Dredging,6
+1997,13.54781422,13.54781422,NA,NA,Millions of cubic meters,Dredging,6
+1998,9.626061423,9.626061423,NA,NA,Millions of cubic meters,Dredging,6
+1999,16.48448472,16.48448472,NA,NA,Millions of cubic meters,Dredging,6
+2000,11.73223039,11.73223039,NA,NA,Millions of cubic meters,Dredging,6
+2001,11.26083874,11.26083874,NA,NA,Millions of cubic meters,Dredging,6
+2002,7.668432471,7.668432471,NA,NA,Millions of cubic meters,Dredging,6
+2003,8.106013212,8.106013212,NA,NA,Millions of cubic meters,Dredging,6
+2004,12.1408085,12.1408085,NA,NA,Millions of cubic meters,Dredging,6
+2005,8.478572384,8.478572384,NA,NA,Millions of cubic meters,Dredging,6
+2006,10.96707994,10.96707994,NA,NA,Millions of cubic meters,Dredging,6
+2007,16.8917608,16.8917608,NA,NA,Millions of cubic meters,Dredging,6
+2008,4.842324249,4.842324249,NA,NA,Millions of cubic meters,Dredging,6
+2009,14.4465324,14.4465324,NA,NA,Millions of cubic meters,Dredging,6
+2010,9.605998739,9.605998739,NA,NA,Millions of cubic meters,Dredging,6
+2011,8.448435925,8.448435925,NA,NA,Millions of cubic meters,Dredging,6
+2012,9.50818312,9.50818312,NA,NA,Millions of cubic meters,Dredging,6
+2013,8.843973029,8.843973029,NA,NA,Millions of cubic meters,Dredging,6
+2014,7.76107129,7.76107129,NA,NA,Millions of cubic meters,Dredging,6
+2015,5.101823342,5.101823342,NA,NA,Millions of cubic meters,Dredging,6
+2016,5.442811751,5.442811751,NA,NA,Millions of cubic meters,Dredging,6
+1986,0.011499918,0.011499918,NA,NA,Production (1000s mt),Finfish aquaculture,7
+1987,0.19792623,0.19792623,NA,NA,Production (1000s mt),Finfish aquaculture,7
+1988,0.924558388,0.924558388,NA,NA,Production (1000s mt),Finfish aquaculture,7
+1989,1.514326871,1.514326871,NA,NA,Production (1000s mt),Finfish aquaculture,7
+1990,1.197470179,1.197470179,NA,NA,Production (1000s mt),Finfish aquaculture,7
+1991,2.066600532,2.066600532,NA,NA,Production (1000s mt),Finfish aquaculture,7
+1992,4.238291527,4.238291527,NA,NA,Production (1000s mt),Finfish aquaculture,7
+1993,4.253665121,4.253665121,NA,NA,Production (1000s mt),Finfish aquaculture,7
+1994,4.835716189,4.835716189,NA,NA,Production (1000s mt),Finfish aquaculture,7
+1995,4.867337902,4.867337902,NA,NA,Production (1000s mt),Finfish aquaculture,7
+1996,5.490717552,5.490717552,NA,NA,Production (1000s mt),Finfish aquaculture,7
+1997,5.804185458,5.804185458,NA,NA,Production (1000s mt),Finfish aquaculture,7
+1998,2.612560646,2.612560646,NA,NA,Production (1000s mt),Finfish aquaculture,7
+1999,5.532433048,5.532433048,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2000,6.049260762,6.049260762,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2001,7.572012651,7.572012651,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2002,5.935257217,5.935257217,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2003,10.30724226,10.30724226,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2004,6.642540047,6.642540047,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2005,6.110394077,6.110394077,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2006,5.810877754,5.810877754,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2007,7.116635766,7.116635766,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2008,7.699060595,7.699060595,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2009,7.923261141,7.923261141,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2010,8.407519136,8.407519136,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2011,7.467284608,7.467284608,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2012,8.695630795,8.695630795,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2013,6.833636996,6.833636996,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2014,9.24428706,9.24428706,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2015,10.43138722,10.43138722,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2016,8.01694059,8.01694059,NA,NA,Production (1000s mt),Finfish aquaculture,7
+2017,6.717011689,6.717011689,NA,NA,Production (1000s mt),Finfish aquaculture,7
+1900,9,9,NA,NA,Millions of cubic meters,Freshwater retention,8
+1901,9,9,NA,NA,Millions of cubic meters,Freshwater retention,8
+1902,14,14,NA,NA,Millions of cubic meters,Freshwater retention,8
+1903,14,14,NA,NA,Millions of cubic meters,Freshwater retention,8
+1904,107,107,NA,NA,Millions of cubic meters,Freshwater retention,8
+1905,111,111,NA,NA,Millions of cubic meters,Freshwater retention,8
+1906,228,228,NA,NA,Millions of cubic meters,Freshwater retention,8
+1907,229,229,NA,NA,Millions of cubic meters,Freshwater retention,8
+1908,509,509,NA,NA,Millions of cubic meters,Freshwater retention,8
+1909,509,509,NA,NA,Millions of cubic meters,Freshwater retention,8
+1910,600,600,NA,NA,Millions of cubic meters,Freshwater retention,8
+1911,1118,1118,NA,NA,Millions of cubic meters,Freshwater retention,8
+1912,1438,1438,NA,NA,Millions of cubic meters,Freshwater retention,8
+1913,1448,1448,NA,NA,Millions of cubic meters,Freshwater retention,8
+1914,1982,1982,NA,NA,Millions of cubic meters,Freshwater retention,8
+1915,2321,2321,NA,NA,Millions of cubic meters,Freshwater retention,8
+1916,2894,2894,NA,NA,Millions of cubic meters,Freshwater retention,8
+1917,3109,3109,NA,NA,Millions of cubic meters,Freshwater retention,8
+1918,3125,3125,NA,NA,Millions of cubic meters,Freshwater retention,8
+1919,3334,3334,NA,NA,Millions of cubic meters,Freshwater retention,8
+1920,3413,3413,NA,NA,Millions of cubic meters,Freshwater retention,8
+1921,4537,4537,NA,NA,Millions of cubic meters,Freshwater retention,8
+1922,4545,4545,NA,NA,Millions of cubic meters,Freshwater retention,8
+1923,4575,4575,NA,NA,Millions of cubic meters,Freshwater retention,8
+1924,4677,4677,NA,NA,Millions of cubic meters,Freshwater retention,8
+1925,5245,5245,NA,NA,Millions of cubic meters,Freshwater retention,8
+1926,5855,5855,NA,NA,Millions of cubic meters,Freshwater retention,8
+1927,8105,8105,NA,NA,Millions of cubic meters,Freshwater retention,8
+1928,9417,9417,NA,NA,Millions of cubic meters,Freshwater retention,8
+1929,9539,9539,NA,NA,Millions of cubic meters,Freshwater retention,8
+1930,9650,9650,NA,NA,Millions of cubic meters,Freshwater retention,8
+1931,10444,10444,NA,NA,Millions of cubic meters,Freshwater retention,8
+1932,11842,11842,NA,NA,Millions of cubic meters,Freshwater retention,8
+1933,12889,12889,NA,NA,Millions of cubic meters,Freshwater retention,8
+1934,12890,12890,NA,NA,Millions of cubic meters,Freshwater retention,8
+1935,12970,12970,NA,NA,Millions of cubic meters,Freshwater retention,8
+1936,12987,12987,NA,NA,Millions of cubic meters,Freshwater retention,8
+1937,13744,13744,NA,NA,Millions of cubic meters,Freshwater retention,8
+1938,13780,13780,NA,NA,Millions of cubic meters,Freshwater retention,8
+1939,13993,13993,NA,NA,Millions of cubic meters,Freshwater retention,8
+1940,14091,14091,NA,NA,Millions of cubic meters,Freshwater retention,8
+1941,14091,14091,NA,NA,Millions of cubic meters,Freshwater retention,8
+1942,25896,25896,NA,NA,Millions of cubic meters,Freshwater retention,8
+1943,25896,25896,NA,NA,Millions of cubic meters,Freshwater retention,8
+1944,25897,25897,NA,NA,Millions of cubic meters,Freshwater retention,8
+1945,26201,26201,NA,NA,Millions of cubic meters,Freshwater retention,8
+1946,27307,27307,NA,NA,Millions of cubic meters,Freshwater retention,8
+1947,27307,27307,NA,NA,Millions of cubic meters,Freshwater retention,8
+1948,28453,28453,NA,NA,Millions of cubic meters,Freshwater retention,8
+1949,32769,32769,NA,NA,Millions of cubic meters,Freshwater retention,8
+1950,33383,33383,NA,NA,Millions of cubic meters,Freshwater retention,8
+1951,35963,35963,NA,NA,Millions of cubic meters,Freshwater retention,8
+1952,38815,38815,NA,NA,Millions of cubic meters,Freshwater retention,8
+1953,41271,41271,NA,NA,Millions of cubic meters,Freshwater retention,8
+1954,46887,46887,NA,NA,Millions of cubic meters,Freshwater retention,8
+1955,48453,48453,NA,NA,Millions of cubic meters,Freshwater retention,8
+1956,53090,53090,NA,NA,Millions of cubic meters,Freshwater retention,8
+1957,57416,57416,NA,NA,Millions of cubic meters,Freshwater retention,8
+1958,59196,59196,NA,NA,Millions of cubic meters,Freshwater retention,8
+1959,93077,93077,NA,NA,Millions of cubic meters,Freshwater retention,8
+1960,93809,93809,NA,NA,Millions of cubic meters,Freshwater retention,8
+1961,95277,95277,NA,NA,Millions of cubic meters,Freshwater retention,8
+1962,97193,97193,NA,NA,Millions of cubic meters,Freshwater retention,8
+1963,101186,101186,NA,NA,Millions of cubic meters,Freshwater retention,8
+1964,105394,105394,NA,NA,Millions of cubic meters,Freshwater retention,8
+1965,107403,107403,NA,NA,Millions of cubic meters,Freshwater retention,8
+1966,108489,108489,NA,NA,Millions of cubic meters,Freshwater retention,8
+1967,112218,112218,NA,NA,Millions of cubic meters,Freshwater retention,8
+1968,118429,118429,NA,NA,Millions of cubic meters,Freshwater retention,8
+1969,123404,123404,NA,NA,Millions of cubic meters,Freshwater retention,8
+1970,130893,130893,NA,NA,Millions of cubic meters,Freshwater retention,8
+1971,131359,131359,NA,NA,Millions of cubic meters,Freshwater retention,8
+1972,131371,131371,NA,NA,Millions of cubic meters,Freshwater retention,8
+1973,131553,131553,NA,NA,Millions of cubic meters,Freshwater retention,8
+1974,164150,164150,NA,NA,Millions of cubic meters,Freshwater retention,8
+1975,165461,165461,NA,NA,Millions of cubic meters,Freshwater retention,8
+1976,165478,165478,NA,NA,Millions of cubic meters,Freshwater retention,8
+1977,165643,165643,NA,NA,Millions of cubic meters,Freshwater retention,8
+1978,165976,165976,NA,NA,Millions of cubic meters,Freshwater retention,8
+1979,166498,166498,NA,NA,Millions of cubic meters,Freshwater retention,8
+1980,166653,166653,NA,NA,Millions of cubic meters,Freshwater retention,8
+1981,166729,166729,NA,NA,Millions of cubic meters,Freshwater retention,8
+1982,166821,166821,NA,NA,Millions of cubic meters,Freshwater retention,8
+1983,169849,169849,NA,NA,Millions of cubic meters,Freshwater retention,8
+1984,169851,169851,NA,NA,Millions of cubic meters,Freshwater retention,8
+1985,169882,169882,NA,NA,Millions of cubic meters,Freshwater retention,8
+1986,169973,169973,NA,NA,Millions of cubic meters,Freshwater retention,8
+1987,170468,170468,NA,NA,Millions of cubic meters,Freshwater retention,8
+1988,170644,170644,NA,NA,Millions of cubic meters,Freshwater retention,8
+1989,170673,170673,NA,NA,Millions of cubic meters,Freshwater retention,8
+1990,171497,171497,NA,NA,Millions of cubic meters,Freshwater retention,8
+1991,171499,171499,NA,NA,Millions of cubic meters,Freshwater retention,8
+1992,171524,171524,NA,NA,Millions of cubic meters,Freshwater retention,8
+1993,171544,171544,NA,NA,Millions of cubic meters,Freshwater retention,8
+1994,171566,171566,NA,NA,Millions of cubic meters,Freshwater retention,8
+1995,171568,171568,NA,NA,Millions of cubic meters,Freshwater retention,8
+1996,171571,171571,NA,NA,Millions of cubic meters,Freshwater retention,8
+1997,171573,171573,NA,NA,Millions of cubic meters,Freshwater retention,8
+1998,171573,171573,NA,NA,Millions of cubic meters,Freshwater retention,8
+1999,172689,172689,NA,NA,Millions of cubic meters,Freshwater retention,8
+2000,172869,172869,NA,NA,Millions of cubic meters,Freshwater retention,8
+2001,172870,172870,NA,NA,Millions of cubic meters,Freshwater retention,8
+2002,172870,172870,NA,NA,Millions of cubic meters,Freshwater retention,8
+2003,172870,172870,NA,NA,Millions of cubic meters,Freshwater retention,8
+2004,172871,172871,NA,NA,Millions of cubic meters,Freshwater retention,8
+2005,172871,172871,NA,NA,Millions of cubic meters,Freshwater retention,8
+2006,172871,172871,NA,NA,Millions of cubic meters,Freshwater retention,8
+2007,172929,172929,NA,NA,Millions of cubic meters,Freshwater retention,8
+2008,172930,172930,NA,NA,Millions of cubic meters,Freshwater retention,8
+2009,172931,172931,NA,NA,Millions of cubic meters,Freshwater retention,8
+2010,172931,172931,NA,NA,Millions of cubic meters,Freshwater retention,8
+2011,172931,172931,NA,NA,Millions of cubic meters,Freshwater retention,8
+2012,172921,172921,NA,NA,Millions of cubic meters,Freshwater retention,8
+2013,172921,172921,NA,NA,Millions of cubic meters,Freshwater retention,8
+2014,172872,172872,NA,NA,Millions of cubic meters,Freshwater retention,8
+1988,0.380145056,0.380145056,NA,NA,Normalized index,Inorganic pollution,9
+1989,-0.255814798,-0.255814798,NA,NA,Normalized index,Inorganic pollution,9
+1990,0.143325373,0.143325373,NA,NA,Normalized index,Inorganic pollution,9
+1991,-0.183150025,-0.183150025,NA,NA,Normalized index,Inorganic pollution,9
+1992,-0.24442919,-0.24442919,NA,NA,Normalized index,Inorganic pollution,9
+1993,-1.213091383,-1.213091383,NA,NA,Normalized index,Inorganic pollution,9
+1994,-1.561818378,-1.561818378,NA,NA,Normalized index,Inorganic pollution,9
+1995,-0.021818257,-0.021818257,NA,NA,Normalized index,Inorganic pollution,9
+1996,1.03449077,1.03449077,NA,NA,Normalized index,Inorganic pollution,9
+1997,1.922160832,1.922160832,NA,NA,Normalized index,Inorganic pollution,9
+1998,0.30090716,0.30090716,NA,NA,Normalized index,Inorganic pollution,9
+1999,-0.042874743,-0.042874743,NA,NA,Normalized index,Inorganic pollution,9
+2000,1.415933842,1.415933842,NA,NA,Normalized index,Inorganic pollution,9
+2001,-1.250267504,-1.250267504,NA,NA,Normalized index,Inorganic pollution,9
+2002,-2.497068854,-2.497068854,NA,NA,Normalized index,Inorganic pollution,9
+2003,-0.723910938,-0.723910938,NA,NA,Normalized index,Inorganic pollution,9
+2004,0.228094191,0.228094191,NA,NA,Normalized index,Inorganic pollution,9
+2005,0.46059089,0.46059089,NA,NA,Normalized index,Inorganic pollution,9
+2006,0.185142639,0.185142639,NA,NA,Normalized index,Inorganic pollution,9
+2007,1.16928623,1.16928623,NA,NA,Normalized index,Inorganic pollution,9
+2008,0.910503133,0.910503133,NA,NA,Normalized index,Inorganic pollution,9
+2009,-0.02439286,-0.02439286,NA,NA,Normalized index,Inorganic pollution,9
+2010,0.964730789,0.964730789,NA,NA,Normalized index,Inorganic pollution,9
+2011,0.823857024,0.823857024,NA,NA,Normalized index,Inorganic pollution,9
+2012,-0.268794306,-0.268794306,NA,NA,Normalized index,Inorganic pollution,9
+2013,-0.686090044,-0.686090044,NA,NA,Normalized index,Inorganic pollution,9
+2014,-0.96564665,-0.96564665,NA,NA,Normalized index,Inorganic pollution,9
+1993,638.6662216,638.6662216,NA,NA,Cargo volume (millions mt),Invasive species,10
+1994,628.6817464,628.6817464,NA,NA,Cargo volume (millions mt),Invasive species,10
+1995,654.6698676,654.6698676,NA,NA,Cargo volume (millions mt),Invasive species,10
+1996,622.4430369,622.4430369,NA,NA,Cargo volume (millions mt),Invasive species,10
+1997,588.6377048,588.6377048,NA,NA,Cargo volume (millions mt),Invasive species,10
+1998,553.7600803,553.7600803,NA,NA,Cargo volume (millions mt),Invasive species,10
+1999,569.6240198,569.6240198,NA,NA,Cargo volume (millions mt),Invasive species,10
+2000,604.9978744,604.9978744,NA,NA,Cargo volume (millions mt),Invasive species,10
+2001,586.7208234,586.7208234,NA,NA,Cargo volume (millions mt),Invasive species,10
+2002,568.2124403,568.2124403,NA,NA,Cargo volume (millions mt),Invasive species,10
+2003,587.8711337,587.8711337,NA,NA,Cargo volume (millions mt),Invasive species,10
+2004,644.9457544,644.9457544,NA,NA,Cargo volume (millions mt),Invasive species,10
+2005,658.3947682,658.3947682,NA,NA,Cargo volume (millions mt),Invasive species,10
+2006,689.2880373,689.2880373,NA,NA,Cargo volume (millions mt),Invasive species,10
+2007,698.213828,698.213828,NA,NA,Cargo volume (millions mt),Invasive species,10
+2008,664.5345945,664.5345945,NA,NA,Cargo volume (millions mt),Invasive species,10
+2009,591.5434175,591.5434175,NA,NA,Cargo volume (millions mt),Invasive species,10
+2010,626.3439313,626.3439313,NA,NA,Cargo volume (millions mt),Invasive species,10
+2011,651.0202634,651.0202634,NA,NA,Cargo volume (millions mt),Invasive species,10
+2012,662.5451383,662.5451383,NA,NA,Cargo volume (millions mt),Invasive species,10
+2013,670.9,670.9,NA,NA,Cargo volume (millions mt),Invasive species,10
+1994,1.17,1.17,NA,NA,Normalized index,Light pollution,11
+1995,2.05,2.05,NA,NA,Normalized index,Light pollution,11
+1996,1.53,1.53,NA,NA,Normalized index,Light pollution,11
+1997,1.33,1.33,NA,NA,Normalized index,Light pollution,11
+1998,0.89,0.89,NA,NA,Normalized index,Light pollution,11
+1999,-0.04,-0.04,NA,NA,Normalized index,Light pollution,11
+2000,0.26,0.26,NA,NA,Normalized index,Light pollution,11
+2001,-0.63,-0.63,NA,NA,Normalized index,Light pollution,11
+2002,-0.39,-0.39,NA,NA,Normalized index,Light pollution,11
+2003,-0.6,-0.6,NA,NA,Normalized index,Light pollution,11
+2004,-0.9,-0.9,NA,NA,Normalized index,Light pollution,11
+2005,-0.98,-0.98,NA,NA,Normalized index,Light pollution,11
+2006,-0.81,-0.81,NA,NA,Normalized index,Light pollution,11
+2007,-0.7,-0.7,NA,NA,Normalized index,Light pollution,11
+2008,-0.85,-0.85,NA,NA,Normalized index,Light pollution,11
+2009,-0.53,-0.53,NA,NA,Normalized index,Light pollution,11
+2010,-0.79,-0.79,NA,NA,Normalized index,Light pollution,11
+1999,16.43,16.43,NA,NA,Predicted counts of debris,Marine debris (north),12
+2000,11.1,11.1,NA,NA,Predicted counts of debris,Marine debris (north),12
+2001,9.94,9.94,NA,NA,Predicted counts of debris,Marine debris (north),12
+2002,9.91,9.91,NA,NA,Predicted counts of debris,Marine debris (north),12
+2003,10.25,10.25,NA,NA,Predicted counts of debris,Marine debris (north),12
+2004,11.57,11.57,NA,NA,Predicted counts of debris,Marine debris (north),12
+2005,12.32,12.32,NA,NA,Predicted counts of debris,Marine debris (north),12
+2006,12.32,12.32,NA,NA,Predicted counts of debris,Marine debris (north),12
+2007,12.85,12.85,NA,NA,Predicted counts of debris,Marine debris (north),12
+1999,6.96,6.96,NA,NA,Predicted counts of debris,Marine debris (south),13
+2000,7.15,7.15,NA,NA,Predicted counts of debris,Marine debris (south),13
+2001,9.75,9.75,NA,NA,Predicted counts of debris,Marine debris (south),13
+2002,5.23,5.23,NA,NA,Predicted counts of debris,Marine debris (south),13
+2003,4.9,4.9,NA,NA,Predicted counts of debris,Marine debris (south),13
+2004,4.33,4.33,NA,NA,Predicted counts of debris,Marine debris (south),13
+2005,3.89,3.89,NA,NA,Predicted counts of debris,Marine debris (south),13
+2006,3.96,3.96,NA,NA,Predicted counts of debris,Marine debris (south),13
+2007,3.29,3.29,NA,NA,Predicted counts of debris,Marine debris (south),13
+1945,-1.867494447,-1.85556932,-1.66034105,-2.05079759,Normalized sum of N & P,Nutrient input,14
+1946,-1.798414323,-1.7938772,-1.59325273,-1.99450168,Normalized sum of N & P,Nutrient input,14
+1947,-1.71906704,-1.72102008,-1.52009746,-1.92194269,Normalized sum of N & P,Nutrient input,14
+1948,-1.639942957,-1.65296901,-1.4520297,-1.85390832,Normalized sum of N & P,Nutrient input,14
+1949,-1.614885928,-1.61697265,-1.4160324,-1.8179129,Normalized sum of N & P,Nutrient input,14
+1950,-1.598817987,-1.58611132,-1.38517102,-1.78705162,Normalized sum of N & P,Nutrient input,14
+1951,-1.522815227,-1.52398123,-1.32304093,-1.72492153,Normalized sum of N & P,Nutrient input,14
+1952,-1.457676378,-1.46472046,-1.26378016,-1.66566076,Normalized sum of N & P,Nutrient input,14
+1953,-1.41608743,-1.42279387,-1.22185357,-1.62373417,Normalized sum of N & P,Nutrient input,14
+1954,-1.394251603,-1.39737059,-1.19643029,-1.59831089,Normalized sum of N & P,Nutrient input,14
+1955,-1.374145599,-1.37962257,-1.17868227,-1.58056287,Normalized sum of N & P,Nutrient input,14
+1956,-1.386984715,-1.37535235,-1.17441205,-1.57629265,Normalized sum of N & P,Nutrient input,14
+1957,-1.346327317,-1.34245704,-1.14151674,-1.54339734,Normalized sum of N & P,Nutrient input,14
+1958,-1.32184946,-1.30003769,-1.09909739,-1.500978,Normalized sum of N & P,Nutrient input,14
+1959,-1.182882309,-1.20394363,-1.00300333,-1.40488393,Normalized sum of N & P,Nutrient input,14
+1960,-1.16568306,-1.15967757,-0.95873727,-1.36061788,Normalized sum of N & P,Nutrient input,14
+1961,-1.118890083,-1.10063313,-0.89969283,-1.30157343,Normalized sum of N & P,Nutrient input,14
+1962,-1.013681135,-0.9966617,-0.79572139,-1.197602,Normalized sum of N & P,Nutrient input,14
+1963,-0.853921307,-0.85080858,-0.64986827,-1.05174888,Normalized sum of N & P,Nutrient input,14
+1964,-0.685168796,-0.6972956,-0.4963553,-0.8982359,Normalized sum of N & P,Nutrient input,14
+1965,-0.602930577,-0.57362444,-0.37268414,-0.77456474,Normalized sum of N & P,Nutrient input,14
+1966,-0.386353659,-0.37783629,-0.17689599,-0.57877659,Normalized sum of N & P,Nutrient input,14
+1967,-0.13431978,-0.16108846,0.03985184,-0.36202877,Normalized sum of N & P,Nutrient input,14
+1968,0.010863921,-0.01021342,0.19072688,-0.21115373,Normalized sum of N & P,Nutrient input,14
+1969,0.107198974,0.08879417,0.28973447,-0.11214613,Normalized sum of N & P,Nutrient input,14
+1970,0.116909073,0.14251095,0.34345125,-0.05842935,Normalized sum of N & P,Nutrient input,14
+1971,0.286121968,0.25922922,0.46016952,0.05828892,Normalized sum of N & P,Nutrient input,14
+1972,0.2945472,0.30976941,0.51070971,0.1088291,Normalized sum of N & P,Nutrient input,14
+1973,0.410635374,0.39776862,0.59870893,0.19682832,Normalized sum of N & P,Nutrient input,14
+1974,0.511469309,0.45410515,0.65504546,0.25316485,Normalized sum of N & P,Nutrient input,14
+1975,0.222931723,0.3692791,0.5702194,0.1683388,Normalized sum of N & P,Nutrient input,14
+1976,0.698702342,0.64458688,0.84552718,0.44364658,Normalized sum of N & P,Nutrient input,14
+1977,0.883162288,0.78672652,0.98766682,0.58578621,Normalized sum of N & P,Nutrient input,14
+1978,0.595671446,0.69155555,0.89249586,0.49061525,Normalized sum of N & P,Nutrient input,14
+1979,0.881551686,0.83233765,1.03327795,0.63139734,Normalized sum of N & P,Nutrient input,14
+1980,0.86469044,0.85201309,1.05295339,0.65107279,Normalized sum of N & P,Nutrient input,14
+1981,0.932831825,0.84049192,1.04143222,0.63955162,Normalized sum of N & P,Nutrient input,14
+1982,0.61102705,0.60173932,0.80267963,0.40079902,Normalized sum of N & P,Nutrient input,14
+1983,0.144624935,0.34013135,0.54107166,0.13919105,Normalized sum of N & P,Nutrient input,14
+1984,0.662651832,0.55962853,0.76056883,0.35868822,Normalized sum of N & P,Nutrient input,14
+1985,0.584916089,0.52560439,0.72654469,0.32466409,Normalized sum of N & P,Nutrient input,14
+1986,0.335436081,0.34562512,0.54656542,0.14468482,Normalized sum of N & P,Nutrient input,14
+1987,0.097874876,0.1907192,0.3916595,-0.0102211,Normalized sum of N & P,Nutrient input,14
+1988,0.277494251,0.26428599,0.4652263,0.06334569,Normalized sum of N & P,Nutrient input,14
+1989,0.299478808,0.3053497,0.50629001,0.1044094,Normalized sum of N & P,Nutrient input,14
+1990,0.42466896,0.3608606,0.5618009,0.1599203,Normalized sum of N & P,Nutrient input,14
+1991,0.20684568,0.25935093,0.46029123,0.05841062,Normalized sum of N & P,Nutrient input,14
+1992,0.254945222,0.28704695,0.48798725,0.08610665,Normalized sum of N & P,Nutrient input,14
+1993,0.371853113,0.3937394,0.5946797,0.1927991,Normalized sum of N & P,Nutrient input,14
+1994,0.542522692,0.55428995,0.75523025,0.35334965,Normalized sum of N & P,Nutrient input,14
+1995,0.747112955,0.74379755,0.94473785,0.54285725,Normalized sum of N & P,Nutrient input,14
+1996,1.073004668,0.92514655,1.12608685,0.72420624,Normalized sum of N & P,Nutrient input,14
+1997,0.71478279,0.74264404,0.94358434,0.54170374,Normalized sum of N & P,Nutrient input,14
+1998,0.609436589,0.62870292,0.82964323,0.42776262,Normalized sum of N & P,Nutrient input,14
+1999,0.500108194,0.5621727,0.763113,0.36123239,Normalized sum of N & P,Nutrient input,14
+2000,0.615287645,0.64837173,0.84931204,0.44743143,Normalized sum of N & P,Nutrient input,14
+2001,0.693875368,0.8159846,1.0169249,0.6150443,Normalized sum of N & P,Nutrient input,14
+2002,1.437950164,1.28408571,1.48502601,1.08314541,Normalized sum of N & P,Nutrient input,14
+2003,1.299895454,1.37355484,1.57449515,1.17261454,Normalized sum of N & P,Nutrient input,14
+2004,1.818943488,1.64428612,1.84522642,1.44334582,Normalized sum of N & P,Nutrient input,14
+2005,1.396249522,1.48521792,1.68615822,1.28427761,Normalized sum of N & P,Nutrient input,14
+2006,1.650077648,1.54508448,1.74602478,1.34414417,Normalized sum of N & P,Nutrient input,14
+2007,1.372718139,1.34658225,1.54752257,1.14564193,Normalized sum of N & P,Nutrient input,14
+2008,1.232506568,1.08376443,1.28470497,0.8828239,Normalized sum of N & P,Nutrient input,14
+2009,0.120780437,0.45491972,0.65586421,0.25397523,Normalized sum of N & P,Nutrient input,14
+2010,0.721045293,0.64833001,0.84934501,0.44731501,Normalized sum of N & P,Nutrient input,14
+2011,0.811378792,0.66280145,0.86507039,0.4605325,Normalized sum of N & P,Nutrient input,14
+2012,0.155810244,0.3116515,0.53511466,0.08818835,Normalized sum of N & P,Nutrient input,14
+2001,-1.020512227,-1.020512227,NA,NA,Normalized index,Ocean-based pollution,15
+2002,-0.917383154,-0.917383154,NA,NA,Normalized index,Ocean-based pollution,15
+2003,-0.55289674,-0.55289674,NA,NA,Normalized index,Ocean-based pollution,15
+2004,0.494724749,0.494724749,NA,NA,Normalized index,Ocean-based pollution,15
+2005,0.751607851,0.751607851,NA,NA,Normalized index,Ocean-based pollution,15
+2006,1.714394915,1.714394915,NA,NA,Normalized index,Ocean-based pollution,15
+2007,1.623975014,1.623975014,NA,NA,Normalized index,Ocean-based pollution,15
+2008,0.717260505,0.717260505,NA,NA,Normalized index,Ocean-based pollution,15
+2009,-1.410379536,-1.410379536,NA,NA,Normalized index,Ocean-based pollution,15
+2010,-0.906922966,-0.906922966,NA,NA,Normalized index,Ocean-based pollution,15
+2011,-0.216223151,-0.216223151,NA,NA,Normalized index,Ocean-based pollution,15
+2012,-0.221642311,-0.221642311,NA,NA,Normalized index,Ocean-based pollution,15
+2013,-0.056002948,-0.056002948,NA,NA,Normalized index,Ocean-based pollution,15
+1974,0.255927871,0.255927871,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1975,0.039248774,0.039248774,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1976,-0.183678476,-0.183678476,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1977,-0.675048257,-0.675048257,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1978,-0.726328498,-0.726328498,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1979,-0.783806488,-0.783806488,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1980,-0.883621659,-0.883621659,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1981,-0.453209022,-0.453209022,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1982,-0.03957695,-0.03957695,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1983,0.126312039,0.126312039,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1984,0.77292742,0.77292742,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1985,1.389020281,1.389020281,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1986,1.016258787,1.016258787,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1987,0.739362843,0.739362843,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1988,0.477881445,0.477881445,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1989,0.43608712,0.43608712,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1990,0.237023131,0.237023131,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1991,0.335901274,0.335901274,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1992,0.682858888,0.682858888,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1993,0.764312183,0.764312183,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1994,1.039385819,1.039385819,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1995,1.640256976,1.640256976,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1996,1.539875705,1.539875705,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1997,1.593939421,1.593939421,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1998,1.327692154,1.327692154,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1999,1.13083588,1.13083588,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2000,0.950775666,0.950775666,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2001,0.687093756,0.687093756,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2002,0.543756715,0.543756715,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2003,0.208916068,0.208916068,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2004,0.038897743,0.038897743,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2005,-0.021030072,-0.021030072,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2006,-0.228524556,-0.228524556,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2007,-0.308471282,-0.308471282,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2008,-0.31328179,-0.31328179,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2009,-0.563229001,-0.563229001,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2010,-0.604010996,-0.604010996,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2011,-0.815354882,-0.815354882,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2012,-1.105213771,-1.105213771,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2013,-1.032304227,-1.032304227,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2014,-1.004773897,-1.004773897,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2015,-1.624092496,-1.624092496,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2016,-2.113505809,-2.113505809,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2017,-2.164812098,-2.164812098,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+2018,-2.330673735,-2.330673735,NA,NA,Oil & gas production,Offshore oil and gas activity,16
+1992,0.097698644,0.097698644,NA,NA,Toxicity-weighted index,Organic pollution,17
+1993,0.084492936,0.084492936,NA,NA,Toxicity-weighted index,Organic pollution,17
+1994,0.095453577,0.095453577,NA,NA,Toxicity-weighted index,Organic pollution,17
+1995,0.081054475,0.081054475,NA,NA,Toxicity-weighted index,Organic pollution,17
+1996,0.058525532,0.058525532,NA,NA,Toxicity-weighted index,Organic pollution,17
+1997,0.061929506,0.061929506,NA,NA,Toxicity-weighted index,Organic pollution,17
+1998,0.067050386,0.067050386,NA,NA,Toxicity-weighted index,Organic pollution,17
+1999,0.054167558,0.054167558,NA,NA,Toxicity-weighted index,Organic pollution,17
+2000,0.051133153,0.051133153,NA,NA,Toxicity-weighted index,Organic pollution,17
+2001,0.049726887,0.049726887,NA,NA,Toxicity-weighted index,Organic pollution,17
+2002,0.053791011,0.053791011,NA,NA,Toxicity-weighted index,Organic pollution,17
+2003,0.055596719,0.055596719,NA,NA,Toxicity-weighted index,Organic pollution,17
+2004,0.075132818,0.075132818,NA,NA,Toxicity-weighted index,Organic pollution,17
+2005,0.059295456,0.059295456,NA,NA,Toxicity-weighted index,Organic pollution,17
+2006,0.099743135,0.099743135,NA,NA,Toxicity-weighted index,Organic pollution,17
+2007,0.049523718,0.049523718,NA,NA,Toxicity-weighted index,Organic pollution,17
+2008,0.052384712,0.052384712,NA,NA,Toxicity-weighted index,Organic pollution,17
+2009,0.060794618,0.060794618,NA,NA,Toxicity-weighted index,Organic pollution,17
+2010,0.048054338,0.048054338,NA,NA,Toxicity-weighted index,Organic pollution,17
+1955,17.791427,17.791427,NA,NA,Millions of cubic meters,Power plants,18
+1960,32.554526,32.554526,NA,NA,Millions of cubic meters,Power plants,18
+1965,37.8541,37.8541,NA,NA,Millions of cubic meters,Power plants,18
+1970,31.040362,31.040362,NA,NA,Millions of cubic meters,Power plants,18
+1975,34.825772,34.825772,NA,NA,Millions of cubic meters,Power plants,18
+1980,34.825772,34.825772,NA,NA,Millions of cubic meters,Power plants,18
+1985,44.289297,44.289297,NA,NA,Millions of cubic meters,Power plants,18
+1990,43.153674,43.153674,NA,NA,Millions of cubic meters,Power plants,18
+1995,35.7693233,35.7693233,NA,NA,Millions of cubic meters,Power plants,18
+2000,47.66425499,47.66425499,NA,NA,Millions of cubic meters,Power plants,18
+2005,47.64915121,47.64915121,NA,NA,Millions of cubic meters,Power plants,18
+2010,24.74046721,24.74046721,NA,NA,Millions of cubic meters,Power plants,18
+2015,10.74753607,10.74753607,NA,NA,Millions of cubic meters,Power plants,18
+2002,-0.048155296,-0.048155296,NA,NA,Index of beach attendance,Recreational beach use,19
+2003,-0.531497839,-0.531497839,NA,NA,Index of beach attendance,Recreational beach use,19
+2004,0.451177694,0.451177694,NA,NA,Index of beach attendance,Recreational beach use,19
+2005,0.134768047,0.134768047,NA,NA,Index of beach attendance,Recreational beach use,19
+2006,0.805977517,0.805977517,NA,NA,Index of beach attendance,Recreational beach use,19
+2007,1.413573749,1.413573749,NA,NA,Index of beach attendance,Recreational beach use,19
+2008,0.885162499,0.885162499,NA,NA,Index of beach attendance,Recreational beach use,19
+2009,1.104176612,1.104176612,NA,NA,Index of beach attendance,Recreational beach use,19
+2010,0.179111451,0.179111451,NA,NA,Index of beach attendance,Recreational beach use,19
+2011,-2.179045198,-2.179045198,NA,NA,Index of beach attendance,Recreational beach use,19
+2012,-0.667060359,-0.667060359,NA,NA,Index of beach attendance,Recreational beach use,19
+2013,-0.316259628,-0.316259628,NA,NA,Index of beach attendance,Recreational beach use,19
+2014,-1.23192925,-1.23192925,NA,NA,Index of beach attendance,Recreational beach use,19
+1962,25.3104336,25.3104336,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1963,27.3969568,27.3969568,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1964,28.4402184,28.4402184,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1965,24.5846864,24.5846864,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1966,28.7577328,28.7577328,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1967,31.9328768,31.9328768,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1968,39.2810672,39.2810672,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1969,26.4897728,26.4897728,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1970,25.3557928,25.3557928,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1971,25.7640256,25.7640256,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1972,29.937072,29.937072,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1973,22.226008,22.226008,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1974,20.9559504,20.9559504,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1975,21.3641832,21.3641832,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1976,24.1310944,24.1310944,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1977,21.9084936,21.9084936,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1978,23.4507064,23.4507064,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1979,23.8589392,23.8589392,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1980,22.6342408,22.6342408,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1981,22.4074448,22.4074448,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1982,23.4507064,23.4507064,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1983,23.9042984,23.9042984,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1984,24.0857352,24.0857352,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1985,28.803092,28.803092,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1986,27.0794424,27.0794424,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1987,29.3927616,29.3927616,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1988,27.0794424,27.0794424,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1989,28.3948592,28.3948592,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1990,29.6649168,29.6649168,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1991,29.3927616,29.3927616,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1992,28.576296,28.576296,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1993,35.7430496,35.7430496,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1994,33.6111672,33.6111672,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1995,28.4402184,28.4402184,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1996,28.1680632,28.1680632,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1997,28.9845288,28.9845288,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1998,28.3495,28.3495,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1999,28.8938104,28.8938104,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2000,27.8505488,27.8505488,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2001,28.8484512,28.8484512,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2002,29.937072,29.937072,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2003,30.9349744,30.9349744,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2004,31.4339256,31.4339256,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2005,31.3432072,31.3432072,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2006,31.7060808,31.7060808,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2007,30.7988968,30.7988968,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2008,28.6670144,28.6670144,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2009,27.895908,27.895908,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2010,28.8484512,28.8484512,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2011,30.7081784,30.7081784,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2012,29.9824312,29.9824312,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2013,30.1185088,30.1185088,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2014,29.937072,29.937072,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2015,30.2092272,30.2092272,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2016,30.163868,30.163868,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2017,30.9803336,30.9803336,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+2018,30.61746,30.61746,NA,NA,Per capita utilization(kg),Seafood demand (per capita),20
+1962,4.720399717,4.720399717,NA,NA,Millions of metric tons,Seafood demand (total),21
+1963,5.183508455,5.183508455,NA,NA,Millions of metric tons,Seafood demand (total),21
+1964,5.457682363,5.457682363,NA,NA,Millions of metric tons,Seafood demand (total),21
+1965,4.776808464,4.776808464,NA,NA,Millions of metric tons,Seafood demand (total),21
+1966,5.65377488,5.65377488,NA,NA,Millions of metric tons,Seafood demand (total),21
+1967,6.345067796,6.345067796,NA,NA,Millions of metric tons,Seafood demand (total),21
+1968,7.883716618,7.883716618,NA,NA,Millions of metric tons,Seafood demand (total),21
+1969,5.369481327,5.369481327,NA,NA,Millions of metric tons,Seafood demand (total),21
+1970,5.200477345,5.200477345,NA,NA,Millions of metric tons,Seafood demand (total),21
+1971,5.351192482,5.351192482,NA,NA,Millions of metric tons,Seafood demand (total),21
+1972,6.283796539,6.283796539,NA,NA,Millions of metric tons,Seafood demand (total),21
+1973,4.709694937,4.709694937,NA,NA,Millions of metric tons,Seafood demand (total),21
+1974,4.482481447,4.482481447,NA,NA,Millions of metric tons,Seafood demand (total),21
+1975,4.614667335,4.614667335,NA,NA,Millions of metric tons,Seafood demand (total),21
+1976,5.26058287,5.26058287,NA,NA,Millions of metric tons,Seafood demand (total),21
+1977,4.824254226,4.824254226,NA,NA,Millions of metric tons,Seafood demand (total),21
+1978,5.220131503,5.220131503,NA,NA,Millions of metric tons,Seafood demand (total),21
+1979,5.370651595,5.370651595,NA,NA,Millions of metric tons,Seafood demand (total),21
+1980,5.153820834,5.153820834,NA,NA,Millions of metric tons,Seafood demand (total),21
+1981,5.153716508,5.153716508,NA,NA,Millions of metric tons,Seafood demand (total),21
+1982,5.445258468,5.445258468,NA,NA,Millions of metric tons,Seafood demand (total),21
+1983,5.600781684,5.600781684,NA,NA,Millions of metric tons,Seafood demand (total),21
+1984,5.69146387,5.69146387,NA,NA,Millions of metric tons,Seafood demand (total),21
+1985,6.869543046,6.869543046,NA,NA,Millions of metric tons,Seafood demand (total),21
+1986,6.518027103,6.518027103,NA,NA,Millions of metric tons,Seafood demand (total),21
+1987,7.136568338,7.136568338,NA,NA,Millions of metric tons,Seafood demand (total),21
+1988,6.6344688,6.6344688,NA,NA,Millions of metric tons,Seafood demand (total),21
+1989,7.022054408,7.022054408,NA,NA,Millions of metric tons,Seafood demand (total),21
+1990,7.413268755,7.413268755,NA,NA,Millions of metric tons,Seafood demand (total),21
+1991,7.427556915,7.427556915,NA,NA,Millions of metric tons,Seafood demand (total),21
+1992,7.301249584,7.301249584,NA,NA,Millions of metric tons,Seafood demand (total),21
+1993,9.228862935,9.228862935,NA,NA,Millions of metric tons,Seafood demand (total),21
+1994,8.762438437,8.762438437,NA,NA,Millions of metric tons,Seafood demand (total),21
+1995,7.479783541,7.479783541,NA,NA,Millions of metric tons,Seafood demand (total),21
+1996,7.472993263,7.472993263,NA,NA,Millions of metric tons,Seafood demand (total),21
+1997,7.773656965,7.773656965,NA,NA,Millions of metric tons,Seafood demand (total),21
+1998,7.671380958,7.671380958,NA,NA,Millions of metric tons,Seafood demand (total),21
+1999,7.88512729,7.88512729,NA,NA,Millions of metric tons,Seafood demand (total),21
+2000,7.86221634,7.86221634,NA,NA,Millions of metric tons,Seafood demand (total),21
+2001,8.221815299,8.221815299,NA,NA,Millions of metric tons,Seafood demand (total),21
+2002,8.633858608,8.633858608,NA,NA,Millions of metric tons,Seafood demand (total),21
+2003,9.002084893,9.002084893,NA,NA,Millions of metric tons,Seafood demand (total),21
+2004,9.23843827,9.23843827,NA,NA,Millions of metric tons,Seafood demand (total),21
+2005,9.305805809,9.305805809,NA,NA,Millions of metric tons,Seafood demand (total),21
+2006,9.505490778,9.505490778,NA,NA,Millions of metric tons,Seafood demand (total),21
+2007,9.301274421,9.301274421,NA,NA,Millions of metric tons,Seafood demand (total),21
+2008,8.729113005,8.729113005,NA,NA,Millions of metric tons,Seafood demand (total),21
+2009,8.575209114,8.575209114,NA,NA,Millions of metric tons,Seafood demand (total),21
+2010,8.945912014,8.945912014,NA,NA,Millions of metric tons,Seafood demand (total),21
+2011,9.580959476,9.580959476,NA,NA,Millions of metric tons,Seafood demand (total),21
+2012,9.423485813,9.423485813,NA,NA,Millions of metric tons,Seafood demand (total),21
+2013,9.529503958,9.529503958,NA,NA,Millions of metric tons,Seafood demand (total),21
+2014,9.546940048,9.546940048,NA,NA,Millions of metric tons,Seafood demand (total),21
+2015,9.709253542,9.709253542,NA,NA,Millions of metric tons,Seafood demand (total),21
+2016,9.751986479,9.751986479,NA,NA,Millions of metric tons,Seafood demand (total),21
+2017,10.09649896,10.09649896,NA,NA,Millions of metric tons,Seafood demand (total),21
+2018,10.02416458,10.02416458,NA,NA,Millions of metric tons,Seafood demand (total),21
+1900,9,9,NA,NA,Millions of cubic meters,Sediment retention,22
+1901,9,9,NA,NA,Millions of cubic meters,Sediment retention,22
+1902,14,14,NA,NA,Millions of cubic meters,Sediment retention,22
+1903,14,14,NA,NA,Millions of cubic meters,Sediment retention,22
+1904,107,107,NA,NA,Millions of cubic meters,Sediment retention,22
+1905,111,111,NA,NA,Millions of cubic meters,Sediment retention,22
+1906,228,228,NA,NA,Millions of cubic meters,Sediment retention,22
+1907,229,229,NA,NA,Millions of cubic meters,Sediment retention,22
+1908,509,509,NA,NA,Millions of cubic meters,Sediment retention,22
+1909,509,509,NA,NA,Millions of cubic meters,Sediment retention,22
+1910,600,600,NA,NA,Millions of cubic meters,Sediment retention,22
+1911,1118,1118,NA,NA,Millions of cubic meters,Sediment retention,22
+1912,1438,1438,NA,NA,Millions of cubic meters,Sediment retention,22
+1913,1448,1448,NA,NA,Millions of cubic meters,Sediment retention,22
+1914,1982,1982,NA,NA,Millions of cubic meters,Sediment retention,22
+1915,2321,2321,NA,NA,Millions of cubic meters,Sediment retention,22
+1916,2894,2894,NA,NA,Millions of cubic meters,Sediment retention,22
+1917,3109,3109,NA,NA,Millions of cubic meters,Sediment retention,22
+1918,3125,3125,NA,NA,Millions of cubic meters,Sediment retention,22
+1919,3334,3334,NA,NA,Millions of cubic meters,Sediment retention,22
+1920,3413,3413,NA,NA,Millions of cubic meters,Sediment retention,22
+1921,4537,4537,NA,NA,Millions of cubic meters,Sediment retention,22
+1922,4545,4545,NA,NA,Millions of cubic meters,Sediment retention,22
+1923,4575,4575,NA,NA,Millions of cubic meters,Sediment retention,22
+1924,4677,4677,NA,NA,Millions of cubic meters,Sediment retention,22
+1925,5245,5245,NA,NA,Millions of cubic meters,Sediment retention,22
+1926,5855,5855,NA,NA,Millions of cubic meters,Sediment retention,22
+1927,8105,8105,NA,NA,Millions of cubic meters,Sediment retention,22
+1928,9417,9417,NA,NA,Millions of cubic meters,Sediment retention,22
+1929,9539,9539,NA,NA,Millions of cubic meters,Sediment retention,22
+1930,9650,9650,NA,NA,Millions of cubic meters,Sediment retention,22
+1931,10444,10444,NA,NA,Millions of cubic meters,Sediment retention,22
+1932,11842,11842,NA,NA,Millions of cubic meters,Sediment retention,22
+1933,12889,12889,NA,NA,Millions of cubic meters,Sediment retention,22
+1934,12890,12890,NA,NA,Millions of cubic meters,Sediment retention,22
+1935,12970,12970,NA,NA,Millions of cubic meters,Sediment retention,22
+1936,12987,12987,NA,NA,Millions of cubic meters,Sediment retention,22
+1937,13744,13744,NA,NA,Millions of cubic meters,Sediment retention,22
+1938,13780,13780,NA,NA,Millions of cubic meters,Sediment retention,22
+1939,13993,13993,NA,NA,Millions of cubic meters,Sediment retention,22
+1940,14091,14091,NA,NA,Millions of cubic meters,Sediment retention,22
+1941,14091,14091,NA,NA,Millions of cubic meters,Sediment retention,22
+1942,25896,25896,NA,NA,Millions of cubic meters,Sediment retention,22
+1943,25896,25896,NA,NA,Millions of cubic meters,Sediment retention,22
+1944,25897,25897,NA,NA,Millions of cubic meters,Sediment retention,22
+1945,26201,26201,NA,NA,Millions of cubic meters,Sediment retention,22
+1946,27307,27307,NA,NA,Millions of cubic meters,Sediment retention,22
+1947,27307,27307,NA,NA,Millions of cubic meters,Sediment retention,22
+1948,28453,28453,NA,NA,Millions of cubic meters,Sediment retention,22
+1949,32769,32769,NA,NA,Millions of cubic meters,Sediment retention,22
+1950,33383,33383,NA,NA,Millions of cubic meters,Sediment retention,22
+1951,35963,35963,NA,NA,Millions of cubic meters,Sediment retention,22
+1952,38815,38815,NA,NA,Millions of cubic meters,Sediment retention,22
+1953,41271,41271,NA,NA,Millions of cubic meters,Sediment retention,22
+1954,46887,46887,NA,NA,Millions of cubic meters,Sediment retention,22
+1955,48453,48453,NA,NA,Millions of cubic meters,Sediment retention,22
+1956,53090,53090,NA,NA,Millions of cubic meters,Sediment retention,22
+1957,57416,57416,NA,NA,Millions of cubic meters,Sediment retention,22
+1958,59196,59196,NA,NA,Millions of cubic meters,Sediment retention,22
+1959,93077,93077,NA,NA,Millions of cubic meters,Sediment retention,22
+1960,93809,93809,NA,NA,Millions of cubic meters,Sediment retention,22
+1961,95277,95277,NA,NA,Millions of cubic meters,Sediment retention,22
+1962,97193,97193,NA,NA,Millions of cubic meters,Sediment retention,22
+1963,101186,101186,NA,NA,Millions of cubic meters,Sediment retention,22
+1964,105394,105394,NA,NA,Millions of cubic meters,Sediment retention,22
+1965,107403,107403,NA,NA,Millions of cubic meters,Sediment retention,22
+1966,108489,108489,NA,NA,Millions of cubic meters,Sediment retention,22
+1967,112218,112218,NA,NA,Millions of cubic meters,Sediment retention,22
+1968,118429,118429,NA,NA,Millions of cubic meters,Sediment retention,22
+1969,123404,123404,NA,NA,Millions of cubic meters,Sediment retention,22
+1970,130893,130893,NA,NA,Millions of cubic meters,Sediment retention,22
+1971,131359,131359,NA,NA,Millions of cubic meters,Sediment retention,22
+1972,131371,131371,NA,NA,Millions of cubic meters,Sediment retention,22
+1973,131553,131553,NA,NA,Millions of cubic meters,Sediment retention,22
+1974,164150,164150,NA,NA,Millions of cubic meters,Sediment retention,22
+1975,165461,165461,NA,NA,Millions of cubic meters,Sediment retention,22
+1976,165478,165478,NA,NA,Millions of cubic meters,Sediment retention,22
+1977,165643,165643,NA,NA,Millions of cubic meters,Sediment retention,22
+1978,165976,165976,NA,NA,Millions of cubic meters,Sediment retention,22
+1979,166498,166498,NA,NA,Millions of cubic meters,Sediment retention,22
+1980,166653,166653,NA,NA,Millions of cubic meters,Sediment retention,22
+1981,166729,166729,NA,NA,Millions of cubic meters,Sediment retention,22
+1982,166821,166821,NA,NA,Millions of cubic meters,Sediment retention,22
+1983,169849,169849,NA,NA,Millions of cubic meters,Sediment retention,22
+1984,169851,169851,NA,NA,Millions of cubic meters,Sediment retention,22
+1985,169882,169882,NA,NA,Millions of cubic meters,Sediment retention,22
+1986,169973,169973,NA,NA,Millions of cubic meters,Sediment retention,22
+1987,170468,170468,NA,NA,Millions of cubic meters,Sediment retention,22
+1988,170644,170644,NA,NA,Millions of cubic meters,Sediment retention,22
+1989,170673,170673,NA,NA,Millions of cubic meters,Sediment retention,22
+1990,171497,171497,NA,NA,Millions of cubic meters,Sediment retention,22
+1991,171499,171499,NA,NA,Millions of cubic meters,Sediment retention,22
+1992,171524,171524,NA,NA,Millions of cubic meters,Sediment retention,22
+1993,171544,171544,NA,NA,Millions of cubic meters,Sediment retention,22
+1994,171566,171566,NA,NA,Millions of cubic meters,Sediment retention,22
+1995,171568,171568,NA,NA,Millions of cubic meters,Sediment retention,22
+1996,171571,171571,NA,NA,Millions of cubic meters,Sediment retention,22
+1997,171573,171573,NA,NA,Millions of cubic meters,Sediment retention,22
+1998,171573,171573,NA,NA,Millions of cubic meters,Sediment retention,22
+1999,172689,172689,NA,NA,Millions of cubic meters,Sediment retention,22
+2000,172869,172869,NA,NA,Millions of cubic meters,Sediment retention,22
+2001,172870,172870,NA,NA,Millions of cubic meters,Sediment retention,22
+2002,172870,172870,NA,NA,Millions of cubic meters,Sediment retention,22
+2003,172870,172870,NA,NA,Millions of cubic meters,Sediment retention,22
+2004,172871,172871,NA,NA,Millions of cubic meters,Sediment retention,22
+2005,172871,172871,NA,NA,Millions of cubic meters,Sediment retention,22
+2006,172871,172871,NA,NA,Millions of cubic meters,Sediment retention,22
+2007,172929,172929,NA,NA,Millions of cubic meters,Sediment retention,22
+2008,172930,172930,NA,NA,Millions of cubic meters,Sediment retention,22
+2009,172931,172931,NA,NA,Millions of cubic meters,Sediment retention,22
+2010,172931,172931,NA,NA,Millions of cubic meters,Sediment retention,22
+2011,172931,172931,NA,NA,Millions of cubic meters,Sediment retention,22
+2012,172921,172921,NA,NA,Millions of cubic meters,Sediment retention,22
+2013,172921,172921,NA,NA,Millions of cubic meters,Sediment retention,22
+2014,172872,172872,NA,NA,Millions of cubic meters,Sediment retention,22
+1986,6.746194656,6.746194656,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+1987,6.596237781,6.596237781,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+1988,6.498416403,6.498416403,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+1989,6.378615777,6.378615777,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+1990,5.698690453,5.698690453,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+1991,5.537665174,5.537665174,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+1992,5.873122601,5.873122601,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+1993,6.531995465,6.531995465,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+1994,6.394626918,6.394626918,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+1995,7.14396571,7.14396571,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+1996,7.243603049,7.243603049,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+1997,7.148451925,7.148451925,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+1998,6.80369887,6.80369887,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+1999,7.378424149,7.378424149,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2000,8.260049152,8.260049152,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2001,8.648658556,8.648658556,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2002,8.963496095,8.963496095,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2003,9.573740087,9.573740087,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2004,10.58950159,10.58950159,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2005,11.81121697,11.81121697,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2006,11.749845,11.749845,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2007,11.50935389,11.50935389,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2008,11.64936077,11.64936077,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2009,11.20382025,11.20382025,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2010,11.47349457,11.47349457,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2011,11.56528964,11.56528964,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2012,11.60740883,11.60740883,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2013,11.67193539,11.67193539,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2014,11.44478206,11.44478206,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2015,11.8120308,11.8120308,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2016,11.9146161,11.9146161,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2017,10.87301941,10.87301941,NA,NA,Production (1000s mt),Shellfish aquaculture,23
+2002,37.322,37.322,NA,NA,Total fishing mortality (1000s mt),"Groundfish, no  hake",24
+2003,35.044,35.044,NA,NA,Total fishing mortality (1000s mt),"Groundfish, no  hake",24
+2004,31.882,31.882,NA,NA,Total fishing mortality (1000s mt),"Groundfish, no  hake",24
+2005,34.791,34.791,NA,NA,Total fishing mortality (1000s mt),"Groundfish, no  hake",24
+2006,30.723,30.723,NA,NA,Total fishing mortality (1000s mt),"Groundfish, no  hake",24
+2007,32.493,32.493,NA,NA,Total fishing mortality (1000s mt),"Groundfish, no  hake",24
+2008,35.854,35.854,NA,NA,Total fishing mortality (1000s mt),"Groundfish, no  hake",24
+2009,40.172,40.172,NA,NA,Total fishing mortality (1000s mt),"Groundfish, no  hake",24
+2010,35.108,35.108,NA,NA,Total fishing mortality (1000s mt),"Groundfish, no  hake",24
+2011,28.679,28.679,NA,NA,Total fishing mortality (1000s mt),"Groundfish, no  hake",24
+2012,26.766,26.766,NA,NA,Total fishing mortality (1000s mt),"Groundfish, no  hake",24
+2013,27.457,27.457,NA,NA,Total fishing mortality (1000s mt),"Groundfish, no  hake",24
+2014,25.336,25.336,NA,NA,Total fishing mortality (1000s mt),"Groundfish, no  hake",24
+2015,27.181,27.181,NA,NA,Total fishing mortality (1000s mt),"Groundfish, no  hake",24
+2002,132.445,132.445,NA,NA,Total fishing mortality (1000s mt),Pacific hake,25
+2003,144.468,144.468,NA,NA,Total fishing mortality (1000s mt),Pacific hake,25
+2004,220.388,220.388,NA,NA,Total fishing mortality (1000s mt),Pacific hake,25
+2005,261.846,261.846,NA,NA,Total fishing mortality (1000s mt),Pacific hake,25
+2006,268.374,268.374,NA,NA,Total fishing mortality (1000s mt),Pacific hake,25
+2007,221.771,221.771,NA,NA,Total fishing mortality (1000s mt),Pacific hake,25
+2008,250.275,250.275,NA,NA,Total fishing mortality (1000s mt),Pacific hake,25
+2009,124.264,124.264,NA,NA,Total fishing mortality (1000s mt),Pacific hake,25
+2010,171.766,171.766,NA,NA,Total fishing mortality (1000s mt),Pacific hake,25
+2011,231.189,231.189,NA,NA,Total fishing mortality (1000s mt),Pacific hake,25
+2012,160.187,160.187,NA,NA,Total fishing mortality (1000s mt),Pacific hake,25
+2013,233.444,233.444,NA,NA,Total fishing mortality (1000s mt),Pacific hake,25
+2014,264.867,264.867,NA,NA,Total fishing mortality (1000s mt),Pacific hake,25
+2015,155.586,155.586,NA,NA,Total fishing mortality (1000s mt),Pacific hake,25
+1999,373.32,373.32,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2000,299.728,299.728,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2001,297.72,297.72,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2002,245.5594509,245.5594509,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2003,226.263445,226.263445,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2004,159.000841,159.000841,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2005,170.8695639,170.8695639,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2006,181.0444285,181.0444285,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2007,194.684911,194.684911,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2008,223.8502388,223.8502388,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2009,259.2938028,259.2938028,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2010,207.7959841,207.7959841,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2011,121.9857735,121.9857735,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2012,117.453439,117.453439,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2013,133.6329817,133.6329817,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2014,108.976595,108.976595,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2015,97.35288244,97.35288244,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2016,92.65045701,92.65045701,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2017,87.64926409,87.64926409,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2018,76.45269539,76.45269539,NA,NA,1000s km,Bottom trawl contact with seafloor habitat,26
+2002,0.006204129,0.006204129,NA,NA,1000s hrs,"Gear contact (hard, lower slope habitat in Central ecoregion)",27
+2003,0.001001419,0.001001419,NA,NA,1000s hrs,"Gear contact (hard, lower slope habitat in Central ecoregion)",27
+2004,0.000278185,0.000278185,NA,NA,1000s hrs,"Gear contact (hard, lower slope habitat in Central ecoregion)",27
+2004,0.000495958,0.000495958,NA,NA,1000s hrs,"Gear contact (hard, lower slope habitat in Northern ecoregion)",28
+2002,0.256776756,0.256776756,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2003,0.124234303,0.124234303,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2004,0.13480059,0.13480059,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2005,0.085541936,0.085541936,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2006,0.075560594,0.075560594,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2007,0.067204749,0.067204749,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2008,0.062543697,0.062543697,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2009,0.048340303,0.048340303,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2010,0.09170312,0.09170312,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2011,0.072776292,0.072776292,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2012,0.060357872,0.060357872,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2013,0.077586929,0.077586929,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2014,0.07317186,0.07317186,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2015,0.086342601,0.086342601,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2016,0.061616091,0.061616091,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2017,0.010117595,0.010117595,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2018,0.036603742,0.036603742,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Central ecoregion)",29
+2002,0.752492663,0.752492663,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2003,0.506974298,0.506974298,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2004,0.819797523,0.819797523,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2005,0.54395672,0.54395672,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2006,0.622991663,0.622991663,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2007,0.283953177,0.283953177,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2008,0.129170526,0.129170526,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2009,0.362715955,0.362715955,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2010,0.213142798,0.213142798,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2011,0.232009774,0.232009774,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2012,0.204463148,0.204463148,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2013,0.256533427,0.256533427,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2014,0.284782402,0.284782402,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2015,0.296191782,0.296191782,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2016,0.278407486,0.278407486,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2017,0.221925345,0.221925345,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2018,0.182162257,0.182162257,NA,NA,1000s hrs,"Gear contact (hard, shelf habitat in Northern ecoregion)",30
+2002,1.36650962,1.36650962,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2003,2.178964577,2.178964577,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2004,1.008573866,1.008573866,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2005,0.860028413,0.860028413,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2006,0.567469056,0.567469056,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2007,0.15451938,0.15451938,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2008,0.509895622,0.509895622,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2009,0.442364281,0.442364281,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2010,0.195027822,0.195027822,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2011,0.455838117,0.455838117,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2012,2.116647205,2.116647205,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2013,1.083365713,1.083365713,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2014,1.009011916,1.009011916,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2015,1.10910057,1.10910057,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2016,0.906256655,0.906256655,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2017,0.284060938,0.284060938,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2018,0.056342766,0.056342766,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Central ecoregion)",31
+2002,0.494859639,0.494859639,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2003,0.351416079,0.351416079,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2004,0.279474578,0.279474578,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2005,0.252038462,0.252038462,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2006,0.204665241,0.204665241,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2007,0.290346755,0.290346755,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2008,0.475435949,0.475435949,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2009,0.536195189,0.536195189,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2010,0.613916247,0.613916247,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2011,0.240355467,0.240355467,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2012,0.338362512,0.338362512,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2013,0.340795393,0.340795393,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2014,0.315229617,0.315229617,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2015,0.233970353,0.233970353,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2016,0.262756714,0.262756714,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2017,0.290371749,0.290371749,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2018,0.28584599,0.28584599,NA,NA,1000s hrs,"Gear contact (hard, upper slope habitat in Northern ecoregion)",32
+2002,0.006524376,0.006524376,NA,NA,1000s hrs,"Gear contact (mixed, lower slope habitat in Northern ecoregion)",33
+2002,0.015692274,0.015692274,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Central ecoregion)",34
+2003,0.058882377,0.058882377,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Central ecoregion)",34
+2004,0.021849628,0.021849628,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Central ecoregion)",34
+2005,0.038946493,0.038946493,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Central ecoregion)",34
+2006,0.010686551,0.010686551,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Central ecoregion)",34
+2007,0.021323973,0.021323973,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Central ecoregion)",34
+2010,0.002115822,0.002115822,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Central ecoregion)",34
+2014,3.23E-05,3.23E-05,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Central ecoregion)",34
+2002,1.445830031,1.445830031,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2003,0.672891776,0.672891776,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2004,0.312850708,0.312850708,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2005,0.556991633,0.556991633,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2006,0.297799248,0.297799248,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2007,0.091175306,0.091175306,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2008,0.075647168,0.075647168,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2009,0.12818683,0.12818683,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2010,0.09059912,0.09059912,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2011,0.018978747,0.018978747,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2012,0.018197967,0.018197967,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2013,0.008273292,0.008273292,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2014,0.033758187,0.033758187,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2015,0.066383097,0.066383097,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2016,0.032379176,0.032379176,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2017,0.016617793,0.016617793,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2018,0.038146252,0.038146252,NA,NA,1000s hrs,"Gear contact (mixed, shelf habitat in Northern ecoregion)",35
+2002,0.027088111,0.027088111,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Central ecoregion)",36
+2003,0.070886549,0.070886549,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Central ecoregion)",36
+2004,0.043004521,0.043004521,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Central ecoregion)",36
+2005,0.014925096,0.014925096,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Central ecoregion)",36
+2006,0.048033971,0.048033971,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Central ecoregion)",36
+2007,0.048354705,0.048354705,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Central ecoregion)",36
+2008,0.03433826,0.03433826,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Central ecoregion)",36
+2010,0.023472275,0.023472275,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Central ecoregion)",36
+2011,0.003168,0.003168,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Central ecoregion)",36
+2012,0.008165079,0.008165079,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Central ecoregion)",36
+2013,0.002742718,0.002742718,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Central ecoregion)",36
+2014,0.013711413,0.013711413,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Central ecoregion)",36
+2002,4.297706115,4.297706115,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2003,3.888999529,3.888999529,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2004,2.805012929,2.805012929,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2005,2.666428579,2.666428579,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2006,3.00132568,3.00132568,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2007,3.956551503,3.956551503,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2008,5.347674602,5.347674602,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2009,9.524757054,9.524757054,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2010,6.153438597,6.153438597,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2011,2.800882057,2.800882057,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2012,1.994443449,1.994443449,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2013,3.643711373,3.643711373,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2014,3.656917112,3.656917112,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2015,2.431902361,2.431902361,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2016,1.997820836,1.997820836,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2017,2.155780702,2.155780702,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2018,1.883341913,1.883341913,NA,NA,1000s hrs,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",37
+2002,0.136992369,0.136992369,NA,NA,1000s hrs,"Gear contact (soft, lower slope habitat in Central ecoregion)",38
+2003,0.088617529,0.088617529,NA,NA,1000s hrs,"Gear contact (soft, lower slope habitat in Central ecoregion)",38
+2004,0.048462483,0.048462483,NA,NA,1000s hrs,"Gear contact (soft, lower slope habitat in Central ecoregion)",38
+2005,0.01920218,0.01920218,NA,NA,1000s hrs,"Gear contact (soft, lower slope habitat in Central ecoregion)",38
+2006,0.001499977,0.001499977,NA,NA,1000s hrs,"Gear contact (soft, lower slope habitat in Central ecoregion)",38
+2002,0.619755963,0.619755963,NA,NA,1000s hrs,"Gear contact (soft, lower slope habitat in Northern ecoregion)",39
+2003,0.247325171,0.247325171,NA,NA,1000s hrs,"Gear contact (soft, lower slope habitat in Northern ecoregion)",39
+2004,0.130182142,0.130182142,NA,NA,1000s hrs,"Gear contact (soft, lower slope habitat in Northern ecoregion)",39
+2005,0.162253806,0.162253806,NA,NA,1000s hrs,"Gear contact (soft, lower slope habitat in Northern ecoregion)",39
+2006,0.114585168,0.114585168,NA,NA,1000s hrs,"Gear contact (soft, lower slope habitat in Northern ecoregion)",39
+2002,8.103243527,8.103243527,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2003,6.678503626,6.678503626,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2004,6.303743371,6.303743371,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2005,7.669170235,7.669170235,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2006,4.285261525,4.285261525,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2007,8.680542597,8.680542597,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2008,7.643809858,7.643809858,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2009,4.883268724,4.883268724,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2010,4.687712964,4.687712964,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2011,1.699455624,1.699455624,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2012,1.490295114,1.490295114,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2013,2.870717524,2.870717524,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2014,3.137408124,3.137408124,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2015,2.585371086,2.585371086,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2016,1.73724686,1.73724686,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2017,1.599387358,1.599387358,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2018,2.050383558,2.050383558,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Central ecoregion)",40
+2002,68.98993516,68.98993516,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2003,52.02499811,52.02499811,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2004,46.88387011,46.88387011,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2005,66.41980471,66.41980471,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2006,74.52650273,74.52650273,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2007,50.12965329,50.12965329,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2008,28.28747273,28.28747273,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2009,42.30992394,42.30992394,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2010,25.53070647,25.53070647,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2011,20.61030555,20.61030555,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2012,23.28563898,23.28563898,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2013,27.13788702,27.13788702,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2014,25.22269393,25.22269393,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2015,23.86678029,23.86678029,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2016,26.00733579,26.00733579,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2017,21.02649567,21.02649567,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2018,18.73787882,18.73787882,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Northern ecoregion)",41
+2002,0.029237253,0.029237253,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Southern ecoregion)",42
+2003,0.03201694,0.03201694,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Southern ecoregion)",42
+2007,0.000398362,0.000398362,NA,NA,1000s hrs,"Gear contact (soft, shelf habitat in Southern ecoregion)",42
+2002,55.64659655,55.64659655,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2003,43.66426908,43.66426908,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2004,33.25878227,33.25878227,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2005,27.59666882,27.59666882,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2006,24.27978037,24.27978037,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2007,25.29896054,25.29896054,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2008,31.944457,31.944457,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2009,32.24213338,32.24213338,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2010,30.37293822,30.37293822,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2011,19.40027909,19.40027909,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2012,18.78074066,18.78074066,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2013,21.67640449,21.67640449,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2014,17.83381325,17.83381325,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2015,14.23182377,14.23182377,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2016,9.566145446,9.566145446,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2017,7.009623784,7.009623784,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2018,4.399722132,4.399722132,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Central ecoregion)",43
+2002,103.6216037,103.6216037,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2003,115.4976557,115.4976557,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2004,66.88881531,66.88881531,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2005,64.15929098,64.15929098,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2006,72.25052171,72.25052171,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2007,106.1130385,106.1130385,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2008,149.5706934,149.5706934,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2009,168.7676079,168.7676079,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2010,139.8210414,139.8210414,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2011,76.45172476,76.45172476,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2012,69.15612699,69.15612699,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2013,76.53496381,76.53496381,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2014,57.3775615,57.3775615,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2015,52.44501653,52.44501653,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2016,51.80049196,51.80049196,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2017,55.03488316,55.03488316,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2018,48.78226795,48.78226795,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Northern ecoregion)",44
+2002,0.111454767,0.111454767,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Southern ecoregion)",45
+2003,0.022036708,0.022036708,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Southern ecoregion)",45
+2004,0.006380656,0.006380656,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Southern ecoregion)",45
+2006,0.007112057,0.007112057,NA,NA,1000s hrs,"Gear contact (soft, upper slope habitat in Southern ecoregion)",45
+2002,0.00179906,0.00179906,NA,NA,1000s km,"Gear contact (hard, lower slope habitat in Central ecoregion)",46
+2003,0.000579003,0.000579003,NA,NA,1000s km,"Gear contact (hard, lower slope habitat in Central ecoregion)",46
+2004,0.001110352,0.001110352,NA,NA,1000s km,"Gear contact (hard, lower slope habitat in Central ecoregion)",46
+2004,0.000109649,0.000109649,NA,NA,1000s km,"Gear contact (hard, lower slope habitat in Northern ecoregion)",47
+2002,0.082317914,0.082317914,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2003,0.038499999,0.038499999,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2004,0.038930276,0.038930276,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2005,0.026705618,0.026705618,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2006,0.02314416,0.02314416,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2007,0.024466889,0.024466889,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2008,0.016952969,0.016952969,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2009,0.012792283,0.012792283,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2010,0.024410188,0.024410188,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2011,0.019018832,0.019018832,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2012,0.01728617,0.01728617,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2013,0.021380621,0.021380621,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2014,0.019751899,0.019751899,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2015,0.021927011,0.021927011,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2016,0.016550526,0.016550526,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2017,0.001971279,0.001971279,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2018,0.009309046,0.009309046,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Central ecoregion)",48
+2002,0.33378792,0.33378792,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2003,0.296717448,0.296717448,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2004,0.243406995,0.243406995,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2005,0.221698551,0.221698551,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2006,0.23334048,0.23334048,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2007,0.068957832,0.068957832,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2008,0.039084664,0.039084664,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2009,0.089814421,0.089814421,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2010,0.053674026,0.053674026,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2011,0.062410978,0.062410978,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2012,0.061295174,0.061295174,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2013,0.070385659,0.070385659,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2014,0.070401963,0.070401963,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2015,0.079947072,0.079947072,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2016,0.067816245,0.067816245,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2017,0.075813197,0.075813197,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2018,0.047589596,0.047589596,NA,NA,1000s km,"Gear contact (hard, shelf habitat in Northern ecoregion)",49
+2002,0.527775382,0.527775382,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2003,0.872423779,0.872423779,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2004,0.59057152,0.59057152,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2005,0.343081371,0.343081371,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2006,0.159493657,0.159493657,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2007,0.043795277,0.043795277,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2008,0.165009637,0.165009637,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2009,0.123699934,0.123699934,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2010,0.069263198,0.069263198,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2011,0.112267248,0.112267248,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2012,0.553651357,0.553651357,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2013,0.259303246,0.259303246,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2014,0.254693575,0.254693575,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2015,0.242809948,0.242809948,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2016,0.215996274,0.215996274,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2017,0.07071046,0.07071046,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2018,0.014561095,0.014561095,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Central ecoregion)",50
+2002,0.189196963,0.189196963,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2003,0.123970392,0.123970392,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2004,0.113452878,0.113452878,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2005,0.078892664,0.078892664,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2006,0.073186158,0.073186158,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2007,0.114820929,0.114820929,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2008,0.160986302,0.160986302,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2009,0.169377719,0.169377719,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2010,0.199097422,0.199097422,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2011,0.088377162,0.088377162,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2012,0.121831026,0.121831026,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2013,0.107247521,0.107247521,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2014,0.107167804,0.107167804,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2015,0.077220267,0.077220267,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2016,0.081706514,0.081706514,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2017,0.090501017,0.090501017,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2018,0.090702862,0.090702862,NA,NA,1000s km,"Gear contact (hard, upper slope habitat in Northern ecoregion)",51
+2002,0.001342068,0.001342068,NA,NA,1000s km,"Gear contact (mixed, lower slope habitat in Northern ecoregion)",52
+2002,0.004063385,0.004063385,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Central ecoregion)",53
+2003,0.015616023,0.015616023,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Central ecoregion)",53
+2004,0.007004819,0.007004819,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Central ecoregion)",53
+2005,0.013678794,0.013678794,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Central ecoregion)",53
+2006,0.005479226,0.005479226,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Central ecoregion)",53
+2007,0.004285295,0.004285295,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Central ecoregion)",53
+2010,0.000468755,0.000468755,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Central ecoregion)",53
+2014,4.84E-06,4.84E-06,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Central ecoregion)",53
+2002,0.434337299,0.434337299,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2003,0.311103196,0.311103196,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2004,0.084454623,0.084454623,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2005,0.173135323,0.173135323,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2006,0.101219628,0.101219628,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2007,0.041200673,0.041200673,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2008,0.017486635,0.017486635,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2009,0.029393223,0.029393223,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2010,0.024428842,0.024428842,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2011,0.00517383,0.00517383,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2012,0.005201367,0.005201367,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2013,0.001863465,0.001863465,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2014,0.008706759,0.008706759,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2015,0.016134362,0.016134362,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2016,0.007909143,0.007909143,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2017,0.00395859,0.00395859,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2018,0.009143257,0.009143257,NA,NA,1000s km,"Gear contact (mixed, shelf habitat in Northern ecoregion)",54
+2002,0.009339245,0.009339245,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Central ecoregion)",55
+2003,0.021667467,0.021667467,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Central ecoregion)",55
+2004,0.018186408,0.018186408,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Central ecoregion)",55
+2005,0.00491302,0.00491302,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Central ecoregion)",55
+2006,0.015911617,0.015911617,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Central ecoregion)",55
+2007,0.014676275,0.014676275,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Central ecoregion)",55
+2008,0.010718581,0.010718581,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Central ecoregion)",55
+2010,0.006835846,0.006835846,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Central ecoregion)",55
+2011,0.000976188,0.000976188,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Central ecoregion)",55
+2012,0.002555012,0.002555012,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Central ecoregion)",55
+2013,0.000891403,0.000891403,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Central ecoregion)",55
+2014,0.004358348,0.004358348,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Central ecoregion)",55
+2002,1.647019574,1.647019574,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2003,1.565694231,1.565694231,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2004,1.029112556,1.029112556,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2005,0.943993263,0.943993263,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2006,1.049790185,1.049790185,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2007,1.300100507,1.300100507,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2008,1.642312067,1.642312067,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2009,2.798802621,2.798802621,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2010,1.872718154,1.872718154,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2011,0.831561789,0.831561789,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2012,0.644516473,0.644516473,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2013,1.131422772,1.131422772,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2014,1.11431738,1.11431738,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2015,0.770764521,0.770764521,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2016,0.586926227,0.586926227,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2017,0.663386043,0.663386043,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2018,0.527364164,0.527364164,NA,NA,1000s km,"Gear contact (mixed, upper slope habitat in Northern ecoregion)",56
+2002,0.035072992,0.035072992,NA,NA,1000s km,"Gear contact (soft, lower slope habitat in Central ecoregion)",57
+2003,0.027701625,0.027701625,NA,NA,1000s km,"Gear contact (soft, lower slope habitat in Central ecoregion)",57
+2004,0.024781663,0.024781663,NA,NA,1000s km,"Gear contact (soft, lower slope habitat in Central ecoregion)",57
+2005,0.006689902,0.006689902,NA,NA,1000s km,"Gear contact (soft, lower slope habitat in Central ecoregion)",57
+2006,0.000462821,0.000462821,NA,NA,1000s km,"Gear contact (soft, lower slope habitat in Central ecoregion)",57
+2002,0.191735802,0.191735802,NA,NA,1000s km,"Gear contact (soft, lower slope habitat in Northern ecoregion)",58
+2003,0.094675434,0.094675434,NA,NA,1000s km,"Gear contact (soft, lower slope habitat in Northern ecoregion)",58
+2004,0.038743131,0.038743131,NA,NA,1000s km,"Gear contact (soft, lower slope habitat in Northern ecoregion)",58
+2005,0.049285474,0.049285474,NA,NA,1000s km,"Gear contact (soft, lower slope habitat in Northern ecoregion)",58
+2006,0.025106918,0.025106918,NA,NA,1000s km,"Gear contact (soft, lower slope habitat in Northern ecoregion)",58
+2002,2.209560301,2.209560301,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2003,2.784451676,2.784451676,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2004,1.923625207,1.923625207,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2005,2.517475392,2.517475392,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2006,1.329560292,1.329560292,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2007,2.337451279,2.337451279,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2008,2.270313109,2.270313109,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2009,1.402165136,1.402165136,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2010,1.308032679,1.308032679,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2011,0.454503908,0.454503908,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2012,0.386745114,0.386745114,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2013,0.680748915,0.680748915,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2014,0.796651188,0.796651188,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2015,0.617420391,0.617420391,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2016,0.380025174,0.380025174,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2017,0.33887434,0.33887434,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2018,0.468035663,0.468035663,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Central ecoregion)",59
+2002,19.50820527,19.50820527,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2003,14.3041984,14.3041984,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2004,12.67257603,12.67257603,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2005,17.3669334,17.3669334,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2006,18.88738633,18.88738633,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2007,12.12140823,12.12140823,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2008,7.519124459,7.519124459,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2009,10.47483271,10.47483271,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2010,6.597937245,6.597937245,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2011,5.177637314,5.177637314,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2012,5.919378605,5.919378605,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2013,6.773458962,6.773458962,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2014,6.039477492,6.039477492,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2015,5.600685332,5.600685332,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2016,6.273984515,6.273984515,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2017,5.237206465,5.237206465,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2018,4.462453221,4.462453221,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Northern ecoregion)",60
+2002,0.02183,0.02183,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Southern ecoregion)",61
+2003,0.005939816,0.005939816,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Southern ecoregion)",61
+2007,0.00084,0.00084,NA,NA,1000s km,"Gear contact (soft, shelf habitat in Southern ecoregion)",61
+2002,17.57989688,17.57989688,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2003,13.86294359,13.86294359,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2004,10.28704418,10.28704418,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2005,8.642737069,8.642737069,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2006,7.452461388,7.452461388,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2007,7.330828997,7.330828997,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2008,9.43317151,9.43317151,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2009,9.316635815,9.316635815,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2010,8.788624668,8.788624668,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2011,5.470905953,5.470905953,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2012,5.249201033,5.249201033,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2013,6.245119959,6.245119959,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2014,5.337456959,5.337456959,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2015,4.127263942,4.127263942,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2016,2.6818011,2.6818011,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2017,1.992305219,1.992305219,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2018,1.185575433,1.185575433,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Central ecoregion)",62
+2002,35.00199818,35.00199818,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2003,39.08078007,39.08078007,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2004,21.87306514,21.87306514,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2005,21.09216835,21.09216835,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2006,24.03087344,24.03087344,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2007,34.8230102,34.8230102,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2008,48.40180599,48.40180599,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2009,53.24686225,53.24686225,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2010,44.46308332,44.46308332,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2011,25.03306013,25.03306013,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2012,21.96285534,21.96285534,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2013,23.46328748,23.46328748,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2014,17.98790512,17.98790512,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2015,16.06734049,16.06734049,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2016,15.15555762,15.15555762,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2017,16.17624672,16.17624672,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2018,14.36797233,14.36797233,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Northern ecoregion)",63
+2002,0.030873465,0.030873465,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Southern ecoregion)",64
+2003,0.004742518,0.004742518,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Southern ecoregion)",64
+2004,0.001067321,0.001067321,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Southern ecoregion)",64
+2006,0.001616438,0.001616438,NA,NA,1000s km,"Gear contact (soft, upper slope habitat in Southern ecoregion)",64

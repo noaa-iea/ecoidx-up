@@ -1,0 +1,879 @@
+year,index,metric,series_name,ass_year,CV
+1900,1,Depletion,Sablefish,2011,0
+1901,0.998545894,Depletion,Sablefish,2011,0
+1902,0.99695197,Depletion,Sablefish,2011,0
+1903,0.995184671,Depletion,Sablefish,2011,0
+1904,0.993238406,Depletion,Sablefish,2011,0
+1905,0.991113174,Depletion,Sablefish,2011,0
+1906,0.988937608,Depletion,Sablefish,2011,0
+1907,0.986711707,Depletion,Sablefish,2011,0
+1908,0.984452249,Depletion,Sablefish,2011,0
+1909,0.982153643,Depletion,Sablefish,2011,0
+1910,0.979653699,Depletion,Sablefish,2011,0
+1911,0.976952417,Depletion,Sablefish,2011,0
+1912,0.974044205,Depletion,Sablefish,2011,0
+1913,0.970917877,Depletion,Sablefish,2011,0
+1914,0.967584618,Depletion,Sablefish,2011,0
+1915,0.964033243,Depletion,Sablefish,2011,0
+1916,0.960269345,Depletion,Sablefish,2011,0
+1917,0.953994318,Depletion,Sablefish,2011,0
+1918,0.945622022,Depletion,Sablefish,2011,0
+1919,0.934503702,Depletion,Sablefish,2011,0
+1920,0.928038523,Depletion,Sablefish,2011,0
+1921,0.922624773,Depletion,Sablefish,2011,0
+1922,0.916181965,Depletion,Sablefish,2011,0
+1923,0.911444934,Depletion,Sablefish,2011,0
+1924,0.90441489,Depletion,Sablefish,2011,0
+1925,0.897284177,Depletion,Sablefish,2011,0
+1926,0.889510302,Depletion,Sablefish,2011,0
+1927,0.882614483,Depletion,Sablefish,2011,0
+1928,0.874370819,Depletion,Sablefish,2011,0
+1929,0.866915729,Depletion,Sablefish,2011,0
+1930,0.859080334,Depletion,Sablefish,2011,0
+1931,0.850422809,Depletion,Sablefish,2011,0
+1932,0.844153375,Depletion,Sablefish,2011,0
+1933,0.837453301,Depletion,Sablefish,2011,0
+1934,0.83082034,Depletion,Sablefish,2011,0
+1935,0.822498378,Depletion,Sablefish,2011,0
+1936,0.812711125,Depletion,Sablefish,2011,0
+1937,0.804254938,Depletion,Sablefish,2011,0
+1938,0.795854679,Depletion,Sablefish,2011,0
+1939,0.787829131,Depletion,Sablefish,2011,0
+1940,0.778864008,Depletion,Sablefish,2011,0
+1941,0.771386546,Depletion,Sablefish,2011,0
+1942,0.763601485,Depletion,Sablefish,2011,0
+1943,0.753322073,Depletion,Sablefish,2011,0
+1944,0.741890562,Depletion,Sablefish,2011,0
+1945,0.729888593,Depletion,Sablefish,2011,0
+1946,0.716773674,Depletion,Sablefish,2011,0
+1947,0.703300821,Depletion,Sablefish,2011,0
+1948,0.693843538,Depletion,Sablefish,2011,0
+1949,0.683631239,Depletion,Sablefish,2011,0
+1950,0.674526297,Depletion,Sablefish,2011,0
+1951,0.66643923,Depletion,Sablefish,2011,0
+1952,0.656137447,Depletion,Sablefish,2011,0
+1953,0.649230442,Depletion,Sablefish,2011,0
+1954,0.643883806,Depletion,Sablefish,2011,0
+1955,0.638100937,Depletion,Sablefish,2011,0
+1956,0.633788953,Depletion,Sablefish,2011,0
+1957,0.62898481,Depletion,Sablefish,2011,0
+1958,0.627178363,Depletion,Sablefish,2011,0
+1959,0.630310284,Depletion,Sablefish,2011,0
+1960,0.635131205,Depletion,Sablefish,2011,0
+1961,0.642189213,Depletion,Sablefish,2011,0
+1962,0.655846625,Depletion,Sablefish,2011,0
+1963,0.673038634,Depletion,Sablefish,2011,0
+1964,0.696992237,Depletion,Sablefish,2011,0
+1965,0.726102324,Depletion,Sablefish,2011,0
+1966,0.761163061,Depletion,Sablefish,2011,0
+1967,0.802045816,Depletion,Sablefish,2011,0
+1968,0.834930986,Depletion,Sablefish,2011,0
+1969,0.867480593,Depletion,Sablefish,2011,0
+1970,0.889896199,Depletion,Sablefish,2011,0
+1971,0.914190958,Depletion,Sablefish,2011,0
+1972,0.944620926,Depletion,Sablefish,2011,0
+1973,0.970571128,Depletion,Sablefish,2011,0
+1974,0.995743943,Depletion,Sablefish,2011,0
+1975,1.003534597,Depletion,Sablefish,2011,0
+1976,0.986996935,Depletion,Sablefish,2011,0
+1977,0.933217378,Depletion,Sablefish,2011,0
+1978,0.924006174,Depletion,Sablefish,2011,0
+1979,0.920616988,Depletion,Sablefish,2011,0
+1980,0.88098141,Depletion,Sablefish,2011,0
+1981,0.867475001,Depletion,Sablefish,2011,0
+1982,0.856675466,Depletion,Sablefish,2011,0
+1983,0.826463614,Depletion,Sablefish,2011,0
+1984,0.806559137,Depletion,Sablefish,2011,0
+1985,0.784932104,Depletion,Sablefish,2011,0
+1986,0.752046934,Depletion,Sablefish,2011,0
+1987,0.719989486,Depletion,Sablefish,2011,0
+1988,0.696561598,Depletion,Sablefish,2011,0
+1989,0.681036218,Depletion,Sablefish,2011,0
+1990,0.666836312,Depletion,Sablefish,2011,0
+1991,0.653078231,Depletion,Sablefish,2011,0
+1992,0.642670186,Depletion,Sablefish,2011,0
+1993,0.638380573,Depletion,Sablefish,2011,0
+1994,0.630852777,Depletion,Sablefish,2011,0
+1995,0.618492875,Depletion,Sablefish,2011,0
+1996,0.597436299,Depletion,Sablefish,2011,0
+1997,0.574920024,Depletion,Sablefish,2011,0
+1998,0.557051856,Depletion,Sablefish,2011,0
+1999,0.541184761,Depletion,Sablefish,2011,0
+2000,0.515322364,Depletion,Sablefish,2011,0
+2001,0.488250263,Depletion,Sablefish,2011,0
+2002,0.478276213,Depletion,Sablefish,2011,0
+2003,0.48058992,Depletion,Sablefish,2011,0
+2004,0.482786179,Depletion,Sablefish,2011,0
+2005,0.479525067,Depletion,Sablefish,2011,0
+2006,0.467036532,Depletion,Sablefish,2011,0
+2007,0.44819579,Depletion,Sablefish,2011,0
+2008,0.424761191,Depletion,Sablefish,2011,0
+2009,0.395814971,Depletion,Sablefish,2011,0
+2010,0.360727948,Depletion,Sablefish,2011,0
+2011,0.340912955,Depletion,Sablefish,2011,0
+1916,1,Depletion,Spiny dogfish,2011,0
+1917,1,Depletion,Spiny dogfish,2011,0
+1918,0.999998586,Depletion,Spiny dogfish,2011,0
+1919,0.99999293,Depletion,Spiny dogfish,2011,0
+1920,0.99998586,Depletion,Spiny dogfish,2011,0
+1921,0.999974549,Depletion,Spiny dogfish,2011,0
+1922,0.999961823,Depletion,Spiny dogfish,2011,0
+1923,0.999947684,Depletion,Spiny dogfish,2011,0
+1924,0.999929302,Depletion,Spiny dogfish,2011,0
+1925,0.999909507,Depletion,Spiny dogfish,2011,0
+1926,0.999886884,Depletion,Spiny dogfish,2011,0
+1927,0.999861433,Depletion,Spiny dogfish,2011,0
+1928,0.999834568,Depletion,Spiny dogfish,2011,0
+1929,0.999804875,Depletion,Spiny dogfish,2011,0
+1930,0.999772354,Depletion,Spiny dogfish,2011,0
+1931,0.999738419,Depletion,Spiny dogfish,2011,0
+1932,0.999701656,Depletion,Spiny dogfish,2011,0
+1933,0.999615405,Depletion,Spiny dogfish,2011,0
+1934,0.999536224,Depletion,Spiny dogfish,2011,0
+1935,0.999451387,Depletion,Spiny dogfish,2011,0
+1936,0.999287369,Depletion,Spiny dogfish,2011,0
+1937,0.999202532,Depletion,Spiny dogfish,2011,0
+1938,0.998963574,Depletion,Spiny dogfish,2011,0
+1939,0.997532655,Depletion,Spiny dogfish,2011,0
+1940,0.994916846,Depletion,Spiny dogfish,2011,0
+1941,0.990824871,Depletion,Spiny dogfish,2011,0
+1942,0.962988414,Depletion,Spiny dogfish,2011,0
+1943,0.939557829,Depletion,Spiny dogfish,2011,0
+1944,0.908323648,Depletion,Spiny dogfish,2011,0
+1945,0.844664738,Depletion,Spiny dogfish,2011,0
+1946,0.81072991,Depletion,Spiny dogfish,2011,0
+1947,0.777353592,Depletion,Spiny dogfish,2011,0
+1948,0.755417554,Depletion,Spiny dogfish,2011,0
+1949,0.73652151,Depletion,Spiny dogfish,2011,0
+1950,0.719689836,Depletion,Spiny dogfish,2011,0
+1951,0.713366646,Depletion,Spiny dogfish,2011,0
+1952,0.708149166,Depletion,Spiny dogfish,2011,0
+1953,0.703239928,Depletion,Spiny dogfish,2011,0
+1954,0.700018947,Depletion,Spiny dogfish,2011,0
+1955,0.697702895,Depletion,Spiny dogfish,2011,0
+1956,0.695635698,Depletion,Spiny dogfish,2011,0
+1957,0.69447343,Depletion,Spiny dogfish,2011,0
+1958,0.691850551,Depletion,Spiny dogfish,2011,0
+1959,0.691506961,Depletion,Spiny dogfish,2011,0
+1960,0.69171057,Depletion,Spiny dogfish,2011,0
+1961,0.693096242,Depletion,Spiny dogfish,2011,0
+1962,0.69551834,Depletion,Spiny dogfish,2011,0
+1963,0.699259655,Depletion,Spiny dogfish,2011,0
+1964,0.703156505,Depletion,Spiny dogfish,2011,0
+1965,0.707081633,Depletion,Spiny dogfish,2011,0
+1966,0.711225924,Depletion,Spiny dogfish,2011,0
+1967,0.715291034,Depletion,Spiny dogfish,2011,0
+1968,0.719877891,Depletion,Spiny dogfish,2011,0
+1969,0.723886443,Depletion,Spiny dogfish,2011,0
+1970,0.727398697,Depletion,Spiny dogfish,2011,0
+1971,0.731909202,Depletion,Spiny dogfish,2011,0
+1972,0.736979631,Depletion,Spiny dogfish,2011,0
+1973,0.741901595,Depletion,Spiny dogfish,2011,0
+1974,0.746716098,Depletion,Spiny dogfish,2011,0
+1975,0.750323088,Depletion,Spiny dogfish,2011,0
+1976,0.753026562,Depletion,Spiny dogfish,2011,0
+1977,0.7540135,Depletion,Spiny dogfish,2011,0
+1978,0.75286113,Depletion,Spiny dogfish,2011,0
+1979,0.750854733,Depletion,Spiny dogfish,2011,0
+1980,0.747732729,Depletion,Spiny dogfish,2011,0
+1981,0.745681086,Depletion,Spiny dogfish,2011,0
+1982,0.742751379,Depletion,Spiny dogfish,2011,0
+1983,0.740545615,Depletion,Spiny dogfish,2011,0
+1984,0.740578136,Depletion,Spiny dogfish,2011,0
+1985,0.737214347,Depletion,Spiny dogfish,2011,0
+1986,0.733259525,Depletion,Spiny dogfish,2011,0
+1987,0.730496664,Depletion,Spiny dogfish,2011,0
+1988,0.727506158,Depletion,Spiny dogfish,2011,0
+1989,0.723769085,Depletion,Spiny dogfish,2011,0
+1990,0.719964142,Depletion,Spiny dogfish,2011,0
+1991,0.714731109,Depletion,Spiny dogfish,2011,0
+1992,0.708040292,Depletion,Spiny dogfish,2011,0
+1993,0.700355467,Depletion,Spiny dogfish,2011,0
+1994,0.692871424,Depletion,Spiny dogfish,2011,0
+1995,0.685680068,Depletion,Spiny dogfish,2011,0
+1996,0.68213812,Depletion,Spiny dogfish,2011,0
+1997,0.678197438,Depletion,Spiny dogfish,2011,0
+1998,0.67381419,Depletion,Spiny dogfish,2011,0
+1999,0.670297693,Depletion,Spiny dogfish,2011,0
+2000,0.665669831,Depletion,Spiny dogfish,2011,0
+2001,0.661109839,Depletion,Spiny dogfish,2011,0
+2002,0.656781734,Depletion,Spiny dogfish,2011,0
+2003,0.651007157,Depletion,Spiny dogfish,2011,0
+2004,0.648282474,Depletion,Spiny dogfish,2011,0
+2005,0.643725309,Depletion,Spiny dogfish,2011,0
+2006,0.638649224,Depletion,Spiny dogfish,2011,0
+2007,0.636593339,Depletion,Spiny dogfish,2011,0
+2008,0.635409862,Depletion,Spiny dogfish,2011,0
+2009,0.631152455,Depletion,Spiny dogfish,2011,0
+2010,0.631206185,Depletion,Spiny dogfish,2011,0
+2011,0.631474836,Depletion,Spiny dogfish,2011,0
+1966,0.489,Depletion,Pacific hake,2014,0
+1967,0.455,Depletion,Pacific hake,2014,0
+1968,0.423,Depletion,Pacific hake,2014,0
+1969,0.456,Depletion,Pacific hake,2014,0
+1970,0.485,Depletion,Pacific hake,2014,0
+1971,0.479,Depletion,Pacific hake,2014,0
+1972,0.57,Depletion,Pacific hake,2014,0
+1973,0.651,Depletion,Pacific hake,2014,0
+1974,0.659,Depletion,Pacific hake,2014,0
+1975,0.658,Depletion,Pacific hake,2014,0
+1976,0.647,Depletion,Pacific hake,2014,0
+1977,0.614,Depletion,Pacific hake,2014,0
+1978,0.567,Depletion,Pacific hake,2014,0
+1979,0.582,Depletion,Pacific hake,2014,0
+1980,0.584,Depletion,Pacific hake,2014,0
+1981,0.569,Depletion,Pacific hake,2014,0
+1982,0.761,Depletion,Pacific hake,2014,0
+1983,0.948,Depletion,Pacific hake,2014,0
+1984,1.008,Depletion,Pacific hake,2014,0
+1985,0.958,Depletion,Pacific hake,2014,0
+1986,1.061,Depletion,Pacific hake,2014,0
+1987,1.123,Depletion,Pacific hake,2014,0
+1988,1.079,Depletion,Pacific hake,2014,0
+1989,1.039,Depletion,Pacific hake,2014,0
+1990,0.975,Depletion,Pacific hake,2014,0
+1991,0.887,Depletion,Pacific hake,2014,0
+1992,0.81,Depletion,Pacific hake,2014,0
+1993,0.731,Depletion,Pacific hake,2014,0
+1994,0.642,Depletion,Pacific hake,2014,0
+1995,0.536,Depletion,Pacific hake,2014,0
+1996,0.505,Depletion,Pacific hake,2014,0
+1997,0.458,Depletion,Pacific hake,2014,0
+1998,0.409,Depletion,Pacific hake,2014,0
+1999,0.354,Depletion,Pacific hake,2014,0
+2000,0.311,Depletion,Pacific hake,2014,0
+2001,0.453,Depletion,Pacific hake,2014,0
+2002,0.587,Depletion,Pacific hake,2014,0
+2003,0.643,Depletion,Pacific hake,2014,0
+2004,0.611,Depletion,Pacific hake,2014,0
+2005,0.517,Depletion,Pacific hake,2014,0
+2006,0.4,Depletion,Pacific hake,2014,0
+2007,0.311,Depletion,Pacific hake,2014,0
+2008,0.274,Depletion,Pacific hake,2014,0
+2009,0.228,Depletion,Pacific hake,2014,0
+2010,0.269,Depletion,Pacific hake,2014,0
+2011,0.317,Depletion,Pacific hake,2014,0
+2012,0.54,Depletion,Pacific hake,2014,0
+2013,0.745,Depletion,Pacific hake,2014,0
+2014,0.818,Depletion,Pacific hake,2014,0
+1928,1,Depletion,Lingcod,2009,0
+1929,0.999215739,Depletion,Lingcod,2009,0
+1930,0.995115534,Depletion,Lingcod,2009,0
+1931,0.990634041,Depletion,Lingcod,2009,0
+1932,0.987229552,Depletion,Lingcod,2009,0
+1933,0.985886911,Depletion,Lingcod,2009,0
+1934,0.980832582,Depletion,Lingcod,2009,0
+1935,0.979598364,Depletion,Lingcod,2009,0
+1936,0.977525674,Depletion,Lingcod,2009,0
+1937,0.976732377,Depletion,Lingcod,2009,0
+1938,0.974983149,Depletion,Lingcod,2009,0
+1939,0.973354994,Depletion,Lingcod,2009,0
+1940,0.972753245,Depletion,Lingcod,2009,0
+1941,0.970568517,Depletion,Lingcod,2009,0
+1942,0.964010719,Depletion,Lingcod,2009,0
+1943,0.960752602,Depletion,Lingcod,2009,0
+1944,0.953045518,Depletion,Lingcod,2009,0
+1945,0.936942863,Depletion,Lingcod,2009,0
+1946,0.928241899,Depletion,Lingcod,2009,0
+1947,0.915991883,Depletion,Lingcod,2009,0
+1948,0.905339301,Depletion,Lingcod,2009,0
+1949,0.892689926,Depletion,Lingcod,2009,0
+1950,0.873856813,Depletion,Lingcod,2009,0
+1951,0.858570946,Depletion,Lingcod,2009,0
+1952,0.843055583,Depletion,Lingcod,2009,0
+1953,0.835321394,Depletion,Lingcod,2009,0
+1954,0.837413962,Depletion,Lingcod,2009,0
+1955,0.835494871,Depletion,Lingcod,2009,0
+1956,0.825693412,Depletion,Lingcod,2009,0
+1957,0.820866771,Depletion,Lingcod,2009,0
+1958,0.809196819,Depletion,Lingcod,2009,0
+1959,0.799198391,Depletion,Lingcod,2009,0
+1960,0.783825786,Depletion,Lingcod,2009,0
+1961,0.764602349,Depletion,Lingcod,2009,0
+1962,0.74779675,Depletion,Lingcod,2009,0
+1963,0.743094796,Depletion,Lingcod,2009,0
+1964,0.745218084,Depletion,Lingcod,2009,0
+1965,0.748971335,Depletion,Lingcod,2009,0
+1966,0.748703891,Depletion,Lingcod,2009,0
+1967,0.747955771,Depletion,Lingcod,2009,0
+1968,0.749856791,Depletion,Lingcod,2009,0
+1969,0.770048809,Depletion,Lingcod,2009,0
+1970,0.800168779,Depletion,Lingcod,2009,0
+1971,0.813183179,Depletion,Lingcod,2009,0
+1972,0.800606086,Depletion,Lingcod,2009,0
+1973,0.771528785,Depletion,Lingcod,2009,0
+1974,0.741502782,Depletion,Lingcod,2009,0
+1975,0.718347377,Depletion,Lingcod,2009,0
+1976,0.694774362,Depletion,Lingcod,2009,0
+1977,0.659359183,Depletion,Lingcod,2009,0
+1978,0.62564426,Depletion,Lingcod,2009,0
+1979,0.585670968,Depletion,Lingcod,2009,0
+1980,0.527785257,Depletion,Lingcod,2009,0
+1981,0.472213117,Depletion,Lingcod,2009,0
+1982,0.427980419,Depletion,Lingcod,2009,0
+1983,0.386370117,Depletion,Lingcod,2009,0
+1984,0.346832867,Depletion,Lingcod,2009,0
+1985,0.304556486,Depletion,Lingcod,2009,0
+1986,0.255441129,Depletion,Lingcod,2009,0
+1987,0.237355955,Depletion,Lingcod,2009,0
+1988,0.216462801,Depletion,Lingcod,2009,0
+1989,0.19663888,Depletion,Lingcod,2009,0
+1990,0.169723358,Depletion,Lingcod,2009,0
+1991,0.147225902,Depletion,Lingcod,2009,0
+1992,0.115790035,Depletion,Lingcod,2009,0
+1993,0.099231821,Depletion,Lingcod,2009,0
+1994,0.088689832,Depletion,Lingcod,2009,0
+1995,0.09162268,Depletion,Lingcod,2009,0
+1996,0.102958508,Depletion,Lingcod,2009,0
+1997,0.110976044,Depletion,Lingcod,2009,0
+1998,0.117035095,Depletion,Lingcod,2009,0
+1999,0.134075791,Depletion,Lingcod,2009,0
+2000,0.151800639,Depletion,Lingcod,2009,0
+2001,0.177790226,Depletion,Lingcod,2009,0
+2002,0.208407859,Depletion,Lingcod,2009,0
+2003,0.246211241,Depletion,Lingcod,2009,0
+2004,0.302060041,Depletion,Lingcod,2009,0
+2005,0.38649137,Depletion,Lingcod,2009,0
+2006,0.478936079,Depletion,Lingcod,2009,0
+2007,0.566711903,Depletion,Lingcod,2009,0
+2008,0.643936341,Depletion,Lingcod,2009,0
+2009,0.707284414,Depletion,Lingcod,2009,0
+1916,1,Depletion,Longnose skate,2007,0
+1917,0.999665924,Depletion,Longnose skate,2007,0
+1918,0.999003457,Depletion,Longnose skate,2007,0
+1919,0.998019709,Depletion,Longnose skate,2007,0
+1920,0.996728895,Depletion,Longnose skate,2007,0
+1921,0.995146652,Depletion,Longnose skate,2007,0
+1922,0.993287198,Depletion,Longnose skate,2007,0
+1923,0.991171855,Depletion,Longnose skate,2007,0
+1924,0.988821947,Depletion,Longnose skate,2007,0
+1925,0.9862588,Depletion,Longnose skate,2007,0
+1926,0.983503736,Depletion,Longnose skate,2007,0
+1927,0.980580923,Depletion,Longnose skate,2007,0
+1928,0.977507421,Depletion,Longnose skate,2007,0
+1929,0.974305974,Depletion,Longnose skate,2007,0
+1930,0.970989378,Depletion,Longnose skate,2007,0
+1931,0.967571848,Depletion,Longnose skate,2007,0
+1932,0.964063335,Depletion,Longnose skate,2007,0
+1933,0.960469527,Depletion,Longnose skate,2007,0
+1934,0.956796108,Depletion,Longnose skate,2007,0
+1935,0.95304308,Depletion,Longnose skate,2007,0
+1936,0.949213286,Depletion,Longnose skate,2007,0
+1937,0.945303882,Depletion,Longnose skate,2007,0
+1938,0.941313446,Depletion,Longnose skate,2007,0
+1939,0.937240558,Depletion,Longnose skate,2007,0
+1940,0.933085216,Depletion,Longnose skate,2007,0
+1941,0.928846001,Depletion,Longnose skate,2007,0
+1942,0.924524332,Depletion,Longnose skate,2007,0
+1943,0.920120211,Depletion,Longnose skate,2007,0
+1944,0.915636479,Depletion,Longnose skate,2007,0
+1945,0.911077403,Depletion,Longnose skate,2007,0
+1946,0.906445826,Depletion,Longnose skate,2007,0
+1947,0.901743168,Depletion,Longnose skate,2007,0
+1948,0.896975116,Depletion,Longnose skate,2007,0
+1949,0.892144514,Depletion,Longnose skate,2007,0
+1950,0.887255627,Depletion,Longnose skate,2007,0
+1951,0.887609605,Depletion,Longnose skate,2007,0
+1952,0.889848628,Depletion,Longnose skate,2007,0
+1953,0.891615679,Depletion,Longnose skate,2007,0
+1954,0.8832197,Depletion,Longnose skate,2007,0
+1955,0.884629929,Depletion,Longnose skate,2007,0
+1956,0.875838745,Depletion,Longnose skate,2007,0
+1957,0.875933992,Depletion,Longnose skate,2007,0
+1958,0.876991664,Depletion,Longnose skate,2007,0
+1959,0.877786339,Depletion,Longnose skate,2007,0
+1960,0.876262382,Depletion,Longnose skate,2007,0
+1961,0.878059286,Depletion,Longnose skate,2007,0
+1962,0.85896007,Depletion,Longnose skate,2007,0
+1963,0.851604704,Depletion,Longnose skate,2007,0
+1964,0.842537729,Depletion,Longnose skate,2007,0
+1965,0.834161653,Depletion,Longnose skate,2007,0
+1966,0.833061334,Depletion,Longnose skate,2007,0
+1967,0.830186855,Depletion,Longnose skate,2007,0
+1968,0.827753074,Depletion,Longnose skate,2007,0
+1969,0.817300038,Depletion,Longnose skate,2007,0
+1970,0.814181044,Depletion,Longnose skate,2007,0
+1971,0.817041306,Depletion,Longnose skate,2007,0
+1972,0.824100979,Depletion,Longnose skate,2007,0
+1973,0.829653755,Depletion,Longnose skate,2007,0
+1974,0.835141137,Depletion,Longnose skate,2007,0
+1975,0.840639891,Depletion,Longnose skate,2007,0
+1976,0.845275734,Depletion,Longnose skate,2007,0
+1977,0.840206303,Depletion,Longnose skate,2007,0
+1978,0.834666322,Depletion,Longnose skate,2007,0
+1979,0.819631464,Depletion,Longnose skate,2007,0
+1980,0.803027158,Depletion,Longnose skate,2007,0
+1981,0.795478454,Depletion,Longnose skate,2007,0
+1982,0.751879357,Depletion,Longnose skate,2007,0
+1983,0.726569164,Depletion,Longnose skate,2007,0
+1984,0.710320258,Depletion,Longnose skate,2007,0
+1985,0.708204915,Depletion,Longnose skate,2007,0
+1986,0.701280294,Depletion,Longnose skate,2007,0
+1987,0.699018526,Depletion,Longnose skate,2007,0
+1988,0.695616634,Depletion,Longnose skate,2007,0
+1989,0.699757759,Depletion,Longnose skate,2007,0
+1990,0.703517895,Depletion,Longnose skate,2007,0
+1991,0.710561931,Depletion,Longnose skate,2007,0
+1992,0.719350271,Depletion,Longnose skate,2007,0
+1993,0.731640016,Depletion,Longnose skate,2007,0
+1994,0.740559144,Depletion,Longnose skate,2007,0
+1995,0.745354206,Depletion,Longnose skate,2007,0
+1996,0.755016832,Depletion,Longnose skate,2007,0
+1997,0.745629997,Depletion,Longnose skate,2007,0
+1998,0.715412435,Depletion,Longnose skate,2007,0
+1999,0.708240455,Depletion,Longnose skate,2007,0
+2000,0.690616861,Depletion,Longnose skate,2007,0
+2001,0.668613313,Depletion,Longnose skate,2007,0
+2002,0.659277656,Depletion,Longnose skate,2007,0
+2003,0.66399453,Depletion,Longnose skate,2007,0
+2004,0.656371902,Depletion,Longnose skate,2007,0
+2005,0.661198239,Depletion,Longnose skate,2007,0
+2006,0.661054658,Depletion,Longnose skate,2007,0
+2007,0.658795733,Depletion,Longnose skate,2007,0
+1915,1,Depletion,Kelp greenling,2015,0
+1916,0.997326,Depletion,Kelp greenling,2015,0
+1917,0.995,Depletion,Kelp greenling,2015,0
+1918,0.99302,Depletion,Kelp greenling,2015,0
+1919,0.991489,Depletion,Kelp greenling,2015,0
+1920,0.989813,Depletion,Kelp greenling,2015,0
+1921,0.988126,Depletion,Kelp greenling,2015,0
+1922,0.987991,Depletion,Kelp greenling,2015,0
+1923,0.988199,Depletion,Kelp greenling,2015,0
+1924,0.988155,Depletion,Kelp greenling,2015,0
+1925,0.987885,Depletion,Kelp greenling,2015,0
+1926,0.987478,Depletion,Kelp greenling,2015,0
+1927,0.987039,Depletion,Kelp greenling,2015,0
+1928,0.986668,Depletion,Kelp greenling,2015,0
+1929,0.986367,Depletion,Kelp greenling,2015,0
+1930,0.986049,Depletion,Kelp greenling,2015,0
+1931,0.985707,Depletion,Kelp greenling,2015,0
+1932,0.985578,Depletion,Kelp greenling,2015,0
+1933,0.986046,Depletion,Kelp greenling,2015,0
+1934,0.986739,Depletion,Kelp greenling,2015,0
+1935,0.986811,Depletion,Kelp greenling,2015,0
+1936,0.986661,Depletion,Kelp greenling,2015,0
+1937,0.986256,Depletion,Kelp greenling,2015,0
+1938,0.985565,Depletion,Kelp greenling,2015,0
+1939,0.984872,Depletion,Kelp greenling,2015,0
+1940,0.984131,Depletion,Kelp greenling,2015,0
+1941,0.983354,Depletion,Kelp greenling,2015,0
+1942,0.982393,Depletion,Kelp greenling,2015,0
+1943,0.981499,Depletion,Kelp greenling,2015,0
+1944,0.980367,Depletion,Kelp greenling,2015,0
+1945,0.979488,Depletion,Kelp greenling,2015,0
+1946,0.978387,Depletion,Kelp greenling,2015,0
+1947,0.976206,Depletion,Kelp greenling,2015,0
+1948,0.973579,Depletion,Kelp greenling,2015,0
+1949,0.970611,Depletion,Kelp greenling,2015,0
+1950,0.967864,Depletion,Kelp greenling,2015,0
+1951,0.9656,Depletion,Kelp greenling,2015,0
+1952,0.962687,Depletion,Kelp greenling,2015,0
+1953,0.95968,Depletion,Kelp greenling,2015,0
+1954,0.957164,Depletion,Kelp greenling,2015,0
+1955,0.954734,Depletion,Kelp greenling,2015,0
+1956,0.952826,Depletion,Kelp greenling,2015,0
+1957,0.951077,Depletion,Kelp greenling,2015,0
+1958,0.949278,Depletion,Kelp greenling,2015,0
+1959,0.948108,Depletion,Kelp greenling,2015,0
+1960,0.947207,Depletion,Kelp greenling,2015,0
+1961,0.9462,Depletion,Kelp greenling,2015,0
+1962,0.945213,Depletion,Kelp greenling,2015,0
+1963,0.944086,Depletion,Kelp greenling,2015,0
+1964,0.942588,Depletion,Kelp greenling,2015,0
+1965,0.940752,Depletion,Kelp greenling,2015,0
+1966,0.938791,Depletion,Kelp greenling,2015,0
+1967,0.936589,Depletion,Kelp greenling,2015,0
+1968,0.934729,Depletion,Kelp greenling,2015,0
+1969,0.934153,Depletion,Kelp greenling,2015,0
+1970,0.932881,Depletion,Kelp greenling,2015,0
+1971,0.930784,Depletion,Kelp greenling,2015,0
+1972,0.928864,Depletion,Kelp greenling,2015,0
+1973,0.925848,Depletion,Kelp greenling,2015,0
+1974,0.920918,Depletion,Kelp greenling,2015,0
+1975,0.91622,Depletion,Kelp greenling,2015,0
+1976,0.911679,Depletion,Kelp greenling,2015,0
+1977,0.906595,Depletion,Kelp greenling,2015,0
+1978,0.90344,Depletion,Kelp greenling,2015,0
+1979,0.895096,Depletion,Kelp greenling,2015,0
+1980,0.889924,Depletion,Kelp greenling,2015,0
+1981,0.881383,Depletion,Kelp greenling,2015,0
+1982,0.865352,Depletion,Kelp greenling,2015,0
+1983,0.867145,Depletion,Kelp greenling,2015,0
+1984,0.829465,Depletion,Kelp greenling,2015,0
+1985,0.873501,Depletion,Kelp greenling,2015,0
+1986,0.957322,Depletion,Kelp greenling,2015,0
+1987,1.12864,Depletion,Kelp greenling,2015,0
+1988,1.2109,Depletion,Kelp greenling,2015,0
+1989,1.25279,Depletion,Kelp greenling,2015,0
+1990,1.2422,Depletion,Kelp greenling,2015,0
+1991,1.14236,Depletion,Kelp greenling,2015,0
+1992,1.00641,Depletion,Kelp greenling,2015,0
+1993,0.870473,Depletion,Kelp greenling,2015,0
+1994,0.768468,Depletion,Kelp greenling,2015,0
+1995,0.694122,Depletion,Kelp greenling,2015,0
+1996,0.671613,Depletion,Kelp greenling,2015,0
+1997,0.635908,Depletion,Kelp greenling,2015,0
+1998,0.597604,Depletion,Kelp greenling,2015,0
+1999,0.628698,Depletion,Kelp greenling,2015,0
+2000,0.639888,Depletion,Kelp greenling,2015,0
+2001,0.640465,Depletion,Kelp greenling,2015,0
+2002,0.77888,Depletion,Kelp greenling,2015,0
+2003,0.890734,Depletion,Kelp greenling,2015,0
+2004,0.940514,Depletion,Kelp greenling,2015,0
+2005,0.933395,Depletion,Kelp greenling,2015,0
+2006,0.872782,Depletion,Kelp greenling,2015,0
+2007,0.803992,Depletion,Kelp greenling,2015,0
+2008,0.700237,Depletion,Kelp greenling,2015,0
+2009,0.670061,Depletion,Kelp greenling,2015,0
+2010,0.712174,Depletion,Kelp greenling,2015,0
+2011,0.913312,Depletion,Kelp greenling,2015,0
+2012,1.04679,Depletion,Kelp greenling,2015,0
+2013,1.0165,Depletion,Kelp greenling,2015,0
+2014,0.893824,Depletion,Kelp greenling,2015,0
+2015,0.796659,Depletion,Kelp greenling,2015,0
+1900,1,Depletion,Sablefish,2015,0
+1901,0.971984,Depletion,Sablefish,2015,0
+1902,0.969931,Depletion,Sablefish,2015,0
+1903,0.967661,Depletion,Sablefish,2015,0
+1904,0.965181,Depletion,Sablefish,2015,0
+1905,0.962487,Depletion,Sablefish,2015,0
+1906,0.959729,Depletion,Sablefish,2015,0
+1907,0.956918,Depletion,Sablefish,2015,0
+1908,0.954062,Depletion,Sablefish,2015,0
+1909,0.951165,Depletion,Sablefish,2015,0
+1910,0.948041,Depletion,Sablefish,2015,0
+1911,0.944676,Depletion,Sablefish,2015,0
+1912,0.941071,Depletion,Sablefish,2015,0
+1913,0.937221,Depletion,Sablefish,2015,0
+1914,0.933127,Depletion,Sablefish,2015,0
+1915,0.928789,Depletion,Sablefish,2015,0
+1916,0.924216,Depletion,Sablefish,2015,0
+1917,0.916644,Depletion,Sablefish,2015,0
+1918,0.906562,Depletion,Sablefish,2015,0
+1919,0.8932,Depletion,Sablefish,2015,0
+1920,0.885415,Depletion,Sablefish,2015,0
+1921,0.878942,Depletion,Sablefish,2015,0
+1922,0.871286,Depletion,Sablefish,2015,0
+1923,0.865719,Depletion,Sablefish,2015,0
+1924,0.857451,Depletion,Sablefish,2015,0
+1925,0.849087,Depletion,Sablefish,2015,0
+1926,0.839996,Depletion,Sablefish,2015,0
+1927,0.831989,Depletion,Sablefish,2015,0
+1928,0.822415,Depletion,Sablefish,2015,0
+1929,0.813817,Depletion,Sablefish,2015,0
+1930,0.804831,Depletion,Sablefish,2015,0
+1931,0.794936,Depletion,Sablefish,2015,0
+1932,0.787959,Depletion,Sablefish,2015,0
+1933,0.780528,Depletion,Sablefish,2015,0
+1934,0.773225,Depletion,Sablefish,2015,0
+1935,0.763972,Depletion,Sablefish,2015,0
+1936,0.753019,Depletion,Sablefish,2015,0
+1937,0.743731,Depletion,Sablefish,2015,0
+1938,0.734569,Depletion,Sablefish,2015,0
+1939,0.725885,Depletion,Sablefish,2015,0
+1940,0.716135,Depletion,Sablefish,2015,0
+1941,0.708199,Depletion,Sablefish,2015,0
+1942,0.699959,Depletion,Sablefish,2015,0
+1943,0.68873,Depletion,Sablefish,2015,0
+1944,0.676145,Depletion,Sablefish,2015,0
+1945,0.662977,Depletion,Sablefish,2015,0
+1946,0.648609,Depletion,Sablefish,2015,0
+1947,0.633966,Depletion,Sablefish,2015,0
+1948,0.624199,Depletion,Sablefish,2015,0
+1949,0.613445,Depletion,Sablefish,2015,0
+1950,0.603909,Depletion,Sablefish,2015,0
+1951,0.595479,Depletion,Sablefish,2015,0
+1952,0.584296,Depletion,Sablefish,2015,0
+1953,0.577058,Depletion,Sablefish,2015,0
+1954,0.571525,Depletion,Sablefish,2015,0
+1955,0.565232,Depletion,Sablefish,2015,0
+1956,0.560402,Depletion,Sablefish,2015,0
+1957,0.554642,Depletion,Sablefish,2015,0
+1958,0.552086,Depletion,Sablefish,2015,0
+1959,0.554907,Depletion,Sablefish,2015,0
+1960,0.559104,Depletion,Sablefish,2015,0
+1961,0.565251,Depletion,Sablefish,2015,0
+1962,0.578482,Depletion,Sablefish,2015,0
+1963,0.59517,Depletion,Sablefish,2015,0
+1964,0.61918,Depletion,Sablefish,2015,0
+1965,0.649035,Depletion,Sablefish,2015,0
+1966,0.68655,Depletion,Sablefish,2015,0
+1967,0.735007,Depletion,Sablefish,2015,0
+1968,0.774276,Depletion,Sablefish,2015,0
+1969,0.812672,Depletion,Sablefish,2015,0
+1970,0.837091,Depletion,Sablefish,2015,0
+1971,0.858808,Depletion,Sablefish,2015,0
+1972,0.879232,Depletion,Sablefish,2015,0
+1973,0.891169,Depletion,Sablefish,2015,0
+1974,0.92585,Depletion,Sablefish,2015,0
+1975,0.94553,Depletion,Sablefish,2015,0
+1976,0.937947,Depletion,Sablefish,2015,0
+1977,0.882302,Depletion,Sablefish,2015,0
+1978,0.868759,Depletion,Sablefish,2015,0
+1979,0.861955,Depletion,Sablefish,2015,0
+1980,0.812271,Depletion,Sablefish,2015,0
+1981,0.799479,Depletion,Sablefish,2015,0
+1982,0.788962,Depletion,Sablefish,2015,0
+1983,0.757404,Depletion,Sablefish,2015,0
+1984,0.738137,Depletion,Sablefish,2015,0
+1985,0.716877,Depletion,Sablefish,2015,0
+1986,0.684268,Depletion,Sablefish,2015,0
+1987,0.652386,Depletion,Sablefish,2015,0
+1988,0.629604,Depletion,Sablefish,2015,0
+1989,0.617161,Depletion,Sablefish,2015,0
+1990,0.606484,Depletion,Sablefish,2015,0
+1991,0.597516,Depletion,Sablefish,2015,0
+1992,0.589534,Depletion,Sablefish,2015,0
+1993,0.588399,Depletion,Sablefish,2015,0
+1994,0.584535,Depletion,Sablefish,2015,0
+1995,0.575987,Depletion,Sablefish,2015,0
+1996,0.558619,Depletion,Sablefish,2015,0
+1997,0.539148,Depletion,Sablefish,2015,0
+1998,0.526093,Depletion,Sablefish,2015,0
+1999,0.516254,Depletion,Sablefish,2015,0
+2000,0.495084,Depletion,Sablefish,2015,0
+2001,0.471815,Depletion,Sablefish,2015,0
+2002,0.467567,Depletion,Sablefish,2015,0
+2003,0.47964,Depletion,Sablefish,2015,0
+2004,0.49257,Depletion,Sablefish,2015,0
+2005,0.499261,Depletion,Sablefish,2015,0
+2006,0.494513,Depletion,Sablefish,2015,0
+2007,0.482059,Depletion,Sablefish,2015,0
+2008,0.463016,Depletion,Sablefish,2015,0
+2009,0.436174,Depletion,Sablefish,2015,0
+2010,0.400739,Depletion,Sablefish,2015,0
+2011,0.382662,Depletion,Sablefish,2015,0
+2012,0.363822,Depletion,Sablefish,2015,0
+2013,0.357459,Depletion,Sablefish,2015,0
+2014,0.352705,Depletion,Sablefish,2015,0
+2015,0.345241,Depletion,Sablefish,2015,0
+1916,1,Depletion,Cabezon_NCA,2009,0
+1917,0.999382,Depletion,Cabezon_NCA,2009,0
+1918,0.998727,Depletion,Cabezon_NCA,2009,0
+1919,0.998165,Depletion,Cabezon_NCA,2009,0
+1920,0.997706,Depletion,Cabezon_NCA,2009,0
+1921,0.997307,Depletion,Cabezon_NCA,2009,0
+1922,0.996963,Depletion,Cabezon_NCA,2009,0
+1923,0.996668,Depletion,Cabezon_NCA,2009,0
+1924,0.996414,Depletion,Cabezon_NCA,2009,0
+1925,0.996198,Depletion,Cabezon_NCA,2009,0
+1926,0.995117,Depletion,Cabezon_NCA,2009,0
+1927,0.995025,Depletion,Cabezon_NCA,2009,0
+1928,0.994776,Depletion,Cabezon_NCA,2009,0
+1929,0.994066,Depletion,Cabezon_NCA,2009,0
+1930,0.99288,Depletion,Cabezon_NCA,2009,0
+1931,0.991135,Depletion,Cabezon_NCA,2009,0
+1932,0.988833,Depletion,Cabezon_NCA,2009,0
+1933,0.985106,Depletion,Cabezon_NCA,2009,0
+1934,0.98116,Depletion,Cabezon_NCA,2009,0
+1935,0.976655,Depletion,Cabezon_NCA,2009,0
+1936,0.970567,Depletion,Cabezon_NCA,2009,0
+1937,0.960591,Depletion,Cabezon_NCA,2009,0
+1938,0.955565,Depletion,Cabezon_NCA,2009,0
+1939,0.945359,Depletion,Cabezon_NCA,2009,0
+1940,0.942837,Depletion,Cabezon_NCA,2009,0
+1941,0.937375,Depletion,Cabezon_NCA,2009,0
+1942,0.933996,Depletion,Cabezon_NCA,2009,0
+1943,0.933914,Depletion,Cabezon_NCA,2009,0
+1944,0.932612,Depletion,Cabezon_NCA,2009,0
+1945,0.932443,Depletion,Cabezon_NCA,2009,0
+1946,0.932224,Depletion,Cabezon_NCA,2009,0
+1947,0.931119,Depletion,Cabezon_NCA,2009,0
+1948,0.901121,Depletion,Cabezon_NCA,2009,0
+1949,0.860435,Depletion,Cabezon_NCA,2009,0
+1950,0.826364,Depletion,Cabezon_NCA,2009,0
+1951,0.788506,Depletion,Cabezon_NCA,2009,0
+1952,0.74521,Depletion,Cabezon_NCA,2009,0
+1953,0.733587,Depletion,Cabezon_NCA,2009,0
+1954,0.739002,Depletion,Cabezon_NCA,2009,0
+1955,0.752537,Depletion,Cabezon_NCA,2009,0
+1956,0.76422,Depletion,Cabezon_NCA,2009,0
+1957,0.752567,Depletion,Cabezon_NCA,2009,0
+1958,0.745543,Depletion,Cabezon_NCA,2009,0
+1959,0.747809,Depletion,Cabezon_NCA,2009,0
+1960,0.754111,Depletion,Cabezon_NCA,2009,0
+1961,0.766077,Depletion,Cabezon_NCA,2009,0
+1962,0.778591,Depletion,Cabezon_NCA,2009,0
+1963,0.780872,Depletion,Cabezon_NCA,2009,0
+1964,0.751685,Depletion,Cabezon_NCA,2009,0
+1965,0.752556,Depletion,Cabezon_NCA,2009,0
+1966,0.743812,Depletion,Cabezon_NCA,2009,0
+1967,0.726341,Depletion,Cabezon_NCA,2009,0
+1968,0.732099,Depletion,Cabezon_NCA,2009,0
+1969,0.73963,Depletion,Cabezon_NCA,2009,0
+1970,0.743954,Depletion,Cabezon_NCA,2009,0
+1971,0.738539,Depletion,Cabezon_NCA,2009,0
+1972,0.749185,Depletion,Cabezon_NCA,2009,0
+1973,0.739114,Depletion,Cabezon_NCA,2009,0
+1974,0.756706,Depletion,Cabezon_NCA,2009,0
+1975,0.797634,Depletion,Cabezon_NCA,2009,0
+1976,0.854215,Depletion,Cabezon_NCA,2009,0
+1977,0.880341,Depletion,Cabezon_NCA,2009,0
+1978,0.880885,Depletion,Cabezon_NCA,2009,0
+1979,0.83133,Depletion,Cabezon_NCA,2009,0
+1980,0.788597,Depletion,Cabezon_NCA,2009,0
+1981,0.723114,Depletion,Cabezon_NCA,2009,0
+1982,0.678085,Depletion,Cabezon_NCA,2009,0
+1983,0.652909,Depletion,Cabezon_NCA,2009,0
+1984,0.6171,Depletion,Cabezon_NCA,2009,0
+1985,0.588303,Depletion,Cabezon_NCA,2009,0
+1986,0.571384,Depletion,Cabezon_NCA,2009,0
+1987,0.517601,Depletion,Cabezon_NCA,2009,0
+1988,0.481011,Depletion,Cabezon_NCA,2009,0
+1989,0.443963,Depletion,Cabezon_NCA,2009,0
+1990,0.426485,Depletion,Cabezon_NCA,2009,0
+1991,0.44973,Depletion,Cabezon_NCA,2009,0
+1992,0.470871,Depletion,Cabezon_NCA,2009,0
+1993,0.44387,Depletion,Cabezon_NCA,2009,0
+1994,0.444498,Depletion,Cabezon_NCA,2009,0
+1995,0.461512,Depletion,Cabezon_NCA,2009,0
+1996,0.439736,Depletion,Cabezon_NCA,2009,0
+1997,0.425431,Depletion,Cabezon_NCA,2009,0
+1998,0.41594,Depletion,Cabezon_NCA,2009,0
+1999,0.358456,Depletion,Cabezon_NCA,2009,0
+2000,0.33898,Depletion,Cabezon_NCA,2009,0
+2001,0.351281,Depletion,Cabezon_NCA,2009,0
+2002,0.390296,Depletion,Cabezon_NCA,2009,0
+2003,0.427364,Depletion,Cabezon_NCA,2009,0
+2004,0.406538,Depletion,Cabezon_NCA,2009,0
+2005,0.395377,Depletion,Cabezon_NCA,2009,0
+2006,0.389787,Depletion,Cabezon_NCA,2009,0
+2007,0.402603,Depletion,Cabezon_NCA,2009,0
+2008,0.422372,Depletion,Cabezon_NCA,2009,0
+2009,0.452335,Depletion,Cabezon_NCA,2009,0
+1916,1,Depletion,Cabezon_SCA,2009,0
+1917,0.999912,Depletion,Cabezon_SCA,2009,0
+1918,0.999824,Depletion,Cabezon_SCA,2009,0
+1919,0.999743,Depletion,Cabezon_SCA,2009,0
+1920,0.999681,Depletion,Cabezon_SCA,2009,0
+1921,0.99964,Depletion,Cabezon_SCA,2009,0
+1922,0.999612,Depletion,Cabezon_SCA,2009,0
+1923,0.999593,Depletion,Cabezon_SCA,2009,0
+1924,0.999581,Depletion,Cabezon_SCA,2009,0
+1925,0.999572,Depletion,Cabezon_SCA,2009,0
+1926,0.999566,Depletion,Cabezon_SCA,2009,0
+1927,0.999561,Depletion,Cabezon_SCA,2009,0
+1928,0.999558,Depletion,Cabezon_SCA,2009,0
+1929,0.999434,Depletion,Cabezon_SCA,2009,0
+1930,0.999108,Depletion,Cabezon_SCA,2009,0
+1931,0.998586,Depletion,Cabezon_SCA,2009,0
+1932,0.997874,Depletion,Cabezon_SCA,2009,0
+1933,0.996993,Depletion,Cabezon_SCA,2009,0
+1934,0.995889,Depletion,Cabezon_SCA,2009,0
+1935,0.99473,Depletion,Cabezon_SCA,2009,0
+1936,0.993301,Depletion,Cabezon_SCA,2009,0
+1937,0.991455,Depletion,Cabezon_SCA,2009,0
+1938,0.990552,Depletion,Cabezon_SCA,2009,0
+1939,0.986938,Depletion,Cabezon_SCA,2009,0
+1940,0.986268,Depletion,Cabezon_SCA,2009,0
+1941,0.985813,Depletion,Cabezon_SCA,2009,0
+1942,0.983788,Depletion,Cabezon_SCA,2009,0
+1943,0.981992,Depletion,Cabezon_SCA,2009,0
+1944,0.980355,Depletion,Cabezon_SCA,2009,0
+1945,0.978844,Depletion,Cabezon_SCA,2009,0
+1946,0.977538,Depletion,Cabezon_SCA,2009,0
+1947,0.976395,Depletion,Cabezon_SCA,2009,0
+1948,0.968609,Depletion,Cabezon_SCA,2009,0
+1949,0.959835,Depletion,Cabezon_SCA,2009,0
+1950,0.948105,Depletion,Cabezon_SCA,2009,0
+1951,0.939683,Depletion,Cabezon_SCA,2009,0
+1952,0.933712,Depletion,Cabezon_SCA,2009,0
+1953,0.924932,Depletion,Cabezon_SCA,2009,0
+1954,0.910237,Depletion,Cabezon_SCA,2009,0
+1955,0.86967,Depletion,Cabezon_SCA,2009,0
+1956,0.832454,Depletion,Cabezon_SCA,2009,0
+1957,0.782187,Depletion,Cabezon_SCA,2009,0
+1958,0.75145,Depletion,Cabezon_SCA,2009,0
+1959,0.739694,Depletion,Cabezon_SCA,2009,0
+1960,0.7534,Depletion,Cabezon_SCA,2009,0
+1961,0.773325,Depletion,Cabezon_SCA,2009,0
+1962,0.793354,Depletion,Cabezon_SCA,2009,0
+1963,0.803928,Depletion,Cabezon_SCA,2009,0
+1964,0.799794,Depletion,Cabezon_SCA,2009,0
+1965,0.799724,Depletion,Cabezon_SCA,2009,0
+1966,0.788812,Depletion,Cabezon_SCA,2009,0
+1967,0.761547,Depletion,Cabezon_SCA,2009,0
+1968,0.756672,Depletion,Cabezon_SCA,2009,0
+1969,0.760757,Depletion,Cabezon_SCA,2009,0
+1970,0.766708,Depletion,Cabezon_SCA,2009,0
+1971,0.767904,Depletion,Cabezon_SCA,2009,0
+1972,0.760552,Depletion,Cabezon_SCA,2009,0
+1973,0.720393,Depletion,Cabezon_SCA,2009,0
+1974,0.782736,Depletion,Cabezon_SCA,2009,0
+1975,0.85333,Depletion,Cabezon_SCA,2009,0
+1976,0.884661,Depletion,Cabezon_SCA,2009,0
+1977,0.909942,Depletion,Cabezon_SCA,2009,0
+1978,0.922684,Depletion,Cabezon_SCA,2009,0
+1979,0.893785,Depletion,Cabezon_SCA,2009,0
+1980,0.854365,Depletion,Cabezon_SCA,2009,0
+1981,0.705927,Depletion,Cabezon_SCA,2009,0
+1982,0.606247,Depletion,Cabezon_SCA,2009,0
+1983,0.477417,Depletion,Cabezon_SCA,2009,0
+1984,0.467309,Depletion,Cabezon_SCA,2009,0
+1985,0.407413,Depletion,Cabezon_SCA,2009,0
+1986,0.35711,Depletion,Cabezon_SCA,2009,0
+1987,0.307481,Depletion,Cabezon_SCA,2009,0
+1988,0.298465,Depletion,Cabezon_SCA,2009,0
+1989,0.320252,Depletion,Cabezon_SCA,2009,0
+1990,0.30667,Depletion,Cabezon_SCA,2009,0
+1991,0.247867,Depletion,Cabezon_SCA,2009,0
+1992,0.1983,Depletion,Cabezon_SCA,2009,0
+1993,0.178326,Depletion,Cabezon_SCA,2009,0
+1994,0.190753,Depletion,Cabezon_SCA,2009,0
+1995,0.170719,Depletion,Cabezon_SCA,2009,0
+1996,0.161216,Depletion,Cabezon_SCA,2009,0
+1997,0.164683,Depletion,Cabezon_SCA,2009,0
+1998,0.215289,Depletion,Cabezon_SCA,2009,0
+1999,0.25021,Depletion,Cabezon_SCA,2009,0
+2000,0.262509,Depletion,Cabezon_SCA,2009,0
+2001,0.281578,Depletion,Cabezon_SCA,2009,0
+2002,0.362265,Depletion,Cabezon_SCA,2009,0
+2003,0.47361,Depletion,Cabezon_SCA,2009,0
+2004,0.5523,Depletion,Cabezon_SCA,2009,0
+2005,0.598025,Depletion,Cabezon_SCA,2009,0
+2006,0.623701,Depletion,Cabezon_SCA,2009,0
+2007,0.638272,Depletion,Cabezon_SCA,2009,0
+2008,0.623806,Depletion,Cabezon_SCA,2009,0
+2009,0.599528,Depletion,Cabezon_SCA,2009,0
+2010,0.525872,Depletion,Cabezon_SCA,2009,0
+2011,0.484797,Depletion,Cabezon_SCA,2009,0
+1972,1,Depletion,Cabezon_OR,2009,0
+1973,0.931216,Depletion,Cabezon_OR,2009,0
+1974,0.93084,Depletion,Cabezon_OR,2009,0
+1975,0.928837,Depletion,Cabezon_OR,2009,0
+1976,0.926244,Depletion,Cabezon_OR,2009,0
+1977,0.914778,Depletion,Cabezon_OR,2009,0
+1978,0.906858,Depletion,Cabezon_OR,2009,0
+1979,0.882838,Depletion,Cabezon_OR,2009,0
+1980,0.875868,Depletion,Cabezon_OR,2009,0
+1981,0.876617,Depletion,Cabezon_OR,2009,0
+1982,0.853539,Depletion,Cabezon_OR,2009,0
+1983,0.845516,Depletion,Cabezon_OR,2009,0
+1984,0.839575,Depletion,Cabezon_OR,2009,0
+1985,0.833007,Depletion,Cabezon_OR,2009,0
+1986,0.820367,Depletion,Cabezon_OR,2009,0
+1987,0.77599,Depletion,Cabezon_OR,2009,0
+1988,0.737605,Depletion,Cabezon_OR,2009,0
+1989,0.685136,Depletion,Cabezon_OR,2009,0
+1990,0.653284,Depletion,Cabezon_OR,2009,0
+1991,0.63553,Depletion,Cabezon_OR,2009,0
+1992,0.619072,Depletion,Cabezon_OR,2009,0
+1993,0.597686,Depletion,Cabezon_OR,2009,0
+1994,0.586304,Depletion,Cabezon_OR,2009,0
+1995,0.577944,Depletion,Cabezon_OR,2009,0
+1996,0.592866,Depletion,Cabezon_OR,2009,0
+1997,0.617339,Depletion,Cabezon_OR,2009,0
+1998,0.612767,Depletion,Cabezon_OR,2009,0
+1999,0.601138,Depletion,Cabezon_OR,2009,0
+2000,0.590179,Depletion,Cabezon_OR,2009,0
+2001,0.584754,Depletion,Cabezon_OR,2009,0
+2002,0.582081,Depletion,Cabezon_OR,2009,0
+2003,0.597704,Depletion,Cabezon_OR,2009,0
+2004,0.626204,Depletion,Cabezon_OR,2009,0
+2005,0.621261,Depletion,Cabezon_OR,2009,0
+2006,0.599836,Depletion,Cabezon_OR,2009,0
+2007,0.574356,Depletion,Cabezon_OR,2009,0
+2008,0.552404,Depletion,Cabezon_OR,2009,0
+2009,0.523711,Depletion,Cabezon_OR,2009,0
+2010,0.462708,Depletion,Cabezon_OR,2009,0
+2011,0.416409,Depletion,Cabezon_OR,2009,0
