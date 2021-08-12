@@ -1,0 +1,7 @@
+columns:
+  time:
+    time: year
+  index:
+    species_cohort: timeseries
+  values:
+    density_anomaly: anomaly

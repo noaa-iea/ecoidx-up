@@ -20,7 +20,7 @@ if (!require(librarian)){
   library(librarian)
 }
 shelf(
-  dplyr, DT, glue, googledrive, googlesheets4, here, htmltools, purrr, readr)
+  dplyr, DT, fs, glue, googledrive, googlesheets4, here, htmltools, purrr, readr)
 ```
 
 ## Read Metadata
@@ -122,6 +122,176 @@ meta_files  %>%
       pageLength = nrow(meta_files),
       lengthMenu = c(5, 20, 50, nrow(meta_files))))
 ```
+
+#### organize files_pi into datasets
+
+```{r}
+files_pi <- read_csv("data/files_pi.csv", show_col_types=F)
+# View(files_pi) # names(files_pi)
+files_pi <- files_pi %>% 
+  rename(
+   ed_id = `ERDDAP Dataset ID`) %>% 
+  arrange(gd_file) %>% 
+  mutate(
+    path_0  = here(glue("data/raw/{gd_file}")),
+    path    = here(glue("data/upload/{ed_id}/{gd_file}")),
+    path_ok = map2_lgl(
+      path_0, path, function(p0, p){
+        if (file.exists(p0) & !file.exists(p)){
+          dir_create(dirname(p))
+          file_move(p0, p)
+        }
+        if (file.exists(p) & !file.exists(p0))
+          return(TRUE)
+        FALSE
+      }))
+
+files_pi <- read_csv("data/files_pi.csv", show_col_types=F)
+
+files_pi_dupes <- files_pi %>% 
+  filter(duplicated(gd_file)) %>% 
+  distinct(gd_file)
+
+files_pi %>% 
+  inner_join(
+    files_pi_dupes,
+    by = "gd_file") %>% 
+  select(gd_file, ed_id, path_ok) %>% 
+  arrange(gd_file, ed_id, desc(path_ok)) %>% 
+  write_csv("data/files_pi_same-file-diff-dataset.csv")
+
+read_csv(
+  "data/files_pi_same-file-diff-dataset.csv", show_col_types=F) %>%
+  datatable()
+```
+
+## test: cciea_B_AS_DENS
+
+```{r}
+librarian::shelf(
+  glue, here, readr, yaml)
+
+up_data_csv <- here(glue("data/upload/cciea_B_AS_DENS/Seabird - Ce CC at-sea densities 12-3-19.csv"))
+up_meta_yml <- here(glue("data/upload/cciea_B_AS_DENS/Seabird - Ce CC at-sea densities 12-3-19_meta.yml"))
+
+# read uploaded file
+up_data <- read_csv(up_data_csv) # View(up_data)
+
+# Which dataset?
+ed_id <- "cciea_B_AS_DENS"
+
+# get metadata
+ed_meta_yml <- glue("https://github.com/noaa-iea/ecoidx/raw/main/data-raw/{ed_id}_meta.yml")
+ed_meta <- read_yaml(ed_meta_yml) # listviewer::jsonedit(ed_meta)
+
+# get data
+ed_data_csv <- glue("https://github.com/noaa-iea/ecoidx/raw/main/data-raw/{ed_id}_raw.csv")
+
+# read csv
+ed_data <- read_csv(ed_data_csv) # View(ed_data)
+
+# match columns in upload to erddap dataset
+up_meta <- list(
+  columns = list())
+
+# Time?
+up_meta$columns$time <- list(
+  time = "year")
+# TODO: transform year to datetime
+
+# Other index(es)?
+up_meta$columns$index <- list(
+  species_cohort = "timeseries")
+
+# Value(s)?
+up_meta$columns$values <- list(
+  density_anomaly = "anomaly")
+# TODO: rename `values` to `metric`
+
+# Error(s)?
+
+# write 
+write_yaml(up_meta, up_meta_yml)
+up_meta <- read_yaml(up_meta_yml)
+# listviewer::jsonedit(up_meta)
+```
+
+
+
+
+## test: cciea_EI_HCI
+
+```{r}
+librarian::shelf(
+  fs, glue, here, readr, yaml)
+
+up_data_csv <- here(glue("data/upload/cciea_EI_HCI_new/ei_hci_rgn1_M.csv"))
+#up_data_csv <- here(glue("data/upload/cciea_EI_HCI_new/ei_hci_rgn2_M.csv"))
+up_meta_yml <- glue("{path_ext_remove(up_data_csv)}_meta.yml")
+
+# read uploaded file
+up_data <- read_csv(up_data_csv) # View(up_data)
+
+# Which dataset?
+ed_id <- "cciea_EI_HCI"
+
+# get metadata
+#ed_meta_yml <- glue("https://github.com/noaa-iea/ecoidx/raw/main/data-raw/{ed_id}_meta.yml")
+ed_meta_yml <- glue("/Users/bbest/github/noaa-iea/ecoidx/data-raw/{ed_id}_meta.yml")
+ed_meta <- read_yaml(ed_meta_yml) # listviewer::jsonedit(ed_meta)
+
+# get data
+ed_data_csv <- glue("https://github.com/noaa-iea/ecoidx/raw/main/data-raw/{ed_id}_raw.csv")
+
+# read csv
+ed_data <- read_csv(ed_data_csv) # View(ed_data)
+
+# match columns in upload to erddap dataset
+up_meta <- list(
+  dataset = list(),
+  columns = list())
+
+# Dataset?
+up_meta$dataset = "cciea_EI_HCI"
+
+# Matching columns in dataset?
+up_meta$columns <- list(
+  time = list(
+    transform      = 'to_time("%Y-%m")', # %>% to_time("%Y-%m")
+    column_dataset = "time"),
+  data = list(
+    column_dataset = "hci_regn1"))
+
+# TODO: transform year to datetime
+
+# Other index(es)?
+up_meta$columns$index <- list(
+  species_cohort = "timeseries")
+
+# Value(s)?
+up_meta$columns$values <- list(
+  density_anomaly = "anomaly")
+# TODO: rename `values` to `metric`
+
+# TODO: Error(s)?
+
+# TODO: column-specific metadata
+# https://oceanview.pfeg.noaa.gov/erddap/info/cciea_EI_HCI/index.html
+# variable	hci_regn1	float
+# attribute	hci_regn1 actual_range	float	0.0, 1.0
+# attribute	hci_regn1	ioos_category	String	Other
+# attribute	hci_regn1	long_name	String	Habitat Compression Index, 43.5-48N
+# attribute	hci_regn1	units
+
+# write 
+write_yaml(up_meta, up_meta_yml)
+up_meta <- read_yaml(up_meta_yml)
+# listviewer::jsonedit(up_meta)
+```
+
+
+
+## TODO: juba/shinyglide
 
 #### TODO: search for unmatched elsewhere
 

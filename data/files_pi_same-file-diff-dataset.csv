@@ -1,0 +1,21 @@
+gd_file,ed_id,path_ok
+allTimeSeriesEcoReg_2021.csv,cciea_HB_AUGMX,TRUE
+allTimeSeriesEcoReg_2021.csv,cciea_HB_FLO1,FALSE
+allTimeSeriesEcoReg_2021.csv,cciea_HB_FLO7,FALSE
+allTimeSeriesEcoReg_2021.csv,cciea_HB_SWE,FALSE
+allTimeSeriesESU_2021.csv,cciea_HB_FLO1_CH,TRUE
+allTimeSeriesESU_2021.csv,cciea_HB_FLO7_CH,FALSE
+CCC.Forage.2020.csv,cciea_EI_FBC,TRUE
+CCC.Forage.2020.csv,cciea_EI_FBC_2020,FALSE
+Domoic_Acid_Monthly_Max_by_state.csv,cciea_EI_DOMACID_MON_clam,TRUE
+Domoic_Acid_Monthly_Max_by_state.csv,cciea_EI_DOMACID_MON_crab,FALSE
+Groundfish Diversity IEA FY2020.csv,cciea_EI_SIMP,TRUE
+Groundfish Diversity IEA FY2020.csv,cciea_EI_SP_RICH,FALSE
+SalmonCombinedChinookCoho.Escapement_2021.csv,cciea_SM_CA_CH_ABND,TRUE
+SalmonCombinedChinookCoho.Escapement_2021.csv,cciea_SM_CA_CO_ABND,FALSE
+SalmonCombinedChinookCoho.Escapement_2021.csv,cciea_SM_ORWA_CH_ABND,FALSE
+SalmonCombinedChinookCoho.Escapement_2021.csv,cciea_SM_ORWA_CO_ABND,FALSE
+SCC.forage.2021.csv,cciea_EI_FBS,TRUE
+SCC.forage.2021.csv,cciea_EI_FBS_2020,FALSE
+Seabird - Yaquina Head diet COMU.2021.csv,cciea_B_AS_DIET,TRUE
+Seabird - Yaquina Head diet COMU.2021.csv,cciea_B_PR_ANOM,FALSE
