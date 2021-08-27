@@ -1,4 +1,4 @@
-# meta-app
+# ecoidx-up
 
 Main Shiny app: [shiny.ecoquants.com/meta](https://shiny.ecoquants.com/meta)
 
