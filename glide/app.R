@@ -3,6 +3,10 @@ librarian::shelf(
   dplyr, DT, ggplot2, glue, here, plotly, purrr, readr, shiny, shinyglide, stringr, tidyr)
 options(readr.show_col_types = FALSE)
 
+# options(error = browser()) # stop on error
+# options(warn = 2)          # turn warnings into errors
+options(warn = 0); .Options$error <- NULL # default
+
 #* variables ----
 dir_ecoidx   <- "/Users/bbest/github/noaa-iea/ecoidx"
 datasets_csv <- file.path(dir_ecoidx, "data-raw/_cciea_datasets.csv")
@@ -62,25 +66,31 @@ ui <- fluidPage(
       selectInput(
         "sel_dataset", "Dataset",
         chs_datasets,
-        selected = "cciea_EI_HCI"),
+        selected = "cciea_EI_FBC_2020"),
       dataTableOutput("tbl_ed")),
     
     screen(
       #* 3. Match columns ----
       h2("3. Match columns"),
       helpText("Please match one or more columns in the original dataset with those available in the uploaded dataset."),
-      uiOutput("ui_match_cols")),
+      uiOutput("ui_match_cols"),
+      actionButton("btn_matched", "Confirm matches")),
     
     screen(
       #* 4. Confirm with plot ----
       h2("4. Confirm with plot"),
       helpText("Before submitting this update, please confirm your data visually."),
       plotlyOutput("plot"),
+      dataTableOutput("tbl_match"),
       actionButton("btn_submit", "Submit"))
     ))
 
 # server ----
 server <- function(input, output) {
+  
+  #* values ----
+  values <- reactiveValues(
+    cols_matched = F)
   
   #* get_d_up() ----
   get_d_up <- reactive({
@@ -88,52 +98,125 @@ server <- function(input, output) {
     read_csv(input$file1$datapath)
   })
   
+  #* get_d_ed() ----
+  get_d_ed <- reactive({
+    req(input$sel_dataset)
+    # input <- list(sel_dataset = "cciea_EI_FBC_2020")
+    ed_csv <- glue("{dir_ecoidx}/data-raw/{input$sel_dataset}_raw.csv")
+    ed_yml <- glue("{dir_ecoidx}/data-raw/{input$sel_dataset}_meta.yml")
+    
+    d_ed <- readr::read_csv(ed_csv, na = c("", "NA", "NaN")) # %>% 
+      #mutate(mean_cpue_dbl = as.double(mean_cpue))
+    m_ed <- yaml::read_yaml(ed_yml)
+    
+    attr(d_ed, "meta") <- m_ed
+    d_ed
+  })
+  
+  #* get_d_match() ----
+  get_d_match <- reactive({
+    
+    d_ed <- get_d_ed()
+    m_ed <- attr(d_ed, "meta")
+    d_ed <- d_ed %>% 
+      mutate(
+        source = "current",
+        time = as.Date(time))
+    
+    cols_match <- tibble(
+      sel_ed = str_subset(names(input), "^sel_match_")) %>% 
+      mutate(
+        col_up = map_chr(sel_ed, ~ input[[.x]]),
+        col_ed = str_replace(sel_ed, "sel_match_", "")) %>% 
+      select(-sel_ed)
+    
+    # TODO: confirm all columns exist and are of proper data type 
+    
+    d_up <- get_d_up() %>% 
+      select(all_of(cols_match$col_up)) %>% 
+      rename_with(~ filter(cols_match, col_up==.x) %>% pull(col_ed)) %>% 
+      mutate(
+        source = "upload",
+        # TODO: dynamically handle time
+        time = as.Date(glue("{time}-01-01"), "%Y-%m-%d"))
+    
+    d_match <- bind_rows(
+      d_ed,
+      d_up)
+    
+    attr(d_match, "meta") <- m_ed
+    d_match
+  })
+  
   #* tbl_up ----
   output$tbl_up <- renderDataTable({
     get_d_up()
   })
   
-  #* get_d_ed() ----
-  get_d_ed <- reactive({
-    req(input$sel_dataset)
-    ed_csv <- glue("{dir_ecoidx}/data-raw/{input$sel_dataset}_raw.csv")
-    #ed_yml <- glue("{dir_ecoidx}/data-raw/{input$sel_dataset}_meta.yml")
-    read_csv(ed_csv)
-  })
-  
   #* tbl_ed ----
   output$tbl_ed <- renderDataTable({
-    get_d_ed()
+    get_d_match()
+  })
+  
+  #* tbl_match ----
+  output$tbl_match <- renderDataTable({
+    get_d_match() 
   })
   
   #* get_match_autoselect() ----
-  get_match_autoselect <- function(col_ed, d_up, d_ed){
+  get_match_autoselect <- function(col_ed, d_up, d_ed, m_ed){
     # d_ed <- read_csv(glue("{dir_ecoidx}/data-raw/cciea_EI_FBN_raw.csv"))
     # d_up <- read_csv(glue("/Users/bbest/github/noaa-iea/meta-app/data/upload/cciea_EI_FBN/NCC.ForageJellies.2021.csv"))
     
-    if (col_ed == "time"){
-      sel <- case_when(
-        "time"       %in% names(d_ed) ~ "time",
-        "year-month" %in% names(d_ed) ~ "year-month",
-        "year"       %in% names(d_ed) ~ "year",
-        "month"      %in% names(d_ed) ~ "month",
-        TRUE ~ NULL)
-      return(sel)
+    # col_ed = "mean_cpue"
+    m_ed <- attr(d_ed, "meta")
+    col_ed_m <- m_ed$columns %>% 
+      keep(~ col_ed %in% .x) %>% 
+      names()
+
+    if (col_ed_m == "time"){
+      col_time <- case_when(
+        "time"       %in% names(d_up) ~ "time",
+        "year-month" %in% names(d_up) ~ "year-month",
+        "year"       %in% names(d_up) ~ "year",
+        "month"      %in% names(d_up) ~ "month")
+      return(col_time)
     }
     
-    cols_idx_all = c(
-      "metric",    # cciea_EI_RREAS_diversity_list
-      "latitude",  # cciea_OC_BEUTI, cciea_OC_CUTI, cciea_OC_SL1
-      "longitude", # cciea_OC_SL1
-      "blob_id",   # cciea_OC_MHW_EV
-      "station",   # cciea_OC_SL1, newportCTD
-      "depth", "project", # newportCTD
-      # read_csv("data-raw/_extra_erddap_indexes.csv") %>%
-      #   distinct(index) %>% pull(index) %>% sort() %>% paste(collapse = '", "') %>% cat()
-      "common_name", "county", "diet_species_cohort", "location", "population", "region", "scientific_name", "site", "species", "species_cohort", "species_group", "taxa", "timeseries", "use_type", "vessel_category")
+    if (col_ed_m == "metrics"){
+      # TODO: handle multiple metrics
+      
+      col_metric <- case_when(
+        "index" %in% names(d_up) ~ "index")
+      return(col_metric)
+    }
+     
+    if (col_ed_m == "indices"){
+      # TODO: handle multiple indices
+      
+      cols_idx_all = c(
+        "metric",    # cciea_EI_RREAS_diversity_list
+        "latitude",  # cciea_OC_BEUTI, cciea_OC_CUTI, cciea_OC_SL1
+        "longitude", # cciea_OC_SL1
+        "blob_id",   # cciea_OC_MHW_EV
+        "station",   # cciea_OC_SL1, newportCTD
+        "depth", "project", # newportCTD
+        # read_csv("data-raw/_extra_erddap_indexes.csv") %>%
+        #   distinct(index) %>% pull(index) %>% sort() %>% paste(collapse = '", "') %>% cat()
+        "common_name", "county", "diet_species_cohort", "location", "population", "region", "scientific_name", "site", "species", "species_cohort", "species_group", "taxa", "timeseries", "use_type", "vessel_category")
+      
+      cols_idx <- intersect(names(d_up), cols_idx_all) 
+      if (length(cols_idx) > 0)
+        return(cols_idx[1])
+    }
     
-    # cols_idx = intersect(names(d), cols_idx_all)
-    intersect(names(d), cols_idx_all) 
+    if (col_ed_m == "errors"){
+      i <- which(tolower(names(d_up)) == tolower(col_ed))
+      if (length(i) == 1)
+        return(names(d_up)[i])
+    }
+    
+    NA
     }
 
   #* ui_match_cols ----
@@ -147,6 +230,8 @@ server <- function(input, output) {
     cols_up <- c("", names(d_up))
     
     for (col_ed in names(d_ed)){
+      # if(col_ed == "time") browser() # DEBUG
+      
       ctls <- append(
         ctls, 
         list(
@@ -160,41 +245,41 @@ server <- function(input, output) {
     
   })
   
+  #* btn_matched ----
+  observeEvent(input$btn_matched, {
+    values$cols_matched = T
+  })
+  
   #* plot ----
   # TODO: select variable
   # TODO: augment with variability
   output$plot <- renderPlotly({
-    n_matches <- sum(nchar(map_chr(str_subset(names(input), "^sel_match_"), function(x) input[[x]])) > 1)
+    #n_matches <- sum(nchar(map_chr(str_subset(names(input), "^sel_match_"), function(x) input[[x]])) > 1)
     # TODO: reactive condition on whether time, index and at least 1 value matched
-    req(input$file1, input$sel_dataset, n_matches > 1)
-    
-    #browser()
+    req(input$file1, input$sel_dataset, values$cols_matched)
 
-    d_ed2 <- get_d_ed() %>% 
-    #d_ed2 <- read_csv(glue("{dir_ecoidx}/data-raw/cciea_EI_HCI_raw.csv")) %>% 
-      select(time, hci_regn1) %>% 
-      mutate(
-        source = "current",
-        time = as.Date(time))
+    d_P <- get_d_match()
+    m_ed <- attr(d_P, "meta")
+    z <- m_ed$columns
     
-    d_up2 <- get_d_up() %>% 
-    #d_up2 <- read_csv(glue("/Users/bbest/github/noaa-iea/meta-app/data/upload/cciea_EI_HCI_new/ei_hci_rgn1_M.csv")) %>% 
-      select(time, hci_regn1 = data) %>% 
-      mutate(
-        source = "upload",
-        time = as.Date(glue("{time}-01"), "%Y-%m-%d"))
+    # TODO: filter by indexes
+    d_p <- d_P %>% 
+      filter(species_group == d_P$species_group[1]) %>% 
+      select(all_of(c(z$time, z$metrics[1], "source"))) %>% 
+      arrange(time, source)
     
-    d_p <- bind_rows(
-      d_ed2,
-      d_up2)
+    # browser()
 
-    p <- ggplot(d_p, aes(x=time, y=hci_regn1, group=source, color=source, size=source)) + 
-      geom_line() + 
-      #geom_point() +
-      scale_color_manual(values = c(
-        "current" = "blue", "upload" = "red")) +
-      scale_size_manual(values = c(
-        "current" = 0.5, "upload" = 0.2)) # + 
+    p <- ggplot(
+      d_p,
+      aes_string(
+        x = z$time, y = z$metrics[1])) +
+      geom_line(
+        data = subset(d_p, source == "current"),
+        color = "blue", size = 0.5) +
+      geom_line(
+        data = subset(d_p, source == "upload"), 
+        color = "red", size = 0.2)
       # theme(
       #   legend.position = c(1, 1),
       #   #legend.direction="horizontal", 
