@@ -289,6 +289,43 @@ up_meta <- read_yaml(up_meta_yml)
 # listviewer::jsonedit(up_meta)
 ```
 
+## Components
+
+```{r, eval = F}
+d_cmp <- readxl::read_excel("/Users/bbest/Desktop/ERDDAP_CCIEA_database_2021.20210317.xlsx", "Indicator Metadata") %>% 
+  select(dataset_id=`ERDDAP Dataset ID`,	component=`Component Section`) %>% 
+  group_by(dataset_id) %>% 
+  summarize(
+    component = first(component)) %>% 
+  mutate(
+    cmp = str_replace(dataset_id, "cciea_([A-Z]+).*", "\\1")) %>% 
+  group_by(cmp) %>% 
+  summarize(
+    component = first(component)) %>% 
+  filter(!is.na(cmp))
+
+dir_ecoidx <- "/Users/bbest/github/noaa-iea/ecoidx"
+datasets_csv <- file.path(dir_ecoidx, "data-raw/_cciea_datasets.csv")
+d_datasets <- read_csv(datasets_csv, show_col_types = F) %>% 
+  mutate(
+    cmp = str_replace(dataset_id, "cciea_([A-Z]+).*", "\\1"))
+d_other <- d_datasets %>% 
+  anti_join(
+    d_cmp,
+    by = "cmp") %>% 
+  select(cmp) %>% 
+  mutate(
+    component = "Newport Hydrographic Line")
+
+d_cmp <- bind_rows(
+  d_cmp,
+  d_other)
+
+d_cmp <- d_cmp %>% 
+  arrange(cmp, component)
+
+write_csv(d_cmp, "data/lut_components.csv")
+```
 
 
 ## TODO: juba/shinyglide
