@@ -1,6 +1,6 @@
 # global ----
 librarian::shelf(
-  dplyr, DT, ggplot2, glue, here, plotly, purrr, readr, shiny, shinyglide, stringr, tidyr)
+  dplyr, DT, ggplot2, glue, googleAuthR, here, plotly, purrr, readr, shiny, shinyglide, stringr, tidyr)
 options(readr.show_col_types = FALSE)
 
 # options(error = browser()) # stop on error
@@ -8,9 +8,13 @@ options(readr.show_col_types = FALSE)
 options(warn = 0); .Options$error <- NULL # default
 
 #* variables ----
-dir_ecoidx   <- "/Users/bbest/github/noaa-iea/ecoidx"
+#dir_ecoidx   <- "/Users/bbest/github/noaa-iea/ecoidx"
+dir_ecoidx   <- "/share/github/ecoidx"
 datasets_csv <- file.path(dir_ecoidx, "data-raw/_cciea_datasets.csv")
 lut_cmp_csv  <- here("data/lut_components.csv")
+
+# * [Client ID for Web application – APIs & Services – iea-uploader – Google API Console](https://console.cloud.google.com/apis/credentials/oauthclient/596429062120-ko4kk0or16f1iju41rok8jc7ld0mmuch.apps.googleusercontent.com?authuser=2&project=iea-uploader)
+options(googleAuthR.webapp.client_id = "596429062120-ko4kk0or16f1iju41rok8jc7ld0mmuch.apps.googleusercontent.com")
 
 #* load dataset choices ----
 d_cmp <- read_csv(lut_cmp_csv)
@@ -43,9 +47,14 @@ for (component in d$component){ # component = d$component[1]
 # ui ----
 ui <- fluidPage(
   titlePanel("CCIEA Upload"),
+  googleSignInUI("gar"),
+  with(
+    tags, 
+    dl(dt("Name"), dd(textOutput("g_name")),
+       dt("Email"), dd(textOutput("g_email")),
+       dt("Image"), dd(uiOutput("g_image")) )),
   glide(
     #height = "350px",
-    
     screen(
       #* 1. Upload csv ----
       h2("1. Upload file"),
@@ -86,7 +95,15 @@ ui <- fluidPage(
     ))
 
 # server ----
-server <- function(input, output) {
+server <- function(input, output, session) {
+  
+  #* login ----
+  sign_ins <- shiny::callModule(googleSignIn, "demo")
+  
+  output$g_name  = renderText({ input[["gar-g_name"]] })
+  output$g_email = renderText({ input[["gar-g_email"]] })
+  output$g_image = renderUI({ img(src=input[["gar-g_image"]]) })
+  
   
   #* values ----
   values <- reactiveValues(
