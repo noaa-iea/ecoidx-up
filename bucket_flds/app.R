@@ -4,8 +4,8 @@ librarian::shelf(
 
 options(readr.show_col_types = FALSE)
 d_source <- readr::read_csv(here::here("data/upload/cciea_EI_FBC/CCC.Forage.2020.csv"))
-#d_target <- readr::read_csv("/share/github/ecoidx/data-raw/cciea_EI_FBC_2020_raw.csv")
-d_target <- readr::read_csv(here::here("data/upload/cciea_EI_COP/IEA_NoSoCopeAnom_SppRichness.2021.csv"))
+d_target <- readr::read_csv("/share/github/ecoidx/data-raw/cciea_EI_FBC_2020_raw.csv")
+#d_target <- readr::read_csv(here::here("data/upload/cciea_EI_COP/IEA_NoSoCopeAnom_SppRichness.2021.csv"))
 
 # paste(colnames(d_target), collapse=", ")
 # time, species_group, mean_cpue, Seup, Selo
@@ -42,10 +42,12 @@ colnames_to_target_sortables <- function(df){
       sortable_js(
         glue("sort_target_{fld}"),
         options = sortable_options(
-          group = list(
-            group = "sortGroup1",
-            put = htmlwidgets::JS("function (to) { return to.el.children.length < 1; }"),
-            pull = TRUE),
+          multiDrag = T,
+          group = "name",
+          # group = list(
+          #   group = "sortGroup1",
+          #   put = htmlwidgets::JS("function (to) { return to.el.children.length < 1; }"),
+          #   pull = TRUE),
           onSort = sortable_js_capture_input(glue("sort_target_{fld}")))) }) }
 
 ui <- fluidPage(
@@ -81,10 +83,12 @@ ui <- fluidPage(
   sortable_js(
     "sort1",
     options = sortable_options(
-      group = list(
-        name = "sortGroup1",
-        put = TRUE
-      ),
+      multiDrag = T,
+      group = "name",
+      # group = list(
+      #   name = "sortGroup1",
+      #   put = TRUE
+      # ),
       sort = FALSE,
       onSort = sortable_js_capture_input("sort_vars"))),
   colnames_to_target_sortables(d_target)
@@ -93,8 +97,9 @@ ui <- fluidPage(
 server <- function(input, output) {
   output$variables <- renderPrint({
 
-    in_vars <- names(input) %>% str_subset("^sort_target_.*")
-    in_vals <- purrr::map_chr(in_vars, function(x) input[[x]])
+    #browser()
+    in_vars <- names(input) %>% stringr::str_subset("^sort_target_.*")
+    in_vals <- purrr::map_chr(in_vars, function(x) input[[x]] %>% paste(collapse = " + "))
     return(glue("{in_vars}: {in_vals}"))
 
   })
