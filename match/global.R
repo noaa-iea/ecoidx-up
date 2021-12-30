@@ -1,5 +1,7 @@
 librarian::shelf(
-  dplyr, DT, ggplot2, glue, googleAuthR, here, plotly, purrr, readr, shiny, shinyglide, stringr, tidyr)
+  dplyr, DT, ggplot2, glue, googleAuthR, htmlwidgets,
+  here, plotly, purrr, readr, shiny, shinyglide, sortable, stringr, tidyr)
+
 options(readr.show_col_types = FALSE)
 
 # options(error = browser()) # stop on error
@@ -42,3 +44,57 @@ for (component in d$component){ # component = d$component[1]
       pull(data) %>% .[[1]],
     setNames(dataset_id, title)))
 }
+
+# [CSV time series data formatting instructions - Google Docs](https://docs.google.com/document/d/1ihs8fY92cKD8thSe4tMm9jgjV0At_Brq3fMXUXw4eEw/edit)
+flds_std <- c(
+  "year", "metric", "timeseries", "index", # required
+  "SD", "SE", "SElo", "SEup")              # optional
+                                           # all other fields
+
+colnames_to_tags <- function(df){
+  flds <- ifelse(is.data.frame(df), colnames(df), df)
+  
+  lapply(
+    flds,
+    function(fld) { # co = colnames(df)[1]
+      tag(
+        "p",
+        list(
+          #class = class(df[[fld]]),
+          tags$span(class = "glyphicon glyphicon-move"),
+          tags$strong(fld))) })}
+
+colnames_to_target <- function(df){
+  flds <- ifelse( is.data.frame(df), colnames(df), df)
+  
+  lapply(
+    flds,
+    function(fld) {
+      tags$div(
+        class = "panel panel-default",
+        tags$div(
+          class = "panel-heading",
+          tags$span(class = "glyphicon glyphicon-stats"),
+          fld),
+        tags$div(
+          class = "panel-body",
+          id = glue::glue("sort_target_{fld}"))) }) }
+
+colnames_to_target_sortables <- function(df){
+  flds <- ifelse( is.data.frame(df), colnames(df), df)
+  
+  lapply(
+    flds,
+    function(fld) {
+      sortable_js(
+        glue("sort_target_{fld}"),
+        options = sortable_options(
+          multiDrag = T,
+          group = "name",
+          # group = list(
+          #   group = "sortGroup1",
+          #   put = htmlwidgets::JS("function (to) { return to.el.children.length < 1; }"),
+          #   pull = TRUE),
+          onSort = sortable_js_capture_input(glue("sort_target_{fld}")))) }) }
+
+
