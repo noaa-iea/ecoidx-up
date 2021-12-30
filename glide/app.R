@@ -11,17 +11,23 @@ options(readr.show_col_types = FALSE)
 options(warn = 0); .Options$error <- NULL # default
 
 #* variables ----
-#dir_ecoidx   <- "/Users/bbest/github/noaa-iea/ecoidx"
+#dir_ecoidx   <- 
 dir_ecoidx   <- "/share/github/ecoidx"
+if (!dir.exists(dir_ecoidx)){
+  dir_ecoidx <- "/Users/bbest/github/noaa-iea/ecoidx"
+  if (!dir.exists(dir_ecoidx))
+    stop("missing dir_ecoidx")
+}
 datasets_csv <- file.path(dir_ecoidx, "data-raw/_cciea_datasets.csv")
 lut_cmp_csv  <- here("data/lut_components.csv")
 
-# * [Client ID for Web application – APIs & Services – iea-uploader – Google API Console](https://console.cloud.google.com/apis/credentials/oauthclient/596429062120-ko4kk0or16f1iju41rok8jc7ld0mmuch.apps.googleusercontent.com?authuser=2&project=iea-uploader)
+# * [Client ID for Web application – APIs & Services – iea-uploader – Google API Console](https://console.cloud.google.com/apis/credentials/oauthclient/596429062120-ko4kk0or16f1iju41rok8jc7ld0mmuch.apps.googleusercontent.com?authuser=1&project=iea-uploader)
 options(googleAuthR.webapp.client_id = "596429062120-ko4kk0or16f1iju41rok8jc7ld0mmuch.apps.googleusercontent.com")
 
 gsheets_sa_json <- switch(
   Sys.info()[["effective_user"]],
-  bbest = "/Users/bbest/My Drive (ben@ecoquants.com)/private/iea-uploader-6ad8e5a412dc_google-service-account.json")
+  bbest = "/Users/bbest/My Drive (ben@ecoquants.com)/private/iea-uploader-6ad8e5a412dc_google-service-account.json",
+  "/share/iea-uploader-6ad8e5a412dc_google-service-account.json")
 gsheet <- "https://docs.google.com/spreadsheets/d/1F8H2UFcajLVqq_MIPS0YAUt3ZnSSJP7cZ1hxCsMLW4g/edit"
 
 # ensure secret JSON file exists
@@ -380,4 +386,6 @@ server <- function(input, output, session) {
     ggplotly(p)
   })
 }
-shinyApp(ui, server)
+shinyApp(ui, server, options = list(port = ifelse(interactive(), 7445, 80)))
+# then update URL to localhost to for Google auth to work, per
+#   [hack](https://github.com/MarkEdmondson1234/googleAuthR/issues/142#issuecomment-477231764)
