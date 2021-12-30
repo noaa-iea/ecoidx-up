@@ -54,3 +54,23 @@ eml_raw <- readLines(eml_xml) %>%
 ```xml
 `r eml_raw`
 ```
+
+## CCIEA dataset
+
+```{r}
+shelf(EML, glue, readr, shinyjs, yaml)
+
+dir_ecoidx   <- "/Users/bbest/github/noaa-iea/ecoidx"
+
+id_ed  <- "cciea_EI_FBC_2020"
+ed_csv <- glue("{dir_ecoidx}/data-raw/{id_ed}_raw.csv")
+ed_yml <- glue("{dir_ecoidx}/data-raw/{id_ed}_meta.yml")
+
+d_ed <- read_csv(ed_csv, na = c("", "NA", "NaN"), show_col_types = F)
+m_ed <- read_yaml(ed_yml)
+
+# shiny_attributes(d_ed)
+```
+
+
+

@@ -1,6 +1,9 @@
 # global ----
 librarian::shelf(
-  dplyr, DT, ggplot2, glue, googleAuthR, here, plotly, purrr, readr, shiny, shinyglide, stringr, tidyr)
+  dplyr, DT, ggplot2, glue, 
+  googleAuthR, googlesheets4,
+  here, plotly, purrr, 
+  readr, shiny, shinyglide, stringr, tidyr)
 options(readr.show_col_types = FALSE)
 
 # options(error = browser()) # stop on error
@@ -15,6 +18,20 @@ lut_cmp_csv  <- here("data/lut_components.csv")
 
 # * [Client ID for Web application – APIs & Services – iea-uploader – Google API Console](https://console.cloud.google.com/apis/credentials/oauthclient/596429062120-ko4kk0or16f1iju41rok8jc7ld0mmuch.apps.googleusercontent.com?authuser=2&project=iea-uploader)
 options(googleAuthR.webapp.client_id = "596429062120-ko4kk0or16f1iju41rok8jc7ld0mmuch.apps.googleusercontent.com")
+
+gsheets_sa_json <- switch(
+  Sys.info()[["effective_user"]],
+  bbest = "/Users/bbest/My Drive (ben@ecoquants.com)/private/iea-uploader-6ad8e5a412dc_google-service-account.json")
+gsheet <- "https://docs.google.com/spreadsheets/d/1F8H2UFcajLVqq_MIPS0YAUt3ZnSSJP7cZ1hxCsMLW4g/edit"
+
+# ensure secret JSON file exists
+stopifnot(file.exists(gsheets_sa_json))
+
+# authenticate to GoogleSheets using Google Service Account's secret JSON
+gs4_auth(path = gsheets_sa_json)
+
+#sheet_names(gsheet)
+g <- read_sheet(gsheet, "Indicator Metadata")
 
 #* load dataset choices ----
 d_cmp <- read_csv(lut_cmp_csv)
@@ -91,19 +108,30 @@ ui <- fluidPage(
       helpText("Before submitting this update, please confirm your data visually."),
       plotlyOutput("plot"),
       dataTableOutput("tbl_match"),
-      actionButton("btn_submit", "Submit"))
-    ))
+      actionButton("btn_submit", "Submit")),
+
+    screen(
+      #* 5. Enter Metadata ----
+      h2("5. Enter Metadata"),
+      textAreaInput(
+        "txt_src",
+        "Source Data"),
+      textAreaInput(
+        "txt_calcs",
+        "Additional Calculations"),
+      actionButton(
+        "btn_savemeta", "Save Metadata", icon=icon("fas fa-save")))
+))
 
 # server ----
 server <- function(input, output, session) {
-  
+
   #* login ----
   sign_ins <- shiny::callModule(googleSignIn, "demo")
   
   output$g_name  = renderText({ input[["gar-g_name"]] })
   output$g_email = renderText({ input[["gar-g_email"]] })
   output$g_image = renderUI({ img(src=input[["gar-g_image"]]) })
-  
   
   #* values ----
   values <- reactiveValues(
@@ -274,6 +302,44 @@ server <- function(input, output, session) {
   observeEvent(input$btn_matched, {
     values$cols_matched = T
   })
+  
+  #* observe id, update metadata txt_* ----
+  observeEvent(input$sel_dataset, {
+    req(input$sel_dataset)
+    
+    id <- input$sel_dataset
+    cid <- glue("cciea_{id}")
+    
+    d <- filter(g, `ERDDAP Dataset ID` == id) %>% slice(1)
+    
+    updateTextAreaInput(
+      session,
+      "txt_src",
+       value = d$`Source Data`)
+    
+    updateTextAreaInput(
+      session,
+      "txt_calcs",
+       value = d$`Additional Calculations`)
+  })
+  
+  #* observe btn_savemeta, update gsheet ----
+  observeEvent(
+    input$btn_savemeta,{
+    
+      i <- which(g$`ERDDAP Dataset ID` == input$sel_dataset)[1] + 1
+      
+      range_write(ss = gsheet, data = tibble(
+          `Source Data` = input$txt_src), 
+        sheet = "Indicator Metadata", col_names = F,
+        range = glue("Z{i}"))
+                  
+      range_write(ss = gsheet, data = tibble(
+          `Additional Calculations` = input$txt_calcs), 
+        sheet = "Indicator Metadata", col_names = F,
+        range = glue("AA{i}"))
+      
+    })
   
   #* plot ----
   # TODO: select variable
